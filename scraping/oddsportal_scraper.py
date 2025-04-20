@@ -1,5 +1,3 @@
-# scraping/oddsportal_scraper.py
-
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -8,7 +6,8 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 import time
 
-# Convert American odds to decimal (if needed in future)
+
+# Convert American odds to decimal (for future use)
 def american_to_decimal(odd_str):
     try:
         odd_str = odd_str.strip()
@@ -21,31 +20,31 @@ def american_to_decimal(odd_str):
     except:
         return None
 
+
 # Set up Chrome driver
 def init_driver():
     options = Options()
-    # Uncomment if you want headless scraping
     # options.add_argument("--headless")
     options.add_argument("--disable-blink-features=AutomationControlled")
     return webdriver.Chrome(options=options)
 
-def scrape_first_page(season):
-    url = f"https://www.oddsportal.com/soccer/england/premier-league-{season}/results/"
-    driver = init_driver()
-    driver.get(url)
 
-    print("✅ Please accept cookies if prompted...")
+# Scroll to load all matches on the current page
+def scroll_to_bottom(driver):
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    while True:
+        driver.execute_script("window.scrollBy(0, 1000);")
+        time.sleep(0.5)
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        if new_height == last_height:
+            break
+        last_height = new_height
+    time.sleep(2)
 
-    try:
-        WebDriverWait(driver, 20).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r"))
-        )
-    except:
-        print("❌ Match containers not found.")
-        driver.quit()
-        return pd.DataFrame()
 
-    time.sleep(5)
+# Extract all match data from the current page
+def parse_page_matches(driver, season):
+    scroll_to_bottom(driver)
 
     match_blocks = driver.find_elements(By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r")
     print(f"🔍 Found {len(match_blocks)} match blocks")
@@ -58,7 +57,6 @@ def scrape_first_page(season):
             # Get team names
             team_tags = block.find_elements(By.CSS_SELECTOR, "p.participant-name")
             if len(team_tags) != 2:
-                print("❌ Skipping: Could not find both team names")
                 continue
             home_team = team_tags[0].text.strip()
             away_team = team_tags[1].text.strip()
@@ -67,10 +65,9 @@ def scrape_first_page(season):
             result_el = block.find_element(By.CSS_SELECTOR, "div.text-gray-dark.relative.flex")
             result = result_el.text.strip().replace('\n', '').replace('–', '-')
 
-            # Get odds (first 3 p tags with .height-content)
+            # Get odds
             odds_els = block.find_elements(By.CSS_SELECTOR, "p.height-content")
             if len(odds_els) < 3:
-                print(f"❌ Skipping {home_team} vs {away_team}: Not enough odds")
                 continue
             h_odd = float(odds_els[0].text.strip())
             d_odd = float(odds_els[1].text.strip())
@@ -92,11 +89,64 @@ def scrape_first_page(season):
             print(f"❌ Error parsing match: {e}")
             continue
 
-    driver.quit()
-    return pd.DataFrame(data)
+    return data
 
+
+# Scrape all result pages for a given season
+def scrape_all_pages(season):
+    url = f"https://www.oddsportal.com/soccer/england/premier-league-{season}/results/"
+    driver = init_driver()
+    driver.get(url)
+
+    print("✅ Please accept cookies if prompted...")
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r"))
+    )
+
+    time.sleep(4)
+    all_data = []
+    page = 1
+
+    while True:
+        print(f"\n📄 Scraping Page {page}...")
+        all_data += parse_page_matches(driver, season)
+
+        try:
+            # Scroll to pagination, not all the way down
+            driver.execute_script("window.scrollBy(0, 500);")
+            time.sleep(1)
+
+            next_button = None
+            all_links = driver.find_elements(By.CSS_SELECTOR, "a.pagination-link")
+
+            for link in all_links:
+                if link.text.strip().lower() == "next":
+                    next_button = link
+                    break
+
+            if next_button:
+                driver.execute_script("arguments[0].scrollIntoView(true);", next_button)
+                time.sleep(0.5)
+                print("➡️ Clicking 'Next' with JavaScript...")
+                driver.execute_script("arguments[0].click();", next_button)
+                page += 1
+                time.sleep(4)
+            else:
+                print("❌ No more pages found.")
+                break
+
+        except Exception as e:
+            print(f"❌ Error clicking next: {e}")
+            break
+
+    driver.quit()
+    return pd.DataFrame(all_data)
+
+
+# Run the full scrape
 if __name__ == "__main__":
-    df = scrape_first_page("2020-2021")
-    print("\n📄 Final DataFrame Preview:")
+    season = "2020-2021"
+    df = scrape_all_pages(season)
+    print("\n📊 Final DataFrame Preview:")
     print(df.head())
-    df.to_csv("data/2020-2021_page1.csv", index=False)
+    df.to_csv(f"data/{season}_full.csv", index=False)

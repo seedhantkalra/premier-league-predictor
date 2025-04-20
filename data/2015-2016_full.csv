@@ -1,0 +1,366 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2015/2016,Unknown,Manchester Utd vs Bournemouth,3-1,-204.0,359.0,603.0
+2015/2016,Unknown,Arsenal vs Aston Villa,4-0,-909.0,1030.0,2260.0
+2015/2016,Unknown,Chelsea vs Leicester,1-1,100.0,288.0,264.0
+2015/2016,Unknown,Everton vs Norwich,3-0,-139.0,321.0,366.0
+2015/2016,Unknown,Newcastle vs Tottenham,5-1,416.0,309.0,-147.0
+2015/2016,Unknown,Southampton vs Crystal Palace,4-1,-370.0,551.0,1019.0
+2015/2016,Unknown,Stoke vs West Ham,2-1,198.0,287.0,127.0
+2015/2016,Unknown,Swansea vs Manchester City,1-1,594.0,399.0,-222.0
+2015/2016,Unknown,Watford vs Sunderland,2-2,-156.0,332.0,424.0
+2015/2016,Unknown,West Brom vs Liverpool,1-1,159.0,258.0,171.0
+2015/2016,Unknown,Liverpool vs Chelsea,1-1,-145.0,330.0,376.0
+2015/2016,Unknown,Norwich vs Watford,4-2,-118.0,290.0,326.0
+2015/2016,Unknown,Sunderland vs Everton,3-0,-119.0,290.0,326.0
+2015/2016,Unknown,West Ham vs Manchester Utd,3-2,204.0,259.0,134.0
+2015/2016,Unknown,Liverpool vs Watford,2-0,-182.0,338.0,519.0
+2015/2016,Unknown,Manchester City vs Arsenal,2-2,122.0,257.0,229.0
+2015/2016,Unknown,Tottenham vs Southampton,1-2,120.0,242.0,247.0
+2015/2016,Unknown,Leicester vs Everton,3-1,-116.0,293.0,296.0
+2015/2016,Unknown,Aston Villa vs Newcastle,0-0,405.0,303.0,-143.0
+2015/2016,Unknown,Bournemouth vs West Brom,1-1,-110.0,261.0,326.0
+2015/2016,Unknown,Crystal Palace vs Stoke,2-1,102.0,247.0,300.0
+2015/2016,Unknown,Sunderland vs Chelsea,3-2,216.0,258.0,127.0
+2015/2016,Unknown,West Ham vs Swansea,1-4,-294.0,459.0,828.0
+2015/2016,Unknown,Norwich vs Manchester Utd,0-1,291.0,249.0,102.0
+2015/2016,Unknown,Chelsea vs Tottenham,2-2,156.0,250.0,177.0
+2015/2016,Unknown,Southampton vs Manchester City,4-2,142.0,248.0,199.0
+2015/2016,Unknown,Manchester Utd vs Leicester,1-1,100.0,250.0,330.0
+2015/2016,Unknown,Swansea vs Liverpool,3-1,249.0,252.0,116.0
+2015/2016,Unknown,Arsenal vs Norwich,1-0,-400.0,540.0,1172.0
+2015/2016,Unknown,Everton vs Bournemouth,2-1,141.0,266.0,189.0
+2015/2016,Unknown,Newcastle vs Crystal Palace,1-0,112.0,247.0,263.0
+2015/2016,Unknown,Stoke vs Sunderland,1-1,195.0,236.0,150.0
+2015/2016,Unknown,Watford vs Aston Villa,3-2,-137.0,277.0,429.0
+2015/2016,Unknown,West Brom vs West Ham,0-3,292.0,250.0,102.0
+2015/2016,Unknown,Tottenham vs West Brom,1-1,-476.0,601.0,1404.0
+2015/2016,Unknown,Leicester vs Swansea,4-0,-143.0,280.0,450.0
+2015/2016,Unknown,Sunderland vs Arsenal,0-0,441.0,319.0,-156.0
+2015/2016,Unknown,Aston Villa vs Southampton,2-4,584.0,324.0,-189.0
+2015/2016,Unknown,Bournemouth vs Chelsea,1-4,242.0,262.0,114.0
+2015/2016,Unknown,Liverpool vs Newcastle,2-2,-196.0,366.0,551.0
+2015/2016,Unknown,Manchester City vs Stoke,4-0,-333.0,495.0,967.0
+2015/2016,Unknown,Arsenal vs West Brom,2-0,-400.0,536.0,1205.0
+2015/2016,Unknown,Liverpool vs Everton,4-0,-145.0,304.0,419.0
+2015/2016,Unknown,Manchester Utd vs Crystal Palace,2-0,-233.0,361.0,758.0
+2015/2016,Unknown,West Ham vs Watford,3-1,-222.0,369.0,675.0
+2015/2016,Unknown,Newcastle vs Manchester City,1-1,523.0,351.0,-189.0
+2015/2016,Unknown,Stoke vs Tottenham,0-4,387.0,288.0,-133.0
+2015/2016,Unknown,Arsenal vs Crystal Palace,1-1,-303.0,470.0,861.0
+2015/2016,Unknown,Bournemouth vs Liverpool,1-2,165.0,235.0,175.0
+2015/2016,Unknown,Leicester vs West Ham,2-2,-105.0,259.0,311.0
+2015/2016,Unknown,Chelsea vs Manchester City,0-3,160.0,249.0,174.0
+2015/2016,Unknown,Everton vs Southampton,1-1,200.0,237.0,146.0
+2015/2016,Unknown,Manchester Utd vs Aston Villa,1-0,-400.0,509.0,1330.0
+2015/2016,Unknown,Newcastle vs Swansea,3-0,142.0,238.0,206.0
+2015/2016,Unknown,West Brom vs Watford,0-1,137.0,215.0,238.0
+2015/2016,Unknown,Norwich vs Sunderland,0-3,134.0,229.0,229.0
+2015/2016,Unknown,Crystal Palace vs Everton,0-0,170.0,233.0,175.0
+2015/2016,Unknown,Liverpool vs Stoke,4-1,-154.0,295.0,468.0
+2015/2016,Unknown,Tottenham vs Manchester Utd,3-0,-102.0,250.0,309.0
+2015/2016,Unknown,Sunderland vs Leicester,0-2,222.0,225.0,139.0
+2015/2016,Unknown,Manchester City vs West Brom,2-1,-294.0,428.0,919.0
+2015/2016,Unknown,Aston Villa vs Bournemouth,1-2,273.0,248.0,108.0
+2015/2016,Unknown,Crystal Palace vs Norwich,1-0,-110.0,247.0,351.0
+2015/2016,Unknown,Southampton vs Newcastle,3-1,-159.0,309.0,471.0
+2015/2016,Unknown,Swansea vs Chelsea,1-0,209.0,227.0,145.0
+2015/2016,Unknown,Watford vs Everton,1-1,245.0,244.0,120.0
+2015/2016,Unknown,West Ham vs Arsenal,3-3,288.0,281.0,-106.0
+2015/2016,Unknown,Manchester Utd vs Everton,1-0,-103.0,254.0,309.0
+2015/2016,Unknown,Leicester vs Southampton,1-0,134.0,225.0,235.0
+2015/2016,Unknown,Liverpool vs Tottenham,1-1,114.0,248.0,252.0
+2015/2016,Unknown,Arsenal vs Watford,4-0,-286.0,434.0,843.0
+2015/2016,Unknown,Bournemouth vs Manchester City,0-4,288.0,257.0,100.0
+2015/2016,Unknown,Norwich vs Newcastle,3-2,131.0,231.0,234.0
+2015/2016,Unknown,Stoke vs Swansea,2-2,112.0,229.0,284.0
+2015/2016,Unknown,Sunderland vs West Brom,0-0,-101.0,237.0,326.0
+2015/2016,Unknown,West Ham vs Crystal Palace,2-2,-114.0,261.0,344.0
+2015/2016,Unknown,Aston Villa vs Chelsea,0-4,397.0,262.0,-125.0
+2015/2016,Unknown,Manchester City vs Manchester Utd,0-1,-101.0,252.0,305.0
+2015/2016,Unknown,Tottenham vs Bournemouth,3-0,-192.0,323.0,618.0
+2015/2016,Unknown,Newcastle vs Sunderland,1-1,122.0,220.0,268.0
+2015/2016,Unknown,Southampton vs Liverpool,3-2,193.0,210.0,168.0
+2015/2016,Unknown,Swansea vs Aston Villa,1-0,-147.0,280.0,475.0
+2015/2016,Unknown,Chelsea vs West Ham,2-2,-125.0,274.0,375.0
+2015/2016,Unknown,Crystal Palace vs Leicester,0-1,189.0,227.0,160.0
+2015/2016,Unknown,West Brom vs Norwich,0-1,143.0,219.0,220.0
+2015/2016,Unknown,Everton vs Arsenal,0-2,168.0,252.0,164.0
+2015/2016,Unknown,Leicester vs Newcastle,1-0,-179.0,334.0,527.0
+2015/2016,Unknown,Aston Villa vs Tottenham,0-2,628.0,332.0,-196.0
+2015/2016,Unknown,Bournemouth vs Swansea,3-2,100.0,243.0,313.0
+2015/2016,Unknown,Stoke vs Southampton,1-2,174.0,216.0,183.0
+2015/2016,Unknown,Norwich vs Manchester City,0-0,553.0,323.0,-179.0
+2015/2016,Unknown,West Brom vs Manchester Utd,1-0,342.0,244.0,-106.0
+2015/2016,Unknown,Crystal Palace vs Liverpool,1-2,270.0,242.0,112.0
+2015/2016,Unknown,Watford vs Leicester,0-1,198.0,225.0,154.0
+2015/2016,Unknown,Chelsea vs Stoke,1-1,-189.0,325.0,606.0
+2015/2016,Unknown,Everton vs West Ham,2-3,-156.0,316.0,448.0
+2015/2016,Unknown,Manchester City vs Aston Villa,4-0,-526.0,613.0,1750.0
+2015/2016,Unknown,Newcastle vs Bournemouth,1-3,158.0,229.0,190.0
+2015/2016,Unknown,Southampton vs Sunderland,1-1,-164.0,303.0,517.0
+2015/2016,Unknown,Swansea vs Norwich,1-0,114.0,229.0,280.0
+2015/2016,Unknown,Tottenham vs Arsenal,2-2,129.0,243.0,224.0
+2015/2016,Unknown,Liverpool vs Manchester City,3-0,177.0,245.0,161.0
+2015/2016,Unknown,Manchester Utd vs Watford,1-0,-147.0,307.0,459.0
+2015/2016,Unknown,Arsenal vs Swansea,1-2,-333.0,476.0,1045.0
+2015/2016,Unknown,West Ham vs Tottenham,1-0,252.0,247.0,116.0
+2015/2016,Unknown,Aston Villa vs Everton,1-3,446.0,303.0,-152.0
+2015/2016,Unknown,Bournemouth vs Southampton,2-0,184.0,217.0,171.0
+2015/2016,Unknown,Leicester vs West Brom,2-2,-143.0,270.0,450.0
+2015/2016,Unknown,Norwich vs Chelsea,1-2,437.0,286.0,-143.0
+2015/2016,Unknown,Sunderland vs Crystal Palace,2-2,146.0,225.0,209.0
+2015/2016,Unknown,Manchester Utd vs Arsenal,3-2,239.0,235.0,125.0
+2015/2016,Unknown,West Brom vs Crystal Palace,3-2,188.0,212.0,170.0
+2015/2016,Unknown,Leicester vs Norwich,1-0,-169.0,313.0,515.0
+2015/2016,Unknown,Southampton vs Chelsea,1-2,215.0,224.0,143.0
+2015/2016,Unknown,Stoke vs Aston Villa,2-1,-110.0,240.0,365.0
+2015/2016,Unknown,Watford vs Bournemouth,0-0,164.0,225.0,187.0
+2015/2016,Unknown,West Ham vs Sunderland,1-0,-118.0,265.0,350.0
+2015/2016,Unknown,Manchester City vs Tottenham,1-2,112.0,241.0,267.0
+2015/2016,Unknown,Aston Villa vs Liverpool,0-6,455.0,278.0,-145.0
+2015/2016,Unknown,Arsenal vs Leicester,2-1,-147.0,315.0,407.0
+2015/2016,Unknown,Chelsea vs Newcastle,5-1,-270.0,421.0,785.0
+2015/2016,Unknown,Bournemouth vs Stoke,1-3,-108.0,254.0,324.0
+2015/2016,Unknown,Crystal Palace vs Watford,1-2,119.0,224.0,271.0
+2015/2016,Unknown,Everton vs West Brom,0-1,-208.0,338.0,664.0
+2015/2016,Unknown,Norwich vs West Ham,2-2,148.0,229.0,204.0
+2015/2016,Unknown,Swansea vs Southampton,0-1,219.0,218.0,145.0
+2015/2016,Unknown,Sunderland vs Manchester Utd,2-1,405.0,259.0,-127.0
+2015/2016,Unknown,Chelsea vs Manchester Utd,1-1,117.0,220.0,280.0
+2015/2016,Unknown,Bournemouth vs Arsenal,0-2,341.0,261.0,-112.0
+2015/2016,Unknown,Southampton vs West Ham,1-0,-143.0,284.0,443.0
+2015/2016,Unknown,Aston Villa vs Norwich,2-0,146.0,217.0,216.0
+2015/2016,Unknown,Liverpool vs Sunderland,2-2,-222.0,363.0,683.0
+2015/2016,Unknown,Newcastle vs West Brom,1-0,125.0,229.0,249.0
+2015/2016,Unknown,Stoke vs Everton,0-3,187.0,227.0,160.0
+2015/2016,Unknown,Swansea vs Crystal Palace,1-1,131.0,217.0,248.0
+2015/2016,Unknown,Tottenham vs Watford,1-0,-204.0,334.0,638.0
+2015/2016,Unknown,Manchester City vs Leicester,1-3,-164.0,313.0,476.0
+2015/2016,Unknown,Everton vs Newcastle,3-0,-143.0,304.0,403.0
+2015/2016,Unknown,Watford vs Chelsea,0-0,380.0,264.0,-122.0
+2015/2016,Unknown,Crystal Palace vs Bournemouth,1-2,159.0,219.0,195.0
+2015/2016,Unknown,Manchester Utd vs Stoke,3-0,-161.0,280.0,525.0
+2015/2016,Unknown,West Brom vs Swansea,1-1,156.0,204.0,212.0
+2015/2016,Unknown,Arsenal vs Southampton,0-0,-123.0,256.0,390.0
+2015/2016,Unknown,Leicester vs Liverpool,2-0,183.0,224.0,167.0
+2015/2016,Unknown,Norwich vs Tottenham,0-3,379.0,291.0,-133.0
+2015/2016,Unknown,Sunderland vs Manchester City,0-1,577.0,358.0,-200.0
+2015/2016,Unknown,West Ham vs Aston Villa,2-0,-118.0,246.0,384.0
+2015/2016,Unknown,Arsenal vs Chelsea,0-1,127.0,225.0,240.0
+2015/2016,Unknown,Everton vs Swansea,1-2,-135.0,273.0,421.0
+2015/2016,Unknown,West Ham vs Manchester City,2-2,395.0,304.0,-141.0
+2015/2016,Unknown,Crystal Palace vs Tottenham,1-3,266.0,236.0,114.0
+2015/2016,Unknown,Leicester vs Stoke,3-0,-111.0,256.0,344.0
+2015/2016,Unknown,Manchester Utd vs Southampton,0-1,-105.0,237.0,340.0
+2015/2016,Unknown,Sunderland vs Bournemouth,1-1,177.0,231.0,166.0
+2015/2016,Unknown,Watford vs Newcastle,2-1,-103.0,254.0,305.0
+2015/2016,Unknown,West Brom vs Aston Villa,0-0,129.0,212.0,257.0
+2015/2016,Unknown,Norwich vs Liverpool,4-5,312.0,244.0,100.0
+2015/2016,Unknown,Swansea vs Watford,1-0,125.0,225.0,250.0
+2015/2016,Unknown,Stoke vs Arsenal,0-0,235.0,221.0,135.0
+2015/2016,Unknown,Liverpool vs Manchester Utd,0-1,163.0,204.0,206.0
+2015/2016,Unknown,Aston Villa vs Leicester,1-1,258.0,246.0,114.0
+2015/2016,Unknown,Bournemouth vs Norwich,3-0,-111.0,252.0,348.0
+2015/2016,Unknown,Manchester City vs Crystal Palace,4-0,-250.0,401.0,752.0
+2015/2016,Unknown,Newcastle vs West Ham,2-1,135.0,235.0,222.0
+2015/2016,Unknown,Southampton vs West Brom,3-0,-143.0,262.0,492.0
+2015/2016,Unknown,Liverpool vs Arsenal,3-3,161.0,237.0,181.0
+2015/2016,Unknown,Tottenham vs Leicester,0-1,-120.0,266.0,368.0
+2015/2016,Unknown,Chelsea vs West Brom,2-2,-222.0,337.0,752.0
+2015/2016,Unknown,Manchester City vs Everton,0-0,-189.0,349.0,530.0
+2015/2016,Unknown,Southampton vs Watford,2-0,102.0,244.0,301.0
+2015/2016,Unknown,Stoke vs Norwich,3-1,102.0,237.0,305.0
+2015/2016,Unknown,Swansea vs Sunderland,2-4,-119.0,252.0,380.0
+2015/2016,Unknown,Aston Villa vs Crystal Palace,1-0,229.0,219.0,139.0
+2015/2016,Unknown,Bournemouth vs West Ham,1-3,-101.0,264.0,289.0
+2015/2016,Unknown,Newcastle vs Manchester Utd,3-3,391.0,265.0,-125.0
+2015/2016,Unknown,Everton vs Tottenham,1-1,154.0,244.0,184.0
+2015/2016,Unknown,Crystal Palace vs Chelsea,0-3,303.0,247.0,100.0
+2015/2016,Unknown,Watford vs Manchester City,1-2,393.0,296.0,-139.0
+2015/2016,Unknown,Arsenal vs Newcastle,1-0,-435.0,593.0,1146.0
+2015/2016,Unknown,Leicester vs Bournemouth,0-0,-106.0,270.0,325.0
+2015/2016,Unknown,Manchester Utd vs Swansea,2-1,-204.0,319.0,689.0
+2015/2016,Unknown,Norwich vs Southampton,1-0,200.0,217.0,156.0
+2015/2016,Unknown,Sunderland vs Aston Villa,3-1,150.0,216.0,211.0
+2015/2016,Unknown,West Brom vs Stoke,2-1,185.0,209.0,177.0
+2015/2016,Unknown,West Ham vs Liverpool,2-0,313.0,250.0,-103.0
+2015/2016,Unknown,Sunderland vs Liverpool,0-1,468.0,301.0,-156.0
+2015/2016,Unknown,Leicester vs Manchester City,0-0,305.0,286.0,-112.0
+2015/2016,Unknown,Arsenal vs Bournemouth,2-0,-189.0,324.0,585.0
+2015/2016,Unknown,Manchester Utd vs Chelsea,0-0,145.0,221.0,214.0
+2015/2016,Unknown,West Ham vs Southampton,2-1,249.0,231.0,124.0
+2015/2016,Unknown,Crystal Palace vs Swansea,0-0,100.0,231.0,324.0
+2015/2016,Unknown,Everton vs Stoke,3-4,-118.0,259.0,359.0
+2015/2016,Unknown,Watford vs Tottenham,1-2,219.0,236.0,137.0
+2015/2016,Unknown,West Brom vs Newcastle,1-0,116.0,227.0,274.0
+2015/2016,Unknown,Southampton vs Arsenal,4-0,254.0,240.0,117.0
+2015/2016,Unknown,Newcastle vs Everton,0-1,245.0,252.0,116.0
+2015/2016,Unknown,Aston Villa vs West Ham,1-1,149.0,218.0,211.0
+2015/2016,Unknown,Bournemouth vs Crystal Palace,0-0,114.0,243.0,263.0
+2015/2016,Unknown,Chelsea vs Watford,2-2,-200.0,337.0,608.0
+2015/2016,Unknown,Manchester City vs Sunderland,4-1,-500.0,664.0,1300.0
+2015/2016,Unknown,Tottenham vs Norwich,3-0,-222.0,355.0,691.0
+2015/2016,Unknown,Stoke vs Manchester Utd,2-0,261.0,220.0,125.0
+2015/2016,Unknown,Swansea vs West Ham,0-0,104.0,233.0,304.0
+2015/2016,Unknown,Watford vs Liverpool,3-0,260.0,248.0,112.0
+2015/2016,Unknown,Newcastle vs Aston Villa,1-1,100.0,248.0,305.0
+2015/2016,Unknown,Chelsea vs Sunderland,3-1,-312.0,459.0,936.0
+2015/2016,Unknown,Everton vs Leicester,2-3,110.0,269.0,248.0
+2015/2016,Unknown,Manchester Utd vs Norwich,1-2,-233.0,367.0,726.0
+2015/2016,Unknown,Southampton vs Tottenham,0-2,173.0,229.0,173.0
+2015/2016,Unknown,Stoke vs Crystal Palace,1-2,150.0,220.0,208.0
+2015/2016,Unknown,West Brom vs Bournemouth,1-2,175.0,224.0,174.0
+2015/2016,Unknown,Leicester vs Chelsea,2-1,239.0,246.0,121.0
+2015/2016,Unknown,Liverpool vs West Brom,2-2,-233.0,357.0,773.0
+2015/2016,Unknown,Tottenham vs Newcastle,1-2,-270.0,438.0,760.0
+2015/2016,Unknown,Aston Villa vs Arsenal,0-2,540.0,326.0,-182.0
+2015/2016,Unknown,Bournemouth vs Manchester Utd,2-1,224.0,225.0,138.0
+2015/2016,Unknown,Crystal Palace vs Southampton,1-0,137.0,229.0,222.0
+2015/2016,Unknown,Manchester City vs Swansea,2-1,-286.0,438.0,822.0
+2015/2016,Unknown,Sunderland vs Watford,0-1,183.0,223.0,168.0
+2015/2016,Unknown,West Ham vs Stoke,0-0,158.0,222.0,196.0
+2015/2016,Unknown,Norwich vs Everton,1-1,211.0,244.0,136.0
+2015/2016,Unknown,Everton vs Crystal Palace,1-1,110.0,242.0,271.0
+2015/2016,Unknown,Newcastle vs Liverpool,2-0,498.0,334.0,-175.0
+2015/2016,Unknown,Chelsea vs Bournemouth,0-1,-244.0,371.0,758.0
+2015/2016,Unknown,Arsenal vs Sunderland,3-1,-370.0,511.0,1014.0
+2015/2016,Unknown,Manchester Utd vs West Ham,0-0,-222.0,348.0,709.0
+2015/2016,Unknown,Southampton vs Aston Villa,1-1,-204.0,337.0,622.0
+2015/2016,Unknown,Swansea vs Leicester,0-3,154.0,231.0,190.0
+2015/2016,Unknown,Watford vs Norwich,2-0,129.0,237.0,227.0
+2015/2016,Unknown,West Brom vs Tottenham,1-1,363.0,261.0,-119.0
+2015/2016,Unknown,Stoke vs Manchester City,2-0,408.0,280.0,-137.0
+2015/2016,Unknown,Liverpool vs Swansea,1-0,-208.0,341.0,653.0
+2015/2016,Unknown,Norwich vs Arsenal,1-1,487.0,326.0,-169.0
+2015/2016,Unknown,West Ham vs West Brom,1-1,110.0,229.0,286.0
+2015/2016,Unknown,Tottenham vs Chelsea,0-0,163.0,233.0,179.0
+2015/2016,Unknown,Leicester vs Manchester Utd,1-1,212.0,241.0,137.0
+2015/2016,Unknown,Aston Villa vs Watford,2-3,173.0,219.0,179.0
+2015/2016,Unknown,Bournemouth vs Everton,3-3,164.0,250.0,168.0
+2015/2016,Unknown,Crystal Palace vs Newcastle,5-1,-143.0,293.0,420.0
+2015/2016,Unknown,Manchester City vs Southampton,3-1,-182.0,295.0,480.0
+2015/2016,Unknown,Sunderland vs Stoke,2-0,199.0,217.0,156.0
+2015/2016,Unknown,Crystal Palace vs Sunderland,0-1,-185.0,338.0,533.0
+2015/2016,Unknown,Tottenham vs West Ham,4-1,-167.0,320.0,500.0
+2015/2016,Unknown,Manchester City vs Liverpool,1-4,-128.0,275.0,375.0
+2015/2016,Unknown,Chelsea vs Norwich,1-0,-238.0,376.0,731.0
+2015/2016,Unknown,Everton vs Aston Villa,4-0,-149.0,291.0,451.0
+2015/2016,Unknown,Newcastle vs Leicester,0-3,185.0,249.0,149.0
+2015/2016,Unknown,Southampton vs Stoke,0-1,-143.0,273.0,450.0
+2015/2016,Unknown,Swansea vs Bournemouth,2-2,127.0,229.0,242.0
+2015/2016,Unknown,West Brom vs Arsenal,2-1,526.0,324.0,-175.0
+2015/2016,Unknown,Watford vs Manchester Utd,1-2,298.0,231.0,106.0
+2015/2016,Unknown,Arsenal vs Tottenham,1-1,-127.0,292.0,354.0
+2015/2016,Unknown,Liverpool vs Crystal Palace,1-2,-164.0,298.0,516.0
+2015/2016,Unknown,Aston Villa vs Manchester City,0-0,719.0,394.0,-244.0
+2015/2016,Unknown,Stoke vs Chelsea,1-0,334.0,257.0,-110.0
+2015/2016,Unknown,Leicester vs Watford,2-1,-111.0,270.0,324.0
+2015/2016,Unknown,Norwich vs Swansea,1-0,149.0,238.0,195.0
+2015/2016,Unknown,Sunderland vs Southampton,0-1,374.0,282.0,-128.0
+2015/2016,Unknown,West Ham vs Everton,1-1,142.0,250.0,196.0
+2015/2016,Unknown,Bournemouth vs Newcastle,0-1,122.0,252.0,231.0
+2015/2016,Unknown,Tottenham vs Aston Villa,3-1,-256.0,390.0,790.0
+2015/2016,Unknown,Southampton vs Bournemouth,2-0,-185.0,326.0,566.0
+2015/2016,Unknown,Everton vs Sunderland,6-2,-208.0,358.0,632.0
+2015/2016,Unknown,Crystal Palace vs Manchester Utd,0-0,322.0,246.0,-103.0
+2015/2016,Unknown,Manchester City vs Norwich,2-1,-357.0,511.0,1068.0
+2015/2016,Unknown,Newcastle vs Stoke,0-0,137.0,234.0,218.0
+2015/2016,Unknown,Swansea vs Arsenal,0-3,362.0,286.0,-128.0
+2015/2016,Unknown,Watford vs West Ham,2-0,150.0,234.0,194.0
+2015/2016,Unknown,West Brom vs Leicester,2-3,186.0,231.0,160.0
+2015/2016,Unknown,Liverpool vs Southampton,1-1,108.0,246.0,274.0
+2015/2016,Unknown,Bournemouth vs Tottenham,1-5,243.0,243.0,120.0
+2015/2016,Unknown,Manchester Utd vs Manchester City,0-0,162.0,222.0,189.0
+2015/2016,Unknown,Sunderland vs Newcastle,3-0,158.0,231.0,187.0
+2015/2016,Unknown,Arsenal vs Everton,2-1,-256.0,422.0,711.0
+2015/2016,Unknown,Aston Villa vs Swansea,1-2,195.0,224.0,156.0
+2015/2016,Unknown,Leicester vs Crystal Palace,1-0,114.0,252.0,252.0
+2015/2016,Unknown,Norwich vs West Brom,0-1,-106.0,254.0,320.0
+2015/2016,Unknown,Stoke vs Watford,0-2,106.0,237.0,295.0
+2015/2016,Unknown,West Ham vs Chelsea,2-1,301.0,267.0,-105.0
+2015/2016,Unknown,Swansea vs Stoke,0-1,-116.0,259.0,351.0
+2015/2016,Unknown,Newcastle vs Norwich,6-2,144.0,242.0,198.0
+2015/2016,Unknown,Watford vs Arsenal,0-3,450.0,300.0,-161.0
+2015/2016,Unknown,Chelsea vs Aston Villa,2-0,-303.0,449.0,878.0
+2015/2016,Unknown,Crystal Palace vs West Ham,1-3,-118.0,270.0,320.0
+2015/2016,Unknown,Everton vs Manchester Utd,0-3,216.0,240.0,134.0
+2015/2016,Unknown,Manchester City vs Bournemouth,5-1,-294.0,430.0,886.0
+2015/2016,Unknown,Southampton vs Leicester,2-2,-135.0,287.0,388.0
+2015/2016,Unknown,West Brom vs Sunderland,1-0,110.0,229.0,291.0
+2015/2016,Unknown,Tottenham vs Liverpool,0-0,129.0,239.0,227.0
+2015/2016,Unknown,Arsenal vs Manchester Utd,3-0,100.0,275.0,273.0
+2015/2016,Unknown,Swansea vs Tottenham,2-2,174.0,229.0,171.0
+2015/2016,Unknown,Everton vs Liverpool,1-1,220.0,240.0,140.0
+2015/2016,Unknown,Chelsea vs Southampton,1-3,-132.0,270.0,384.0
+2015/2016,Unknown,Aston Villa vs Stoke,0-1,163.0,216.0,193.0
+2015/2016,Unknown,Bournemouth vs Watford,1-1,117.0,233.0,263.0
+2015/2016,Unknown,Manchester City vs Newcastle,6-1,-455.0,605.0,1251.0
+2015/2016,Unknown,Sunderland vs West Ham,2-2,210.0,243.0,137.0
+2015/2016,Unknown,Crystal Palace vs West Brom,2-0,-122.0,254.0,380.0
+2015/2016,Unknown,West Brom vs Everton,2-3,195.0,225.0,156.0
+2015/2016,Unknown,Watford vs Crystal Palace,0-1,156.0,233.0,190.0
+2015/2016,Unknown,Newcastle vs Chelsea,2-2,475.0,315.0,-161.0
+2015/2016,Unknown,Leicester vs Arsenal,2-5,366.0,299.0,-132.0
+2015/2016,Unknown,Liverpool vs Aston Villa,3-2,-200.0,332.0,639.0
+2015/2016,Unknown,Manchester Utd vs Sunderland,3-0,-476.0,603.0,1346.0
+2015/2016,Unknown,Southampton vs Swansea,3-1,-118.0,254.0,371.0
+2015/2016,Unknown,Stoke vs Bournemouth,2-1,144.0,240.0,199.0
+2015/2016,Unknown,West Ham vs Norwich,2-2,124.0,244.0,235.0
+2015/2016,Unknown,Tottenham vs Manchester City,4-1,244.0,250.0,118.0
+2015/2016,Unknown,Liverpool vs Norwich,1-1,-167.0,304.0,512.0
+2015/2016,Unknown,Southampton vs Manchester Utd,2-3,229.0,224.0,136.0
+2015/2016,Unknown,Tottenham vs Crystal Palace,1-0,-108.0,268.0,307.0
+2015/2016,Unknown,Manchester City vs West Ham,1-2,-357.0,519.0,991.0
+2015/2016,Unknown,Aston Villa vs West Brom,0-1,140.0,213.0,235.0
+2015/2016,Unknown,Bournemouth vs Sunderland,2-0,-182.0,359.0,486.0
+2015/2016,Unknown,Newcastle vs Watford,1-2,122.0,239.0,246.0
+2015/2016,Unknown,Stoke vs Leicester,2-2,186.0,233.0,158.0
+2015/2016,Unknown,Swansea vs Everton,0-0,118.0,239.0,254.0
+2015/2016,Unknown,Chelsea vs Arsenal,2-0,158.0,240.0,181.0
+2015/2016,Unknown,West Ham vs Newcastle,2-0,108.0,249.0,269.0
+2015/2016,Unknown,Leicester vs Aston Villa,3-2,-119.0,270.0,350.0
+2015/2016,Unknown,Sunderland vs Tottenham,0-1,329.0,258.0,-110.0
+2015/2016,Unknown,Manchester Utd vs Liverpool,3-1,-106.0,236.0,351.0
+2015/2016,Unknown,Arsenal vs Stoke,2-0,-345.0,494.0,990.0
+2015/2016,Unknown,Crystal Palace vs Manchester City,0-1,380.0,300.0,-133.0
+2015/2016,Unknown,Norwich vs Bournemouth,3-1,139.0,241.0,206.0
+2015/2016,Unknown,Watford vs Swansea,1-0,160.0,227.0,188.0
+2015/2016,Unknown,West Brom vs Southampton,0-0,215.0,227.0,141.0
+2015/2016,Unknown,Everton vs Chelsea,3-1,245.0,247.0,117.0
+2015/2016,Unknown,Swansea vs Manchester Utd,2-1,272.0,237.0,112.0
+2015/2016,Unknown,Southampton vs Norwich,3-0,108.0,235.0,286.0
+2015/2016,Unknown,Tottenham vs Everton,0-0,106.0,248.0,277.0
+2015/2016,Unknown,Bournemouth vs Leicester,1-1,104.0,266.0,266.0
+2015/2016,Unknown,Chelsea vs Crystal Palace,1-2,-270.0,398.0,847.0
+2015/2016,Unknown,Liverpool vs West Ham,0-3,-278.0,416.0,836.0
+2015/2016,Unknown,Manchester City vs Watford,2-0,-476.0,624.0,1367.0
+2015/2016,Unknown,Stoke vs West Brom,0-1,108.0,223.0,305.0
+2015/2016,Unknown,Newcastle vs Arsenal,0-1,465.0,334.0,-169.0
+2015/2016,Unknown,Arsenal vs Liverpool,0-0,-128.0,301.0,349.0
+2015/2016,Unknown,Everton vs Manchester City,0-2,419.0,312.0,-149.0
+2015/2016,Unknown,Watford vs Southampton,0-0,171.0,225.0,177.0
+2015/2016,Unknown,West Brom vs Chelsea,2-3,591.0,321.0,-189.0
+2015/2016,Unknown,Crystal Palace vs Aston Villa,2-1,-125.0,268.0,382.0
+2015/2016,Unknown,Norwich vs Stoke,1-1,116.0,238.0,261.0
+2015/2016,Unknown,Sunderland vs Swansea,1-1,287.0,241.0,106.0
+2015/2016,Unknown,West Ham vs Bournemouth,3-4,161.0,243.0,179.0
+2015/2016,Unknown,Manchester Utd vs Newcastle,0-0,-294.0,429.0,908.0
+2015/2016,Unknown,Liverpool vs Bournemouth,1-0,-196.0,329.0,619.0
+2015/2016,Unknown,Manchester City vs Chelsea,3-0,-102.0,257.0,301.0
+2015/2016,Unknown,Crystal Palace vs Arsenal,1-2,417.0,298.0,-145.0
+2015/2016,Unknown,Sunderland vs Norwich,1-3,187.0,213.0,162.0
+2015/2016,Unknown,Swansea vs Newcastle,2-0,-122.0,271.0,343.0
+2015/2016,Unknown,Tottenham vs Stoke,2-2,-145.0,279.0,434.0
+2015/2016,Unknown,Watford vs West Brom,0-0,102.0,248.0,277.0
+2015/2016,Unknown,West Ham vs Leicester,1-2,134.0,241.0,208.0
+2015/2016,Unknown,Southampton vs Everton,0-3,102.0,247.0,301.0
+2015/2016,Unknown,Aston Villa vs Manchester Utd,0-1,420.0,267.0,-130.0
+2015/2016,Unknown,West Brom vs Manchester City,0-3,496.0,305.0,-161.0
+2015/2016,Unknown,Stoke vs Liverpool,0-1,278.0,243.0,108.0
+2015/2016,Unknown,Arsenal vs West Ham,0-2,-435.0,555.0,1305.0
+2015/2016,Unknown,Newcastle vs Southampton,2-2,202.0,224.0,154.0
+2015/2016,Unknown,Chelsea vs Swansea,2-2,-270.0,380.0,950.0
+2015/2016,Unknown,Bournemouth vs Aston Villa,0-1,-120.0,277.0,351.0
+2015/2016,Unknown,Everton vs Watford,2-2,-125.0,266.0,395.0
+2015/2016,Unknown,Leicester vs Sunderland,4-2,-127.0,272.0,383.0
+2015/2016,Unknown,Manchester Utd vs Tottenham,1-0,-159.0,296.0,490.0

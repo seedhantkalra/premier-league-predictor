@@ -1,0 +1,381 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2011/2012,Unknown,Chelsea vs Blackburn,2-1,-400.0,505.0,994.0
+2011/2012,Unknown,Everton vs Newcastle,3-1,104.0,260.0,239.0
+2011/2012,Unknown,Manchester City vs QPR,3-2,-833.0,764.0,1801.0
+2011/2012,Unknown,Norwich vs Aston Villa,2-0,100.0,244.0,270.0
+2011/2012,Unknown,Stoke vs Bolton,2-2,112.0,276.0,208.0
+2011/2012,Unknown,Sunderland vs Manchester Utd,0-1,606.0,350.0,-227.0
+2011/2012,Unknown,Swansea vs Liverpool,1-0,241.0,245.0,108.0
+2011/2012,Unknown,Tottenham vs Fulham,2-0,-250.0,349.0,696.0
+2011/2012,Unknown,West Brom vs Arsenal,2-3,408.0,300.0,-159.0
+2011/2012,Unknown,Wigan vs Wolves,3-2,-182.0,301.0,500.0
+2011/2012,Unknown,Liverpool vs Chelsea,4-1,106.0,258.0,236.0
+2011/2012,Unknown,Blackburn vs Wigan,0-1,173.0,242.0,149.0
+2011/2012,Unknown,Manchester Utd vs Swansea,2-0,-667.0,637.0,1484.0
+2011/2012,Unknown,Aston Villa vs Tottenham,1-1,312.0,247.0,-114.0
+2011/2012,Unknown,Bolton vs West Brom,2-2,114.0,241.0,233.0
+2011/2012,Unknown,Fulham vs Sunderland,2-1,-145.0,273.0,403.0
+2011/2012,Unknown,QPR vs Stoke,1-0,-135.0,266.0,367.0
+2011/2012,Unknown,Wolves vs Everton,0-0,363.0,274.0,-135.0
+2011/2012,Unknown,Newcastle vs Manchester City,0-2,371.0,298.0,-147.0
+2011/2012,Unknown,Arsenal vs Norwich,3-3,-500.0,559.0,1288.0
+2011/2012,Unknown,Bolton vs Tottenham,1-4,330.0,272.0,-127.0
+2011/2012,Unknown,Chelsea vs Newcastle,0-2,-222.0,348.0,581.0
+2011/2012,Unknown,Liverpool vs Fulham,0-1,-139.0,260.0,397.0
+2011/2012,Unknown,Stoke vs Everton,1-1,202.0,223.0,137.0
+2011/2012,Unknown,Manchester City vs Manchester Utd,1-0,104.0,246.0,257.0
+2011/2012,Unknown,Tottenham vs Blackburn,2-0,-303.0,426.0,764.0
+2011/2012,Unknown,Chelsea vs QPR,6-1,-233.0,338.0,652.0
+2011/2012,Unknown,Norwich vs Liverpool,0-3,345.0,272.0,-132.0
+2011/2012,Unknown,Everton vs Fulham,4-0,-125.0,248.0,365.0
+2011/2012,Unknown,Stoke vs Arsenal,1-1,333.0,250.0,-119.0
+2011/2012,Unknown,Sunderland vs Bolton,2-2,-102.0,244.0,279.0
+2011/2012,Unknown,Swansea vs Wolves,4-4,-200.0,312.0,559.0
+2011/2012,Unknown,West Brom vs Aston Villa,0-0,112.0,231.0,249.0
+2011/2012,Unknown,Wigan vs Newcastle,4-0,162.0,237.0,162.0
+2011/2012,Unknown,Aston Villa vs Bolton,1-2,102.0,236.0,273.0
+2011/2012,Unknown,Liverpool vs West Brom,0-1,-263.0,358.0,739.0
+2011/2012,Unknown,Wolves vs Manchester City,0-2,1355.0,563.0,-526.0
+2011/2012,Unknown,Manchester Utd vs Everton,4-4,-294.0,388.0,815.0
+2011/2012,Unknown,QPR vs Tottenham,1-0,258.0,243.0,104.0
+2011/2012,Unknown,Aston Villa vs Sunderland,0-0,112.0,224.0,258.0
+2011/2012,Unknown,Blackburn vs Norwich,2-0,-106.0,257.0,277.0
+2011/2012,Unknown,Bolton vs Swansea,1-1,136.0,225.0,204.0
+2011/2012,Unknown,Fulham vs Wigan,2-1,-120.0,250.0,338.0
+2011/2012,Unknown,Newcastle vs Stoke,3-0,-147.0,259.0,429.0
+2011/2012,Unknown,Arsenal vs Chelsea,0-0,-114.0,258.0,305.0
+2011/2012,Unknown,Arsenal vs Wigan,1-2,-385.0,459.0,1033.0
+2011/2012,Unknown,Manchester Utd vs Aston Villa,4-0,-526.0,576.0,1366.0
+2011/2012,Unknown,Sunderland vs Wolves,0-0,-196.0,313.0,553.0
+2011/2012,Unknown,Swansea vs Blackburn,3-0,-104.0,241.0,286.0
+2011/2012,Unknown,West Brom vs QPR,1-0,117.0,237.0,229.0
+2011/2012,Unknown,Norwich vs Manchester City,1-6,553.0,321.0,-200.0
+2011/2012,Unknown,QPR vs Swansea,3-0,106.0,236.0,258.0
+2011/2012,Unknown,Manchester City vs West Brom,4-0,-435.0,491.0,1179.0
+2011/2012,Unknown,Wigan vs Manchester Utd,1-0,648.0,345.0,-233.0
+2011/2012,Unknown,Wolves vs Arsenal,0-3,688.0,382.0,-263.0
+2011/2012,Unknown,Blackburn vs Liverpool,2-3,217.0,239.0,123.0
+2011/2012,Unknown,Fulham vs Chelsea,1-1,231.0,234.0,118.0
+2011/2012,Unknown,Aston Villa vs Stoke,1-1,122.0,224.0,235.0
+2011/2012,Unknown,Everton vs Sunderland,4-0,-108.0,236.0,311.0
+2011/2012,Unknown,Newcastle vs Bolton,2-0,-196.0,313.0,538.0
+2011/2012,Unknown,Tottenham vs Norwich,1-2,-345.0,438.0,922.0
+2011/2012,Unknown,Arsenal vs Manchester City,1-0,137.0,238.0,195.0
+2011/2012,Unknown,Manchester Utd vs QPR,2-0,-667.0,633.0,1538.0
+2011/2012,Unknown,Stoke vs Wolves,2-1,-156.0,277.0,441.0
+2011/2012,Unknown,Bolton vs Fulham,0-3,144.0,231.0,186.0
+2011/2012,Unknown,Chelsea vs Wigan,2-1,-312.0,405.0,871.0
+2011/2012,Unknown,Liverpool vs Aston Villa,1-1,-256.0,351.0,760.0
+2011/2012,Unknown,Norwich vs Everton,2-2,195.0,227.0,140.0
+2011/2012,Unknown,West Brom vs Blackburn,3-0,-108.0,247.0,297.0
+2011/2012,Unknown,Sunderland vs Tottenham,0-0,248.0,239.0,110.0
+2011/2012,Unknown,Swansea vs Newcastle,0-2,139.0,233.0,194.0
+2011/2012,Unknown,Blackburn vs Manchester Utd,0-2,695.0,351.0,-250.0
+2011/2012,Unknown,Tottenham vs Swansea,3-1,-256.0,359.0,735.0
+2011/2012,Unknown,Newcastle vs Liverpool,2-0,220.0,244.0,120.0
+2011/2012,Unknown,Aston Villa vs Chelsea,2-4,394.0,254.0,-135.0
+2011/2012,Unknown,Everton vs West Brom,2-0,-133.0,254.0,384.0
+2011/2012,Unknown,Fulham vs Norwich,2-1,-161.0,279.0,463.0
+2011/2012,Unknown,Manchester City vs Sunderland,3-3,-476.0,509.0,1322.0
+2011/2012,Unknown,QPR vs Arsenal,2-1,527.0,309.0,-189.0
+2011/2012,Unknown,Wigan vs Stoke,2-0,146.0,221.0,194.0
+2011/2012,Unknown,Wolves vs Bolton,2-3,129.0,238.0,206.0
+2011/2012,Unknown,Manchester Utd vs Fulham,1-0,-476.0,507.0,1284.0
+2011/2012,Unknown,West Brom vs Newcastle,1-3,-101.0,246.0,272.0
+2011/2012,Unknown,Stoke vs Manchester City,1-1,444.0,254.0,-145.0
+2011/2012,Unknown,Arsenal vs Aston Villa,3-0,-303.0,387.0,886.0
+2011/2012,Unknown,Bolton vs Blackburn,2-1,154.0,229.0,177.0
+2011/2012,Unknown,Liverpool vs Wigan,1-2,-345.0,415.0,1010.0
+2011/2012,Unknown,Norwich vs Wolves,2-1,-132.0,265.0,363.0
+2011/2012,Unknown,Sunderland vs QPR,3-1,110.0,227.0,257.0
+2011/2012,Unknown,Swansea vs Everton,0-2,125.0,221.0,227.0
+2011/2012,Unknown,Chelsea vs Tottenham,0-0,-104.0,243.0,289.0
+2011/2012,Unknown,Everton vs Arsenal,0-1,236.0,234.0,116.0
+2011/2012,Unknown,QPR vs Liverpool,3-2,334.0,254.0,-120.0
+2011/2012,Unknown,Manchester City vs Chelsea,2-1,-115.0,252.0,316.0
+2011/2012,Unknown,Tottenham vs Stoke,1-1,-227.0,324.0,676.0
+2011/2012,Unknown,Blackburn vs Sunderland,2-0,136.0,227.0,202.0
+2011/2012,Unknown,Newcastle vs Norwich,1-0,-145.0,271.0,394.0
+2011/2012,Unknown,Wolves vs Manchester Utd,0-5,898.0,416.0,-323.0
+2011/2012,Unknown,Fulham vs Swansea,0-3,-133.0,256.0,378.0
+2011/2012,Unknown,Wigan vs West Brom,1-1,177.0,229.0,152.0
+2011/2012,Unknown,Liverpool vs Everton,3-0,-139.0,244.0,421.0
+2011/2012,Unknown,Arsenal vs Newcastle,2-1,-263.0,376.0,709.0
+2011/2012,Unknown,Norwich vs Wigan,1-1,-109.0,245.0,303.0
+2011/2012,Unknown,Manchester Utd vs West Brom,2-0,-323.0,426.0,865.0
+2011/2012,Unknown,Swansea vs Manchester City,1-0,398.0,249.0,-132.0
+2011/2012,Unknown,Everton vs Tottenham,1-0,177.0,225.0,156.0
+2011/2012,Unknown,Aston Villa vs Fulham,1-0,150.0,225.0,181.0
+2011/2012,Unknown,Chelsea vs Stoke,1-0,-278.0,349.0,865.0
+2011/2012,Unknown,Sunderland vs Liverpool,1-0,322.0,244.0,-114.0
+2011/2012,Unknown,Wolves vs Blackburn,0-2,131.0,235.0,204.0
+2011/2012,Unknown,Bolton vs QPR,2-1,150.0,225.0,184.0
+2011/2012,Unknown,Tottenham vs Manchester Utd,1-3,214.0,235.0,125.0
+2011/2012,Unknown,Fulham vs Wolves,5-0,-159.0,270.0,463.0
+2011/2012,Unknown,Newcastle vs Sunderland,1-1,121.0,218.0,242.0
+2011/2012,Unknown,Blackburn vs Aston Villa,1-1,139.0,229.0,195.0
+2011/2012,Unknown,Manchester City vs Bolton,2-0,-769.0,684.0,1918.0
+2011/2012,Unknown,QPR vs Everton,1-1,198.0,225.0,140.0
+2011/2012,Unknown,Stoke vs Norwich,1-0,-115.0,243.0,325.0
+2011/2012,Unknown,West Brom vs Chelsea,1-0,286.0,242.0,-103.0
+2011/2012,Unknown,Wigan vs Swansea,0-2,154.0,222.0,179.0
+2011/2012,Unknown,Liverpool vs Arsenal,1-2,104.0,237.0,263.0
+2011/2012,Unknown,Stoke vs Swansea,2-0,-103.0,235.0,291.0
+2011/2012,Unknown,Arsenal vs Tottenham,5-2,134.0,231.0,200.0
+2011/2012,Unknown,Norwich vs Manchester Utd,1-2,538.0,322.0,-196.0
+2011/2012,Unknown,Manchester City vs Blackburn,3-0,-769.0,687.0,1836.0
+2011/2012,Unknown,Chelsea vs Bolton,3-0,-385.0,459.0,1078.0
+2011/2012,Unknown,Newcastle vs Wolves,2-2,-200.0,311.0,565.0
+2011/2012,Unknown,QPR vs Fulham,0-1,167.0,221.0,166.0
+2011/2012,Unknown,West Brom vs Sunderland,4-0,135.0,231.0,202.0
+2011/2012,Unknown,Wigan vs Aston Villa,0-0,172.0,221.0,162.0
+2011/2012,Unknown,Aston Villa vs Manchester City,0-1,416.0,265.0,-145.0
+2011/2012,Unknown,Wolves vs West Brom,1-5,165.0,215.0,174.0
+2011/2012,Unknown,Tottenham vs Newcastle,5-0,-196.0,313.0,543.0
+2011/2012,Unknown,Blackburn vs QPR,3-2,112.0,245.0,229.0
+2011/2012,Unknown,Bolton vs Wigan,1-2,106.0,236.0,265.0
+2011/2012,Unknown,Everton vs Chelsea,2-0,213.0,222.0,131.0
+2011/2012,Unknown,Fulham vs Stoke,2-1,-106.0,236.0,308.0
+2011/2012,Unknown,Sunderland vs Arsenal,1-2,258.0,233.0,106.0
+2011/2012,Unknown,Swansea vs Norwich,2-3,-127.0,254.0,355.0
+2011/2012,Unknown,Manchester Utd vs Liverpool,2-1,-102.0,234.0,298.0
+2011/2012,Unknown,Liverpool vs Tottenham,0-0,-111.0,252.0,303.0
+2011/2012,Unknown,Chelsea vs Manchester Utd,3-3,165.0,225.0,167.0
+2011/2012,Unknown,Newcastle vs Aston Villa,2-1,110.0,231.0,250.0
+2011/2012,Unknown,Manchester City vs Fulham,3-0,-312.0,412.0,896.0
+2011/2012,Unknown,Norwich vs Bolton,2-0,104.0,239.0,263.0
+2011/2012,Unknown,QPR vs Wolves,1-2,-104.0,239.0,290.0
+2011/2012,Unknown,Stoke vs Sunderland,0-1,125.0,223.0,225.0
+2011/2012,Unknown,West Brom vs Swansea,1-2,108.0,229.0,265.0
+2011/2012,Unknown,Wigan vs Everton,1-1,288.0,235.0,-101.0
+2011/2012,Unknown,Arsenal vs Blackburn,7-1,-370.0,444.0,1023.0
+2011/2012,Unknown,Blackburn vs Newcastle,0-2,140.0,231.0,192.0
+2011/2012,Unknown,Bolton vs Arsenal,0-0,455.0,290.0,-164.0
+2011/2012,Unknown,Fulham vs West Brom,1-1,-122.0,244.0,355.0
+2011/2012,Unknown,Sunderland vs Norwich,3-0,-135.0,254.0,393.0
+2011/2012,Unknown,Aston Villa vs QPR,2-2,-119.0,243.0,344.0
+2011/2012,Unknown,Everton vs Manchester City,1-0,330.0,246.0,-118.0
+2011/2012,Unknown,Manchester Utd vs Stoke,2-0,-303.0,395.0,819.0
+2011/2012,Unknown,Swansea vs Chelsea,1-1,313.0,229.0,-108.0
+2011/2012,Unknown,Tottenham vs Wigan,3-1,-500.0,524.0,1342.0
+2011/2012,Unknown,Wolves vs Liverpool,0-3,384.0,256.0,-135.0
+2011/2012,Unknown,Arsenal vs Manchester Utd,1-2,167.0,231.0,162.0
+2011/2012,Unknown,Manchester City vs Tottenham,3-2,-116.0,252.0,319.0
+2011/2012,Unknown,Bolton vs Liverpool,3-1,562.0,291.0,-189.0
+2011/2012,Unknown,Everton vs Blackburn,1-1,-164.0,275.0,492.0
+2011/2012,Unknown,Fulham vs Newcastle,5-2,-105.0,240.0,294.0
+2011/2012,Unknown,QPR vs Wigan,3-1,102.0,229.0,280.0
+2011/2012,Unknown,Stoke vs West Brom,1-2,-102.0,229.0,296.0
+2011/2012,Unknown,Sunderland vs Swansea,2-0,-115.0,237.0,336.0
+2011/2012,Unknown,Wolves vs Aston Villa,2-3,162.0,218.0,175.0
+2011/2012,Unknown,Norwich vs Chelsea,0-0,476.0,298.0,-172.0
+2011/2012,Unknown,Wigan vs Manchester City,0-1,769.0,359.0,-270.0
+2011/2012,Unknown,Swansea vs Arsenal,3-2,298.0,236.0,-104.0
+2011/2012,Unknown,Newcastle vs QPR,1-0,-149.0,261.0,444.0
+2011/2012,Unknown,Aston Villa vs Everton,1-1,129.0,221.0,223.0
+2011/2012,Unknown,Blackburn vs Fulham,3-1,194.0,231.0,141.0
+2011/2012,Unknown,Chelsea vs Sunderland,1-0,-244.0,349.0,710.0
+2011/2012,Unknown,Liverpool vs Stoke,0-0,-213.0,305.0,655.0
+2011/2012,Unknown,Manchester Utd vs Bolton,3-0,-667.0,676.0,1530.0
+2011/2012,Unknown,Tottenham vs Wolves,1-1,-385.0,459.0,1048.0
+2011/2012,Unknown,West Brom vs Norwich,1-2,-108.0,243.0,298.0
+2011/2012,Unknown,Tottenham vs Everton,2-0,-179.0,286.0,537.0
+2011/2012,Unknown,Everton vs Bolton,1-2,-213.0,316.0,609.0
+2011/2012,Unknown,Newcastle vs Manchester Utd,3-0,391.0,268.0,-143.0
+2011/2012,Unknown,Manchester City vs Liverpool,3-0,-116.0,244.0,334.0
+2011/2012,Unknown,Tottenham vs West Brom,1-0,-333.0,426.0,932.0
+2011/2012,Unknown,Wigan vs Sunderland,1-4,154.0,220.0,181.0
+2011/2012,Unknown,Fulham vs Arsenal,2-1,301.0,242.0,-108.0
+2011/2012,Unknown,Aston Villa vs Swansea,0-2,-115.0,234.0,340.0
+2011/2012,Unknown,Blackburn vs Stoke,1-2,162.0,225.0,170.0
+2011/2012,Unknown,QPR vs Norwich,1-2,104.0,233.0,267.0
+2011/2012,Unknown,Wolves vs Chelsea,1-2,500.0,281.0,-172.0
+2011/2012,Unknown,Sunderland vs Manchester City,1-0,472.0,280.0,-164.0
+2011/2012,Unknown,West Brom vs Everton,0-1,175.0,221.0,159.0
+2011/2012,Unknown,Arsenal vs QPR,1-0,-435.0,496.0,1211.0
+2011/2012,Unknown,Bolton vs Wolves,1-1,118.0,227.0,238.0
+2011/2012,Unknown,Chelsea vs Aston Villa,1-3,-370.0,426.0,1109.0
+2011/2012,Unknown,Norwich vs Fulham,1-1,160.0,229.0,168.0
+2011/2012,Unknown,Stoke vs Wigan,2-2,-132.0,250.0,376.0
+2011/2012,Unknown,Swansea vs Tottenham,1-1,444.0,269.0,-154.0
+2011/2012,Unknown,Manchester Utd vs Blackburn,2-3,-833.0,709.0,1897.0
+2011/2012,Unknown,Liverpool vs Newcastle,3-1,-192.0,301.0,561.0
+2011/2012,Unknown,Norwich vs Tottenham,0-2,411.0,293.0,-154.0
+2011/2012,Unknown,Swansea vs QPR,1-1,-111.0,234.0,323.0
+2011/2012,Unknown,Arsenal vs Wolves,1-1,-476.0,525.0,1321.0
+2011/2012,Unknown,Stoke vs Aston Villa,0-0,-101.0,229.0,294.0
+2011/2012,Unknown,Bolton vs Newcastle,0-2,170.0,227.0,158.0
+2011/2012,Unknown,Liverpool vs Blackburn,1-1,-526.0,531.0,1538.0
+2011/2012,Unknown,Manchester Utd vs Wigan,5-0,-625.0,594.0,1603.0
+2011/2012,Unknown,Sunderland vs Everton,1-1,146.0,221.0,193.0
+2011/2012,Unknown,West Brom vs Manchester City,0-0,580.0,341.0,-217.0
+2011/2012,Unknown,Chelsea vs Fulham,1-1,-333.0,400.0,1001.0
+2011/2012,Unknown,Tottenham vs Chelsea,1-1,174.0,227.0,156.0
+2011/2012,Unknown,Everton vs Swansea,1-0,-172.0,277.0,537.0
+2011/2012,Unknown,Fulham vs Manchester Utd,0-5,333.0,244.0,-116.0
+2011/2012,Unknown,QPR vs Sunderland,2-3,167.0,221.0,166.0
+2011/2012,Unknown,Wigan vs Liverpool,0-0,621.0,293.0,-200.0
+2011/2012,Unknown,Aston Villa vs Arsenal,1-2,416.0,259.0,-143.0
+2011/2012,Unknown,Manchester City vs Stoke,3-0,-455.0,495.0,1326.0
+2011/2012,Unknown,Newcastle vs West Brom,2-3,-109.0,241.0,305.0
+2011/2012,Unknown,Blackburn vs Bolton,1-2,112.0,234.0,243.0
+2011/2012,Unknown,Wolves vs Norwich,2-2,100.0,244.0,269.0
+2011/2012,Unknown,Manchester City vs Arsenal,1-0,-125.0,263.0,338.0
+2011/2012,Unknown,Tottenham vs Sunderland,1-0,-227.0,334.0,641.0
+2011/2012,Unknown,Aston Villa vs Liverpool,0-2,465.0,263.0,-149.0
+2011/2012,Unknown,QPR vs Manchester Utd,0-2,567.0,315.0,-204.0
+2011/2012,Unknown,Wigan vs Chelsea,1-1,836.0,374.0,-286.0
+2011/2012,Unknown,Blackburn vs West Brom,1-2,142.0,229.0,191.0
+2011/2012,Unknown,Everton vs Norwich,1-1,-196.0,307.0,561.0
+2011/2012,Unknown,Fulham vs Bolton,2-0,-167.0,277.0,487.0
+2011/2012,Unknown,Newcastle vs Swansea,0-0,-135.0,254.0,392.0
+2011/2012,Unknown,Wolves vs Stoke,1-2,146.0,223.0,189.0
+2011/2012,Unknown,Chelsea vs Manchester City,2-1,125.0,250.0,202.0
+2011/2012,Unknown,Stoke vs Tottenham,2-1,278.0,246.0,-103.0
+2011/2012,Unknown,Sunderland vs Blackburn,2-1,-120.0,246.0,342.0
+2011/2012,Unknown,Arsenal vs Everton,1-0,-200.0,304.0,583.0
+2011/2012,Unknown,Bolton vs Aston Villa,1-2,136.0,225.0,204.0
+2011/2012,Unknown,Liverpool vs QPR,1-0,-357.0,417.0,1063.0
+2011/2012,Unknown,Manchester Utd vs Wolves,4-1,-455.0,494.0,1234.0
+2011/2012,Unknown,Norwich vs Newcastle,4-2,123.0,245.0,212.0
+2011/2012,Unknown,Swansea vs Fulham,2-0,161.0,217.0,177.0
+2011/2012,Unknown,West Brom vs Wigan,1-2,-152.0,269.0,440.0
+2011/2012,Unknown,Fulham vs Liverpool,1-0,267.0,231.0,104.0
+2011/2012,Unknown,Wolves vs Sunderland,2-1,142.0,225.0,194.0
+2011/2012,Unknown,Everton vs Stoke,0-1,-149.0,257.0,451.0
+2011/2012,Unknown,Aston Villa vs Manchester Utd,0-1,461.0,274.0,-161.0
+2011/2012,Unknown,Blackburn vs Swansea,4-2,106.0,233.0,262.0
+2011/2012,Unknown,Manchester City vs Norwich,5-1,-588.0,594.0,1517.0
+2011/2012,Unknown,QPR vs West Brom,1-1,124.0,229.0,222.0
+2011/2012,Unknown,Tottenham vs Bolton,3-0,-357.0,430.0,1001.0
+2011/2012,Unknown,Wigan vs Arsenal,0-4,520.0,305.0,-189.0
+2011/2012,Unknown,Newcastle vs Chelsea,0-3,283.0,242.0,-103.0
+2011/2012,Unknown,Liverpool vs Manchester City,1-1,163.0,229.0,167.0
+2011/2012,Unknown,Swansea vs Aston Villa,0-0,118.0,227.0,234.0
+2011/2012,Unknown,Arsenal vs Fulham,1-1,-196.0,305.0,570.0
+2011/2012,Unknown,Bolton vs Everton,0-2,216.0,229.0,127.0
+2011/2012,Unknown,Chelsea vs Wolves,3-0,-500.0,534.0,1336.0
+2011/2012,Unknown,Manchester Utd vs Newcastle,1-1,-286.0,375.0,848.0
+2011/2012,Unknown,Norwich vs QPR,2-1,108.0,237.0,252.0
+2011/2012,Unknown,Sunderland vs Wigan,1-2,-154.0,266.0,454.0
+2011/2012,Unknown,West Brom vs Tottenham,1-3,252.0,236.0,110.0
+2011/2012,Unknown,Stoke vs Blackburn,3-1,-122.0,254.0,334.0
+2011/2012,Unknown,Tottenham vs Aston Villa,2-0,-222.0,328.0,636.0
+2011/2012,Unknown,Chelsea vs Liverpool,1-2,-120.0,250.0,342.0
+2011/2012,Unknown,Swansea vs Manchester Utd,0-1,543.0,291.0,-185.0
+2011/2012,Unknown,Everton vs Wolves,2-1,-167.0,273.0,507.0
+2011/2012,Unknown,Manchester City vs Newcastle,3-1,-323.0,416.0,927.0
+2011/2012,Unknown,Stoke vs QPR,2-3,-122.0,246.0,353.0
+2011/2012,Unknown,Sunderland vs Fulham,0-0,136.0,223.0,206.0
+2011/2012,Unknown,West Brom vs Bolton,2-1,-102.0,239.0,284.0
+2011/2012,Unknown,Wigan vs Blackburn,3-3,150.0,225.0,184.0
+2011/2012,Unknown,Norwich vs Arsenal,1-2,404.0,263.0,-141.0
+2011/2012,Unknown,Fulham vs Tottenham,1-3,237.0,231.0,117.0
+2011/2012,Unknown,Bolton vs Stoke,5-0,154.0,225.0,179.0
+2011/2012,Unknown,Wolves vs Wigan,3-1,-119.0,245.0,344.0
+2011/2012,Unknown,QPR vs Manchester City,2-3,711.0,369.0,-256.0
+2011/2012,Unknown,Arsenal vs West Brom,3-0,-278.0,371.0,794.0
+2011/2012,Unknown,Aston Villa vs Norwich,3-2,-118.0,250.0,329.0
+2011/2012,Unknown,Blackburn vs Chelsea,0-1,559.0,322.0,-204.0
+2011/2012,Unknown,Liverpool vs Swansea,0-0,-345.0,424.0,1033.0
+2011/2012,Unknown,Manchester Utd vs Sunderland,1-0,-400.0,474.0,1141.0
+2011/2012,Unknown,Newcastle vs Everton,2-1,136.0,221.0,209.0
+2011/2012,Unknown,Stoke vs Newcastle,1-3,-101.0,227.0,297.0
+2011/2012,Unknown,Tottenham vs QPR,3-1,-270.0,372.0,765.0
+2011/2012,Unknown,West Brom vs Liverpool,0-2,271.0,234.0,104.0
+2011/2012,Unknown,Manchester City vs Wolves,3-1,-667.0,627.0,1755.0
+2011/2012,Unknown,Norwich vs Blackburn,3-3,-105.0,238.0,299.0
+2011/2012,Unknown,Sunderland vs Aston Villa,2-2,-104.0,234.0,297.0
+2011/2012,Unknown,Swansea vs Bolton,3-1,102.0,234.0,275.0
+2011/2012,Unknown,Wigan vs Fulham,0-2,193.0,225.0,143.0
+2011/2012,Unknown,Chelsea vs Arsenal,3-5,-156.0,276.0,450.0
+2011/2012,Unknown,Everton vs Manchester Utd,0-1,315.0,239.0,-109.0
+2011/2012,Unknown,QPR vs Chelsea,1-0,900.0,379.0,-303.0
+2011/2012,Unknown,Blackburn vs Tottenham,1-2,324.0,258.0,-119.0
+2011/2012,Unknown,Arsenal vs Stoke,3-1,-161.0,273.0,486.0
+2011/2012,Unknown,Fulham vs Everton,1-3,121.0,223.0,235.0
+2011/2012,Unknown,Manchester Utd vs Manchester City,1-6,121.0,223.0,246.0
+2011/2012,Unknown,Liverpool vs Norwich,1-1,-345.0,434.0,989.0
+2011/2012,Unknown,Aston Villa vs West Brom,1-2,110.0,224.0,262.0
+2011/2012,Unknown,Bolton vs Sunderland,0-2,127.0,224.0,222.0
+2011/2012,Unknown,Newcastle vs Wigan,1-0,-182.0,282.0,550.0
+2011/2012,Unknown,Wolves vs Swansea,2-2,-104.0,234.0,301.0
+2011/2012,Unknown,Newcastle vs Tottenham,2-2,190.0,231.0,142.0
+2011/2012,Unknown,Arsenal vs Sunderland,2-1,-244.0,344.0,728.0
+2011/2012,Unknown,West Brom vs Wolves,2-0,106.0,224.0,277.0
+2011/2012,Unknown,Chelsea vs Everton,3-1,-303.0,388.0,875.0
+2011/2012,Unknown,Manchester City vs Aston Villa,4-1,-303.0,392.0,906.0
+2011/2012,Unknown,Norwich vs Swansea,3-1,108.0,229.0,259.0
+2011/2012,Unknown,QPR vs Blackburn,1-1,102.0,229.0,279.0
+2011/2012,Unknown,Stoke vs Fulham,2-0,131.0,215.0,223.0
+2011/2012,Unknown,Wigan vs Bolton,1-3,136.0,225.0,204.0
+2011/2012,Unknown,Liverpool vs Manchester Utd,1-1,165.0,209.0,185.0
+2011/2012,Unknown,Tottenham vs Arsenal,2-1,102.0,241.0,271.0
+2011/2012,Unknown,Fulham vs QPR,6-0,-101.0,234.0,286.0
+2011/2012,Unknown,Swansea vs Stoke,2-0,154.0,219.0,181.0
+2011/2012,Unknown,Bolton vs Chelsea,1-5,744.0,343.0,-250.0
+2011/2012,Unknown,Aston Villa vs Wigan,2-0,-154.0,260.0,473.0
+2011/2012,Unknown,Blackburn vs Manchester City,0-4,647.0,338.0,-227.0
+2011/2012,Unknown,Manchester Utd vs Norwich,2-0,-667.0,644.0,1614.0
+2011/2012,Unknown,Sunderland vs West Brom,2-2,122.0,229.0,229.0
+2011/2012,Unknown,Wolves vs Newcastle,1-2,143.0,225.0,193.0
+2011/2012,Unknown,Everton vs Liverpool,0-2,192.0,206.0,156.0
+2011/2012,Unknown,Norwich vs Sunderland,2-1,140.0,227.0,195.0
+2011/2012,Unknown,QPR vs Aston Villa,1-1,108.0,227.0,265.0
+2011/2012,Unknown,Stoke vs Manchester Utd,1-1,468.0,274.0,-161.0
+2011/2012,Unknown,Arsenal vs Bolton,3-0,-278.0,376.0,777.0
+2011/2012,Unknown,Chelsea vs Swansea,4-1,-526.0,557.0,1384.0
+2011/2012,Unknown,Liverpool vs Wolves,2-1,-278.0,358.0,821.0
+2011/2012,Unknown,Newcastle vs Blackburn,3-1,-114.0,236.0,330.0
+2011/2012,Unknown,West Brom vs Fulham,0-0,114.0,225.0,248.0
+2011/2012,Unknown,Wigan vs Tottenham,1-2,370.0,250.0,-128.0
+2011/2012,Unknown,Manchester City vs Everton,2-0,-227.0,329.0,658.0
+2011/2012,Unknown,Manchester Utd vs Chelsea,3-1,-105.0,241.0,295.0
+2011/2012,Unknown,Fulham vs Manchester City,2-2,372.0,258.0,-137.0
+2011/2012,Unknown,Sunderland vs Stoke,4-0,139.0,219.0,202.0
+2011/2012,Unknown,Tottenham vs Liverpool,4-0,168.0,229.0,161.0
+2011/2012,Unknown,Aston Villa vs Newcastle,1-1,-111.0,234.0,324.0
+2011/2012,Unknown,Bolton vs Norwich,1-2,-120.0,246.0,343.0
+2011/2012,Unknown,Everton vs Wigan,3-1,-200.0,298.0,608.0
+2011/2012,Unknown,Swansea vs West Brom,3-0,169.0,222.0,163.0
+2011/2012,Unknown,Wolves vs QPR,0-3,104.0,231.0,269.0
+2011/2012,Unknown,Blackburn vs Arsenal,4-3,278.0,236.0,100.0
+2011/2012,Unknown,QPR vs Newcastle,0-0,139.0,224.0,199.0
+2011/2012,Unknown,Fulham vs Blackburn,1-1,-152.0,262.0,445.0
+2011/2012,Unknown,Norwich vs West Brom,0-1,171.0,227.0,161.0
+2011/2012,Unknown,Bolton vs Manchester Utd,0-5,758.0,370.0,-270.0
+2011/2012,Unknown,Everton vs Aston Villa,2-2,-101.0,231.0,291.0
+2011/2012,Unknown,Manchester City vs Wigan,3-0,-588.0,587.0,1523.0
+2011/2012,Unknown,Stoke vs Liverpool,1-0,264.0,225.0,108.0
+2011/2012,Unknown,Sunderland vs Chelsea,1-2,451.0,269.0,-154.0
+2011/2012,Unknown,Wolves vs Tottenham,0-2,169.0,234.0,156.0
+2011/2012,Unknown,Arsenal vs Swansea,1-0,-286.0,367.0,844.0
+2011/2012,Unknown,Manchester Utd vs Arsenal,8-2,-270.0,391.0,714.0
+2011/2012,Unknown,West Brom vs Stoke,0-1,124.0,222.0,229.0
+2011/2012,Unknown,Tottenham vs Manchester City,1-5,199.0,229.0,138.0
+2011/2012,Unknown,Newcastle vs Fulham,2-1,123.0,218.0,237.0
+2011/2012,Unknown,Liverpool vs Bolton,3-1,-263.0,363.0,763.0
+2011/2012,Unknown,Blackburn vs Everton,0-1,214.0,222.0,131.0
+2011/2012,Unknown,Chelsea vs Norwich,3-1,-588.0,586.0,1657.0
+2011/2012,Unknown,Swansea vs Sunderland,0-0,136.0,225.0,202.0
+2011/2012,Unknown,Wigan vs QPR,2-0,104.0,229.0,276.0
+2011/2012,Unknown,Aston Villa vs Wolves,0-0,106.0,225.0,275.0
+2011/2012,Unknown,Manchester Utd vs Tottenham,3-0,-179.0,300.0,488.0
+2011/2012,Unknown,Bolton vs Manchester City,2-3,367.0,256.0,-130.0
+2011/2012,Unknown,Wolves vs Fulham,2-0,161.0,222.0,173.0
+2011/2012,Unknown,Norwich vs Stoke,1-1,171.0,223.0,163.0
+2011/2012,Unknown,Chelsea vs West Brom,2-1,-370.0,445.0,1070.0
+2011/2012,Unknown,Aston Villa vs Blackburn,3-1,-154.0,258.0,475.0
+2011/2012,Unknown,Everton vs QPR,0-1,-233.0,319.0,706.0
+2011/2012,Unknown,Swansea vs Wigan,0-0,-101.0,238.0,281.0
+2011/2012,Unknown,Arsenal vs Liverpool,0-2,133.0,225.0,213.0
+2011/2012,Unknown,Sunderland vs Newcastle,0-1,134.0,212.0,221.0
+2011/2012,Unknown,Manchester City vs Swansea,4-0,-270.0,362.0,819.0
+2011/2012,Unknown,West Brom vs Manchester Utd,1-2,491.0,274.0,-167.0
+2011/2012,Unknown,Stoke vs Chelsea,0-0,312.0,238.0,-108.0
+2011/2012,Unknown,Newcastle vs Arsenal,0-0,243.0,229.0,116.0
+2011/2012,Unknown,Blackburn vs Wolves,1-2,135.0,219.0,212.0
+2011/2012,Unknown,Fulham vs Aston Villa,0-0,-109.0,238.0,313.0
+2011/2012,Unknown,Liverpool vs Sunderland,1-1,-227.0,319.0,691.0
+2011/2012,Unknown,QPR vs Bolton,0-4,114.0,224.0,250.0
+2011/2012,Unknown,Wigan vs Norwich,1-1,133.0,225.0,208.0

@@ -1,0 +1,381 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2005/2006,Unknown,Arsenal vs Wigan,4-2,1.19,5.97,12.78
+2005/2006,Unknown,Aston Villa vs Sunderland,2-1,1.58,3.65,5.8
+2005/2006,Unknown,Blackburn vs Manchester City,2-0,2.02,3.24,3.62
+2005/2006,Unknown,Bolton vs Birmingham,1-0,1.52,3.74,6.43
+2005/2006,Unknown,Everton vs West Brom,2-2,1.63,3.5,5.45
+2005/2006,Unknown,Fulham vs Middlesbrough,1-0,1.62,3.56,5.48
+2005/2006,Unknown,Manchester Utd vs Charlton,4-0,1.2,5.94,13.1
+2005/2006,Unknown,Newcastle vs Chelsea,1-0,2.77,3.2,2.46
+2005/2006,Unknown,Portsmouth vs Liverpool,1-3,5.82,3.69,1.56
+2005/2006,Unknown,West Ham vs Tottenham,2-1,3.49,3.39,2.02
+2005/2006,Unknown,Manchester City vs Arsenal,1-3,5.74,3.67,1.58
+2005/2006,Unknown,Sunderland vs Fulham,2-1,3.11,3.3,2.2
+2005/2006,Unknown,Bolton vs Middlesbrough,1-1,1.5,3.82,6.39
+2005/2006,Unknown,Blackburn vs Chelsea,1-0,2.89,3.21,2.38
+2005/2006,Unknown,Manchester Utd vs Middlesbrough,0-0,1.24,5.35,11.67
+2005/2006,Unknown,West Brom vs West Ham,0-1,2.27,3.27,3.01
+2005/2006,Unknown,Sunderland vs Arsenal,0-3,10.33,4.78,1.29
+2005/2006,Unknown,Tottenham vs Bolton,1-0,1.72,3.45,5.04
+2005/2006,Unknown,Charlton vs Blackburn,0-2,3.1,3.24,2.24
+2005/2006,Unknown,Birmingham vs Newcastle,0-0,2.38,3.28,2.85
+2005/2006,Unknown,Liverpool vs Aston Villa,3-1,1.33,4.43,10.06
+2005/2006,Unknown,Manchester City vs Fulham,1-2,1.75,3.43,4.66
+2005/2006,Unknown,Middlesbrough vs Everton,0-1,2.62,3.19,2.62
+2005/2006,Unknown,Wigan vs Portsmouth,1-2,2.45,3.26,2.77
+2005/2006,Unknown,Chelsea vs Manchester Utd,3-0,2.15,3.07,3.62
+2005/2006,Unknown,West Ham vs Liverpool,1-2,4.38,3.3,1.85
+2005/2006,Unknown,Aston Villa vs Manchester City,0-1,2.28,3.19,3.1
+2005/2006,Unknown,Fulham vs Wigan,1-0,2.16,3.19,3.36
+2005/2006,Unknown,Bolton vs Charlton,4-1,1.69,3.4,5.23
+2005/2006,Unknown,Everton vs Birmingham,0-0,2.18,3.24,3.18
+2005/2006,Unknown,Newcastle vs West Brom,3-0,1.74,3.37,4.8
+2005/2006,Unknown,Portsmouth vs Sunderland,2-1,1.36,4.29,8.65
+2005/2006,Unknown,Arsenal vs Tottenham,1-1,1.67,3.48,5.35
+2005/2006,Unknown,Birmingham vs Blackburn,2-1,2.53,3.17,2.7
+2005/2006,Unknown,Wigan vs Aston Villa,3-2,2.14,3.21,3.34
+2005/2006,Unknown,West Brom vs Bolton,0-0,2.39,3.21,2.87
+2005/2006,Unknown,Charlton vs Portsmouth,2-1,2.43,3.18,2.87
+2005/2006,Unknown,Chelsea vs Everton,3-0,1.22,5.56,13.5
+2005/2006,Unknown,Middlesbrough vs West Ham,2-0,2.52,3.2,2.73
+2005/2006,Unknown,Sunderland vs Newcastle,1-4,3.79,3.21,1.97
+2005/2006,Unknown,Tottenham vs Manchester Utd,1-2,3.38,3.19,2.16
+2005/2006,Unknown,Blackburn vs Liverpool,0-1,3.15,3.14,2.32
+2005/2006,Unknown,Aston Villa vs Birmingham,3-1,2.39,3.09,3.09
+2005/2006,Unknown,Arsenal vs West Brom,3-1,1.24,5.28,11.67
+2005/2006,Unknown,Everton vs Tottenham,0-1,2.57,3.15,2.69
+2005/2006,Unknown,Fulham vs Charlton,2-1,1.99,3.24,3.7
+2005/2006,Unknown,Newcastle vs Wigan,3-1,1.89,3.34,4.04
+2005/2006,Unknown,Portsmouth vs Middlesbrough,1-0,1.72,3.5,4.71
+2005/2006,Unknown,West Ham vs Manchester City,1-0,2.24,3.19,3.08
+2005/2006,Unknown,Bolton vs Chelsea,0-2,4.97,3.44,1.71
+2005/2006,Unknown,Manchester Utd vs Sunderland,0-0,1.1,7.79,23.88
+2005/2006,Unknown,Portsmouth vs Arsenal,1-1,5.2,3.53,1.66
+2005/2006,Unknown,Manchester Utd vs Arsenal,2-0,2.04,3.2,3.68
+2005/2006,Unknown,Middlesbrough vs Newcastle,1-2,2.47,3.12,2.83
+2005/2006,Unknown,Liverpool vs Bolton,1-0,1.5,3.64,7.15
+2005/2006,Unknown,Aston Villa vs West Brom,0-0,2.09,3.18,3.48
+2005/2006,Unknown,Chelsea vs West Ham,4-1,1.25,5.04,11.87
+2005/2006,Unknown,Wigan vs Birmingham,1-1,2.01,3.29,3.61
+2005/2006,Unknown,Charlton vs Everton,0-0,2.41,3.15,2.9
+2005/2006,Unknown,Portsmouth vs Blackburn,2-2,2.5,3.21,2.7
+2005/2006,Unknown,Tottenham vs Manchester City,2-1,1.63,3.5,5.77
+2005/2006,Unknown,Birmingham vs Bolton,1-0,2.8,3.18,2.46
+2005/2006,Unknown,Blackburn vs Wigan,1-1,1.77,3.36,4.75
+2005/2006,Unknown,West Ham vs Charlton,0-0,2.08,3.25,3.48
+2005/2006,Unknown,Manchester City vs Middlesbrough,0-1,2.0,3.26,3.7
+2005/2006,Unknown,West Brom vs Liverpool,0-2,5.73,3.55,1.59
+2005/2006,Unknown,Arsenal vs Aston Villa,5-0,1.28,4.94,10.87
+2005/2006,Unknown,Bolton vs Manchester Utd,1-2,3.85,3.29,1.97
+2005/2006,Unknown,Everton vs Sunderland,2-2,1.35,4.4,9.06
+2005/2006,Unknown,Fulham vs Portsmouth,1-3,2.01,3.28,3.61
+2005/2006,Unknown,Newcastle vs Tottenham,3-1,2.65,3.18,2.61
+2005/2006,Unknown,Birmingham vs Chelsea,0-0,10.19,4.65,1.31
+2005/2006,Unknown,Manchester Utd vs West Ham,1-0,1.3,4.99,9.1
+2005/2006,Unknown,Tottenham vs West Brom,2-1,1.42,4.02,7.89
+2005/2006,Unknown,Manchester Utd vs Birmingham,3-0,1.18,6.12,14.67
+2005/2006,Unknown,Charlton vs Newcastle,3-1,2.42,3.15,2.87
+2005/2006,Unknown,Middlesbrough vs Bolton,4-3,2.75,3.21,2.48
+2005/2006,Unknown,Aston Villa vs Fulham,0-0,2.02,3.24,3.61
+2005/2006,Unknown,Chelsea vs Manchester City,2-0,1.25,5.1,12.38
+2005/2006,Unknown,Sunderland vs Blackburn,0-1,5.05,3.44,1.7
+2005/2006,Unknown,Wigan vs West Ham,1-2,2.02,3.23,3.56
+2005/2006,Unknown,Liverpool vs Everton,3-1,1.59,3.49,6.24
+2005/2006,Unknown,Fulham vs Chelsea,1-0,7.66,4.07,1.43
+2005/2006,Unknown,Newcastle vs Liverpool,1-3,3.19,3.16,2.24
+2005/2006,Unknown,Birmingham vs Tottenham,0-2,3.18,3.17,2.23
+2005/2006,Unknown,Arsenal vs Charlton,3-0,1.35,4.39,8.96
+2005/2006,Unknown,Blackburn vs Middlesbrough,3-2,1.81,3.32,4.46
+2005/2006,Unknown,Bolton vs Sunderland,2-0,1.38,4.12,9.39
+2005/2006,Unknown,Manchester City vs Wigan,0-1,2.04,3.24,3.58
+2005/2006,Unknown,West Brom vs Manchester Utd,1-2,6.66,3.74,1.51
+2005/2006,Unknown,West Ham vs Portsmouth,2-4,1.86,3.29,4.21
+2005/2006,Unknown,Everton vs Aston Villa,4-1,1.87,3.27,4.22
+2005/2006,Unknown,Liverpool vs Fulham,5-1,1.37,4.19,9.11
+2005/2006,Unknown,Arsenal vs Liverpool,2-1,2.25,3.11,3.32
+2005/2006,Unknown,Charlton vs Middlesbrough,2-1,2.1,3.2,3.41
+2005/2006,Unknown,Manchester Utd vs Newcastle,2-0,1.44,3.95,7.62
+2005/2006,Unknown,Blackburn vs Aston Villa,2-0,1.88,3.23,4.19
+2005/2006,Unknown,Everton vs Fulham,3-1,1.86,3.24,4.3
+2005/2006,Unknown,Portsmouth vs Manchester City,2-1,2.8,3.16,2.45
+2005/2006,Unknown,Sunderland vs Wigan,0-1,3.1,3.21,2.25
+2005/2006,Unknown,Bolton vs West Ham,4-1,1.9,3.28,3.89
+2005/2006,Unknown,Chelsea vs Tottenham,2-1,1.86,3.25,7.94
+2005/2006,Unknown,Birmingham vs West Brom,1-1,2.01,3.16,3.73
+2005/2006,Unknown,Wigan vs Manchester Utd,1-2,6.03,3.66,1.6
+2005/2006,Unknown,Tottenham vs Blackburn,3-2,1.94,3.17,4.11
+2005/2006,Unknown,Manchester City vs Sunderland,2-1,1.42,4.03,8.05
+2005/2006,Unknown,Liverpool vs Charlton,0-0,1.48,3.79,7.38
+2005/2006,Unknown,Aston Villa vs Portsmouth,1-0,1.74,3.34,4.8
+2005/2006,Unknown,Fulham vs Arsenal,0-4,3.14,3.24,2.19
+2005/2006,Unknown,Middlesbrough vs Birmingham,1-0,1.86,3.27,4.16
+2005/2006,Unknown,Newcastle vs Bolton,3-1,2.39,3.14,2.98
+2005/2006,Unknown,West Ham vs Everton,2-2,2.07,3.19,3.54
+2005/2006,Unknown,West Brom vs Chelsea,1-2,7.64,4.01,1.44
+2005/2006,Unknown,West Brom vs Middlesbrough,0-2,2.41,3.15,2.92
+2005/2006,Unknown,Bolton vs Fulham,2-1,1.9,3.26,4.07
+2005/2006,Unknown,Liverpool vs Manchester City,1-0,1.58,3.55,6.39
+2005/2006,Unknown,Newcastle vs Everton,2-0,2.14,3.18,3.3
+2005/2006,Unknown,Birmingham vs Sunderland,1-0,1.68,3.45,5.19
+2005/2006,Unknown,Blackburn vs Arsenal,1-0,2.95,3.28,2.34
+2005/2006,Unknown,Charlton vs Aston Villa,0-0,2.26,3.2,3.12
+2005/2006,Unknown,Chelsea vs Portsmouth,2-0,1.19,6.37,9.99
+2005/2006,Unknown,Newcastle vs Charlton,0-0,1.84,3.28,4.35
+2005/2006,Unknown,Tottenham vs Wigan,2-2,1.64,3.49,5.52
+2005/2006,Unknown,Blackburn vs Sunderland,2-0,1.45,3.86,7.54
+2005/2006,Unknown,Liverpool vs Arsenal,1-0,2.08,3.15,3.62
+2005/2006,Unknown,West Ham vs Birmingham,3-0,1.82,3.31,4.36
+2005/2006,Unknown,Manchester City vs Charlton,3-2,1.79,3.37,4.49
+2005/2006,Unknown,Sunderland vs Tottenham,1-1,5.33,3.49,1.66
+2005/2006,Unknown,Portsmouth vs Manchester Utd,1-3,6.12,3.6,1.57
+2005/2006,Unknown,Arsenal vs Bolton,1-1,1.57,3.66,6.13
+2005/2006,Unknown,Aston Villa vs Newcastle,1-2,2.14,3.16,3.4
+2005/2006,Unknown,Everton vs Blackburn,1-0,2.3,3.13,3.05
+2005/2006,Unknown,Fulham vs West Brom,6-1,1.81,3.29,4.4
+2005/2006,Unknown,Middlesbrough vs Chelsea,3-0,7.98,4.18,1.4
+2005/2006,Unknown,Wigan vs Liverpool,0-1,3.97,3.21,1.95
+2005/2006,Unknown,Charlton vs Liverpool,2-0,4.44,3.28,1.81
+2005/2006,Unknown,Chelsea vs Liverpool,2-0,1.95,3.08,4.35
+2005/2006,Unknown,Tottenham vs Charlton,3-1,1.81,3.27,4.44
+2005/2006,Unknown,Manchester Utd vs Fulham,4-2,1.29,4.81,10.16
+2005/2006,Unknown,Birmingham vs Arsenal,0-2,3.46,3.22,2.07
+2005/2006,Unknown,Bolton vs Wigan,1-1,1.87,3.25,4.13
+2005/2006,Unknown,Everton vs Manchester City,1-0,2.25,3.17,3.11
+2005/2006,Unknown,Middlesbrough vs Aston Villa,0-4,2.28,3.18,3.06
+2005/2006,Unknown,Newcastle vs Portsmouth,2-0,1.82,3.35,4.23
+2005/2006,Unknown,West Brom vs Blackburn,2-0,2.71,3.18,2.52
+2005/2006,Unknown,West Ham vs Sunderland,2-0,1.53,3.7,6.38
+2005/2006,Unknown,Arsenal vs West Ham,2-3,1.37,4.38,8.2
+2005/2006,Unknown,Blackburn vs Manchester Utd,4-3,4.25,3.25,1.85
+2005/2006,Unknown,Liverpool vs Birmingham,1-1,1.31,4.59,9.55
+2005/2006,Unknown,Manchester City vs Newcastle,3-0,1.95,3.2,3.88
+2005/2006,Unknown,Aston Villa vs Chelsea,1-1,7.17,3.72,1.48
+2005/2006,Unknown,Portsmouth vs Bolton,1-1,2.62,3.15,2.63
+2005/2006,Unknown,Charlton vs West Brom,0-0,1.79,3.34,4.48
+2005/2006,Unknown,Fulham vs Tottenham,1-0,2.75,3.14,2.48
+2005/2006,Unknown,Sunderland vs Middlesbrough,0-3,2.67,3.18,2.55
+2005/2006,Unknown,Wigan vs Everton,1-1,2.29,3.16,3.02
+2005/2006,Unknown,West Ham vs Fulham,2-1,2.11,3.17,3.44
+2005/2006,Unknown,Manchester Utd vs Liverpool,1-0,2.32,3.11,3.17
+2005/2006,Unknown,Chelsea vs Charlton,1-1,1.15,6.28,10.99
+2005/2006,Unknown,West Brom vs Sunderland,0-1,1.84,3.25,4.45
+2005/2006,Unknown,Birmingham vs Portsmouth,5-0,2.03,3.23,3.63
+2005/2006,Unknown,Bolton vs Manchester City,2-0,2.29,3.19,3.06
+2005/2006,Unknown,Middlesbrough vs Wigan,2-3,2.11,3.18,3.44
+2005/2006,Unknown,Newcastle vs Blackburn,0-1,2.28,3.18,3.07
+2005/2006,Unknown,Tottenham vs Aston Villa,0-0,1.65,3.43,5.55
+2005/2006,Unknown,Everton vs Arsenal,1-0,5.08,3.45,1.7
+2005/2006,Unknown,Sunderland vs Chelsea,1-2,9.99,5.85,1.18
+2005/2006,Unknown,Wigan vs West Brom,0-1,1.87,3.25,4.22
+2005/2006,Unknown,Blackburn vs Bolton,0-0,2.13,3.19,3.37
+2005/2006,Unknown,Arsenal vs Middlesbrough,7-0,1.31,4.66,9.57
+2005/2006,Unknown,Aston Villa vs West Ham,1-2,1.92,3.22,3.99
+2005/2006,Unknown,Charlton vs Birmingham,2-0,2.15,3.21,3.31
+2005/2006,Unknown,Fulham vs Newcastle,1-0,2.22,3.18,3.15
+2005/2006,Unknown,Liverpool vs Tottenham,1-0,1.63,3.39,5.91
+2005/2006,Unknown,Portsmouth vs Everton,0-1,2.24,3.19,3.13
+2005/2006,Unknown,Manchester City vs Manchester Utd,3-1,4.87,3.32,1.75
+2005/2006,Unknown,Manchester City vs Tottenham,0-2,2.32,3.18,2.97
+2005/2006,Unknown,Arsenal vs Manchester Utd,0-0,2.62,3.1,2.77
+2005/2006,Unknown,Blackburn vs Portsmouth,2-1,1.6,3.52,6.0
+2005/2006,Unknown,Birmingham vs Wigan,2-0,2.4,3.18,2.88
+2005/2006,Unknown,Bolton vs Liverpool,2-2,3.7,3.19,2.0
+2005/2006,Unknown,Everton vs Charlton,3-1,2.29,3.19,2.99
+2005/2006,Unknown,Fulham vs Sunderland,2-1,1.57,3.52,6.44
+2005/2006,Unknown,Newcastle vs Middlesbrough,2-2,2.11,3.15,3.44
+2005/2006,Unknown,West Ham vs Chelsea,1-3,8.88,4.0,1.39
+2005/2006,Unknown,West Brom vs Aston Villa,1-2,2.44,3.15,2.82
+2005/2006,Unknown,Liverpool vs West Brom,1-0,1.19,5.86,9.99
+2005/2006,Unknown,Manchester Utd vs Bolton,4-1,1.42,4.12,7.48
+2005/2006,Unknown,Middlesbrough vs Manchester City,0-0,2.29,3.19,3.04
+2005/2006,Unknown,Portsmouth vs Fulham,1-0,2.28,3.17,3.05
+2005/2006,Unknown,Sunderland vs Everton,0-1,2.56,3.15,2.7
+2005/2006,Unknown,Wigan vs Blackburn,0-3,2.22,3.15,3.23
+2005/2006,Unknown,Charlton vs West Ham,2-0,2.14,3.21,3.34
+2005/2006,Unknown,Chelsea vs Birmingham,2-0,1.14,6.61,9.99
+2005/2006,Unknown,Tottenham vs Newcastle,2-0,1.92,3.21,4.02
+2005/2006,Unknown,Aston Villa vs Arsenal,0-0,5.34,3.49,1.65
+2005/2006,Unknown,Everton vs Liverpool,1-3,5.65,3.35,1.66
+2005/2006,Unknown,Manchester City vs Chelsea,0-1,6.11,3.55,1.58
+2005/2006,Unknown,West Brom vs Tottenham,2-0,3.38,3.18,2.12
+2005/2006,Unknown,West Ham vs Wigan,0-2,2.3,3.15,3.05
+2005/2006,Unknown,Arsenal vs Portsmouth,4-0,1.2,5.66,9.99
+2005/2006,Unknown,Birmingham vs Manchester Utd,2-2,8.06,4.07,1.41
+2005/2006,Unknown,Fulham vs Aston Villa,3-3,2.12,3.17,3.41
+2005/2006,Unknown,Aston Villa vs Everton,4-0,2.12,3.18,3.41
+2005/2006,Unknown,Liverpool vs Newcastle,2-0,1.58,3.54,5.94
+2005/2006,Unknown,Manchester Utd vs West Brom,3-0,1.19,5.79,9.99
+2005/2006,Unknown,Middlesbrough vs Blackburn,0-2,2.04,3.18,3.64
+2005/2006,Unknown,Portsmouth vs West Ham,1-1,2.37,3.15,2.94
+2005/2006,Unknown,Sunderland vs Bolton,0-0,4.15,3.27,1.86
+2005/2006,Unknown,Wigan vs Manchester City,4-3,2.51,3.12,2.77
+2005/2006,Unknown,Chelsea vs Fulham,3-2,1.15,6.38,9.99
+2005/2006,Unknown,Tottenham vs Birmingham,2-0,1.46,3.78,7.51
+2005/2006,Unknown,Charlton vs Arsenal,0-1,5.46,3.56,1.63
+2005/2006,Unknown,Arsenal vs Chelsea,0-2,2.97,3.01,2.44
+2005/2006,Unknown,Middlesbrough vs Tottenham,3-3,2.51,3.17,2.77
+2005/2006,Unknown,Manchester City vs Birmingham,4-1,1.84,3.21,4.54
+2005/2006,Unknown,West Ham vs Newcastle,2-4,2.43,3.18,2.86
+2005/2006,Unknown,Everton vs Bolton,0-4,2.38,3.16,2.94
+2005/2006,Unknown,Fulham vs Blackburn,2-1,2.23,3.15,3.22
+2005/2006,Unknown,Portsmouth vs West Brom,1-0,2.14,3.17,3.41
+2005/2006,Unknown,Wigan vs Charlton,3-0,2.24,3.2,3.15
+2005/2006,Unknown,Aston Villa vs Manchester Utd,0-2,5.99,3.47,1.61
+2005/2006,Unknown,Everton vs West Ham,1-2,2.03,3.17,3.71
+2005/2006,Unknown,Manchester Utd vs Wigan,4-0,1.33,4.52,9.59
+2005/2006,Unknown,Tottenham vs Portsmouth,3-1,1.42,4.0,8.09
+2005/2006,Unknown,Manchester Utd vs Everton,1-1,1.3,4.53,9.99
+2005/2006,Unknown,Newcastle vs Arsenal,1-0,4.14,3.28,1.88
+2005/2006,Unknown,Birmingham vs Fulham,1-0,2.22,3.15,3.26
+2005/2006,Unknown,Blackburn vs West Ham,3-2,1.97,3.19,3.81
+2005/2006,Unknown,Bolton vs Aston Villa,1-1,1.86,3.26,4.3
+2005/2006,Unknown,Charlton vs Sunderland,2-0,1.64,3.45,5.63
+2005/2006,Unknown,Chelsea vs Wigan,1-0,1.17,6.02,9.99
+2005/2006,Unknown,West Brom vs Manchester City,2-0,3.19,3.21,2.23
+2005/2006,Unknown,Liverpool vs Middlesbrough,2-0,1.56,3.54,6.61
+2005/2006,Unknown,Birmingham vs West Ham,1-2,2.19,3.14,3.31
+2005/2006,Unknown,Charlton vs Manchester City,2-5,2.39,3.15,2.92
+2005/2006,Unknown,Manchester Utd vs Portsmouth,3-0,1.21,5.43,9.99
+2005/2006,Unknown,Blackburn vs Everton,0-2,1.91,3.22,4.07
+2005/2006,Unknown,Bolton vs Arsenal,2-0,4.22,3.3,1.86
+2005/2006,Unknown,Chelsea vs Middlesbrough,1-0,1.24,5.29,9.99
+2005/2006,Unknown,Newcastle vs Aston Villa,1-1,1.92,3.24,4.03
+2005/2006,Unknown,Tottenham vs Sunderland,3-2,1.32,4.33,9.99
+2005/2006,Unknown,West Brom vs Fulham,0-0,2.4,3.16,2.87
+2005/2006,Unknown,Liverpool vs Wigan,3-0,1.48,3.76,7.22
+2005/2006,Unknown,Sunderland vs Liverpool,0-2,7.26,3.87,1.47
+2005/2006,Unknown,West Ham vs Manchester Utd,1-2,4.82,3.43,1.73
+2005/2006,Unknown,Middlesbrough vs West Brom,2-2,1.71,3.41,5.06
+2005/2006,Unknown,Fulham vs Bolton,2-1,2.44,3.13,2.87
+2005/2006,Unknown,Everton vs Newcastle,1-0,2.55,3.14,2.72
+2005/2006,Unknown,Portsmouth vs Chelsea,0-2,9.49,4.55,1.33
+2005/2006,Unknown,Arsenal vs Blackburn,3-0,1.34,4.39,9.85
+2005/2006,Unknown,Aston Villa vs Charlton,1-0,2.19,3.17,3.24
+2005/2006,Unknown,Manchester City vs Liverpool,0-1,2.78,3.1,2.53
+2005/2006,Unknown,Sunderland vs Birmingham,0-1,2.64,3.12,2.63
+2005/2006,Unknown,Wigan vs Tottenham,1-2,2.57,3.12,2.72
+2005/2006,Unknown,Middlesbrough vs Fulham,3-2,1.84,3.25,4.41
+2005/2006,Unknown,Tottenham vs West Ham,1-1,1.64,3.44,5.6
+2005/2006,Unknown,West Brom vs Everton,4-0,2.51,3.1,2.79
+2005/2006,Unknown,Charlton vs Manchester Utd,1-3,4.17,3.26,1.87
+2005/2006,Unknown,Chelsea vs Newcastle,3-0,1.35,4.33,9.48
+2005/2006,Unknown,Liverpool vs Portsmouth,3-0,1.41,3.93,8.78
+2005/2006,Unknown,Manchester City vs Blackburn,0-0,1.98,3.2,3.82
+2005/2006,Unknown,Sunderland vs Aston Villa,1-3,2.6,3.15,2.66
+2005/2006,Unknown,Wigan vs Arsenal,2-3,4.47,3.27,1.82
+2005/2006,Unknown,Bolton vs Tottenham,1-0,2.45,3.12,2.85
+2005/2006,Unknown,Manchester Utd vs Chelsea,1-0,3.11,3.03,2.29
+2005/2006,Unknown,Everton vs Middlesbrough,1-0,2.39,3.1,2.92
+2005/2006,Unknown,Portsmouth vs Wigan,0-2,2.31,3.14,3.04
+2005/2006,Unknown,Arsenal vs Sunderland,3-1,1.19,5.82,9.99
+2005/2006,Unknown,Blackburn vs Charlton,4-1,2.28,3.12,3.1
+2005/2006,Unknown,Fulham vs Manchester City,2-1,2.54,3.1,2.72
+2005/2006,Unknown,Newcastle vs Birmingham,1-0,1.57,3.54,6.16
+2005/2006,Unknown,West Ham vs West Brom,1-0,1.83,3.26,4.27
+2005/2006,Unknown,Aston Villa vs Liverpool,0-2,3.24,3.08,2.21
+2005/2006,Unknown,Manchester City vs Aston Villa,3-1,1.85,3.27,4.13
+2005/2006,Unknown,West Brom vs Newcastle,0-3,2.98,3.15,2.33
+2005/2006,Unknown,Middlesbrough vs Manchester Utd,4-1,4.41,3.33,1.79
+2005/2006,Unknown,Birmingham vs Everton,0-1,2.28,3.2,2.98
+2005/2006,Unknown,Charlton vs Bolton,0-1,2.23,3.17,3.12
+2005/2006,Unknown,Chelsea vs Blackburn,4-2,1.23,4.96,9.99
+2005/2006,Unknown,Liverpool vs West Ham,2-0,1.56,3.54,6.43
+2005/2006,Unknown,Sunderland vs Portsmouth,1-4,2.27,3.2,3.04
+2005/2006,Unknown,Tottenham vs Arsenal,1-1,2.74,3.1,2.55
+2005/2006,Unknown,Wigan vs Fulham,1-0,2.21,3.13,3.18
+2005/2006,Unknown,Everton vs Chelsea,1-1,9.03,4.23,1.35
+2005/2006,Unknown,Bolton vs West Brom,2-0,1.76,3.33,4.64
+2005/2006,Unknown,West Ham vs Middlesbrough,2-1,2.33,3.18,2.96
+2005/2006,Unknown,Newcastle vs Sunderland,3-2,1.67,3.34,5.44
+2005/2006,Unknown,Portsmouth vs Charlton,1-2,2.64,3.19,2.56
+2005/2006,Unknown,Arsenal vs Manchester City,1-0,1.49,3.69,7.18
+2005/2006,Unknown,Aston Villa vs Wigan,0-2,2.0,3.18,3.73
+2005/2006,Unknown,Fulham vs Liverpool,2-0,3.43,3.16,2.11
+2005/2006,Unknown,Manchester Utd vs Tottenham,1-1,1.63,3.44,5.6
+2005/2006,Unknown,Blackburn vs Birmingham,2-0,2.05,3.18,3.58
+2005/2006,Unknown,Charlton vs Fulham,1-1,1.79,3.29,4.61
+2005/2006,Unknown,Manchester City vs West Ham,2-1,1.92,3.25,3.9
+2005/2006,Unknown,Birmingham vs Aston Villa,0-1,2.32,3.08,3.03
+2005/2006,Unknown,Middlesbrough vs Portsmouth,1-1,1.7,3.38,4.96
+2005/2006,Unknown,Tottenham vs Everton,2-0,1.62,3.43,5.75
+2005/2006,Unknown,West Brom vs Arsenal,2-1,5.58,3.43,1.64
+2005/2006,Unknown,Chelsea vs Bolton,5-1,1.3,4.49,9.99
+2005/2006,Unknown,Liverpool vs Blackburn,1-0,1.65,3.42,5.52
+2005/2006,Unknown,Sunderland vs Manchester Utd,1-3,7.2,3.75,1.48
+2005/2006,Unknown,Wigan vs Newcastle,1-0,2.63,3.15,2.61
+2005/2006,Unknown,Liverpool vs Chelsea,1-4,3.29,2.96,2.26
+2005/2006,Unknown,Aston Villa vs Middlesbrough,2-3,2.13,3.21,3.33
+2005/2006,Unknown,Arsenal vs Birmingham,1-0,1.32,4.45,9.65
+2005/2006,Unknown,Wigan vs Bolton,2-1,2.64,3.15,2.58
+2005/2006,Unknown,Manchester City vs Everton,2-0,1.81,3.29,4.44
+2005/2006,Unknown,Sunderland vs West Ham,1-1,2.44,3.17,2.77
+2005/2006,Unknown,Blackburn vs West Brom,2-0,1.79,3.31,4.47
+2005/2006,Unknown,Charlton vs Tottenham,2-3,2.41,3.17,2.83
+2005/2006,Unknown,Fulham vs Manchester Utd,2-3,5.16,3.46,1.66
+2005/2006,Unknown,Portsmouth vs Newcastle,0-0,2.77,3.21,2.43
+2005/2006,Unknown,Tottenham vs Fulham,1-0,1.63,3.47,5.54
+2005/2006,Unknown,Middlesbrough vs Sunderland,0-2,1.59,3.48,5.95
+2005/2006,Unknown,Bolton vs Portsmouth,1-0,1.72,3.34,4.93
+2005/2006,Unknown,Chelsea vs Aston Villa,2-1,1.2,5.52,9.99
+2005/2006,Unknown,Everton vs Wigan,0-1,1.93,3.23,4.0
+2005/2006,Unknown,Manchester Utd vs Blackburn,1-2,1.3,4.62,9.99
+2005/2006,Unknown,Newcastle vs Manchester City,1-0,2.12,3.22,3.34
+2005/2006,Unknown,West Brom vs Charlton,1-2,2.79,3.19,2.43
+2005/2006,Unknown,West Ham vs Arsenal,0-0,4.7,3.34,1.75
+2005/2006,Unknown,Birmingham vs Liverpool,2-2,3.41,3.22,2.09
+2005/2006,Unknown,Arsenal vs Everton,2-0,1.34,4.35,9.3
+2005/2006,Unknown,Manchester City vs Bolton,0-1,2.07,3.25,3.44
+2005/2006,Unknown,Wigan vs Middlesbrough,1-1,2.61,3.18,2.6
+2005/2006,Unknown,Blackburn vs Newcastle,0-3,2.31,3.22,2.95
+2005/2006,Unknown,Liverpool vs Manchester Utd,0-0,2.72,3.13,2.51
+2005/2006,Unknown,Aston Villa vs Tottenham,1-1,2.52,3.2,2.7
+2005/2006,Unknown,Charlton vs Chelsea,0-2,6.26,3.54,1.56
+2005/2006,Unknown,Fulham vs West Ham,1-2,2.14,3.18,3.33
+2005/2006,Unknown,Portsmouth vs Birmingham,1-1,2.33,3.2,2.94
+2005/2006,Unknown,Sunderland vs West Brom,1-1,2.26,3.21,3.05
+2005/2006,Unknown,West Ham vs Aston Villa,4-0,2.52,3.18,2.69
+2005/2006,Unknown,Bolton vs Blackburn,0-0,1.97,3.2,3.81
+2005/2006,Unknown,Middlesbrough vs Arsenal,2-1,4.86,3.36,1.73
+2005/2006,Unknown,Birmingham vs Charlton,0-1,2.32,3.22,2.95
+2005/2006,Unknown,Chelsea vs Sunderland,2-0,1.12,7.08,9.99
+2005/2006,Unknown,Everton vs Portsmouth,0-1,1.68,3.42,5.15
+2005/2006,Unknown,Newcastle vs Fulham,1-1,1.61,3.46,5.75
+2005/2006,Unknown,Tottenham vs Liverpool,0-0,2.53,3.18,2.7
+2005/2006,Unknown,West Brom vs Wigan,1-2,2.01,3.24,3.64
+2005/2006,Unknown,Manchester Utd vs Manchester City,1-1,1.39,4.04,8.74
+2005/2006,Unknown,Newcastle vs Manchester Utd,0-2,5.63,3.5,1.6
+2005/2006,Unknown,Middlesbrough vs Charlton,0-3,1.88,3.25,4.05
+2005/2006,Unknown,Manchester City vs Portsmouth,2-1,1.64,3.43,5.32
+2005/2006,Unknown,Tottenham vs Chelsea,0-2,4.4,3.29,1.8
+2005/2006,Unknown,West Ham vs Bolton,1-2,2.52,3.2,2.66
+2005/2006,Unknown,Wigan vs Sunderland,1-0,2.12,3.23,3.28
+2005/2006,Unknown,Aston Villa vs Blackburn,1-0,1.98,3.22,3.67
+2005/2006,Unknown,Fulham vs Everton,1-0,2.42,3.19,2.77
+2005/2006,Unknown,West Brom vs Birmingham,2-3,2.37,3.14,2.88
+2005/2006,Unknown,Blackburn vs Tottenham,0-0,2.73,3.2,2.47
+2005/2006,Unknown,Bolton vs Newcastle,2-0,2.1,3.24,3.37
+2005/2006,Unknown,Arsenal vs Fulham,4-1,1.23,5.25,9.99
+2005/2006,Unknown,Chelsea vs West Brom,4-0,1.16,6.16,9.99
+2005/2006,Unknown,Birmingham vs Middlesbrough,0-3,2.36,3.2,2.86
+2005/2006,Unknown,Portsmouth vs Aston Villa,1-1,2.48,3.2,2.7
+2005/2006,Unknown,Sunderland vs Manchester City,1-2,2.77,3.21,2.43
+2005/2006,Unknown,Chelsea vs Arsenal,1-0,2.0,3.13,3.87
+2005/2006,Unknown,Bolton vs Everton,0-1,2.07,3.21,3.47
+2005/2006,Unknown,Birmingham vs Manchester City,1-2,2.13,3.18,3.32
+2005/2006,Unknown,Blackburn vs Fulham,2-1,2.03,3.23,3.55
+2005/2006,Unknown,Charlton vs Wigan,1-0,1.86,3.27,4.18
+2005/2006,Unknown,Liverpool vs Sunderland,1-0,1.27,4.88,9.99
+2005/2006,Unknown,Newcastle vs West Ham,0-0,1.65,3.47,5.31
+2005/2006,Unknown,Tottenham vs Middlesbrough,2-0,1.9,3.27,4.0
+2005/2006,Unknown,West Brom vs Portsmouth,2-1,2.11,3.2,3.41
+2005/2006,Unknown,Manchester Utd vs Aston Villa,1-0,1.24,5.18,9.99
+2005/2006,Unknown,Wigan vs Chelsea,0-1,9.79,4.65,1.28
+2005/2006,Unknown,Arsenal vs Newcastle,2-0,1.39,4.07,8.21
+2005/2006,Unknown,Middlesbrough vs Liverpool,0-0,3.01,3.21,2.28
+2005/2006,Unknown,Aston Villa vs Bolton,2-2,2.26,3.21,3.04
+2005/2006,Unknown,Fulham vs Birmingham,0-0,2.36,3.19,2.86
+2005/2006,Unknown,Manchester City vs West Brom,0-0,1.8,3.31,4.52
+2005/2006,Unknown,Portsmouth vs Tottenham,0-2,2.83,3.23,2.39
+2005/2006,Unknown,Sunderland vs Charlton,1-3,2.26,3.21,3.01
+2005/2006,Unknown,West Ham vs Blackburn,3-1,2.39,3.21,2.82
+2005/2006,Unknown,Everton vs Manchester Utd,0-2,4.99,3.43,1.69
