@@ -94,14 +94,24 @@ def parse_page_matches(driver, season):
 
 # Scrape all result pages for a given season
 def scrape_all_pages(season):
-    url = f"https://www.oddsportal.com/soccer/england/premier-league-{season}/results/"
+    # Handle current season with special URL
+    if season == "2024-2025":
+        url = "https://www.oddsportal.com/football/england/premier-league/results/"
+    else:
+        url = f"https://www.oddsportal.com/football/england/premier-league-{season}/results/"
+
     driver = init_driver()
     driver.get(url)
 
-    print("Please accept cookies if prompted...")
-    WebDriverWait(driver, 20).until(
-        EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r"))
-    )
+    print("✅ Please accept cookies if prompted...")
+    try:
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r"))
+        )
+    except:
+        print(f"❌ No match blocks found for {season}. Skipping.")
+        driver.quit()
+        return pd.DataFrame()
 
     time.sleep(4)
     all_data = []
@@ -112,7 +122,7 @@ def scrape_all_pages(season):
         all_data += parse_page_matches(driver, season)
 
         try:
-            # Scroll to pagination, not all the way down
+            # Scroll near pagination
             driver.execute_script("window.scrollBy(0, 500);")
             time.sleep(1)
 
@@ -132,16 +142,15 @@ def scrape_all_pages(season):
                 page += 1
                 time.sleep(4)
             else:
-                print("No more pages found.")
+                print("❌ No more pages found.")
                 break
 
         except Exception as e:
-            print(f"Error clicking next: {e}")
+            print(f"❌ Error clicking next: {e}")
             break
 
     driver.quit()
     return pd.DataFrame(all_data)
-
 
 # Run the full scrape
 if __name__ == "__main__":
