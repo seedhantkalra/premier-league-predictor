@@ -73,7 +73,7 @@ def parse_page_matches(driver, season):
             d_odd = float(odds_els[1].text.strip())
             a_odd = float(odds_els[2].text.strip())
 
-            print(f"✅ Parsed: {home_team} vs {away_team} | {result} | Odds: {h_odd}, {d_odd}, {a_odd}")
+            print(f"Parsed: {home_team} vs {away_team} | {result} | Odds: {h_odd}, {d_odd}, {a_odd}")
 
             data.append({
                 "season": season.replace("-", "/"),
@@ -86,7 +86,7 @@ def parse_page_matches(driver, season):
             })
 
         except Exception as e:
-            print(f"❌ Error parsing match: {e}")
+            print(f"Error parsing match: {e}")
             continue
 
     return data
@@ -98,7 +98,7 @@ def scrape_all_pages(season):
     driver = init_driver()
     driver.get(url)
 
-    print("✅ Please accept cookies if prompted...")
+    print("Please accept cookies if prompted...")
     WebDriverWait(driver, 20).until(
         EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r"))
     )
@@ -132,11 +132,11 @@ def scrape_all_pages(season):
                 page += 1
                 time.sleep(4)
             else:
-                print("❌ No more pages found.")
+                print("No more pages found.")
                 break
 
         except Exception as e:
-            print(f"❌ Error clicking next: {e}")
+            print(f"Error clicking next: {e}")
             break
 
     driver.quit()
@@ -147,6 +147,4 @@ def scrape_all_pages(season):
 if __name__ == "__main__":
     season = "2020-2021"
     df = scrape_all_pages(season)
-    print("\n📊 Final DataFrame Preview:")
-    print(df.head())
     df.to_csv(f"data/{season}_full.csv", index=False)
