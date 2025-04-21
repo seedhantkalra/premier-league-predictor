@@ -11,7 +11,7 @@ def generate_seasons(start=2004, end=2024):
     seasons = []
     for year in range(start, end):
         seasons.append(f"{year}-{year+1}")
-    seasons.append("2024-2025")  # Manually add the current season
+    seasons.append("2024-2025")
     return seasons
 
 if __name__ == "__main__":
