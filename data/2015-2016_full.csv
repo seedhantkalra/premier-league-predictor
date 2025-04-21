@@ -1,0 +1,366 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2015/2016,Unknown,Manchester Utd vs Bournemouth,3-1,1.49,4.59,7.03
+2015/2016,Unknown,Arsenal vs Aston Villa,4-0,1.11,11.3,23.6
+2015/2016,Unknown,Chelsea vs Leicester,1-1,2.0,3.88,3.64
+2015/2016,Unknown,Everton vs Norwich,3-0,1.72,4.21,4.66
+2015/2016,Unknown,Newcastle vs Tottenham,5-1,5.16,4.09,1.68
+2015/2016,Unknown,Southampton vs Crystal Palace,4-1,1.27,6.51,11.2
+2015/2016,Unknown,Stoke vs West Ham,2-1,2.98,3.87,2.28
+2015/2016,Unknown,Swansea vs Manchester City,1-1,6.94,4.99,1.45
+2015/2016,Unknown,Watford vs Sunderland,2-2,1.64,4.32,5.24
+2015/2016,Unknown,West Brom vs Liverpool,1-1,2.59,3.58,2.71
+2015/2016,Unknown,Liverpool vs Chelsea,1-1,1.69,4.31,4.77
+2015/2016,Unknown,Norwich vs Watford,4-2,1.85,3.9,4.26
+2015/2016,Unknown,Sunderland vs Everton,3-0,1.84,3.9,4.27
+2015/2016,Unknown,West Ham vs Manchester Utd,3-2,3.04,3.59,2.34
+2015/2016,Unknown,Liverpool vs Watford,2-0,1.55,4.39,6.19
+2015/2016,Unknown,Manchester City vs Arsenal,2-2,2.22,3.57,3.29
+2015/2016,Unknown,Tottenham vs Southampton,1-2,2.2,3.42,3.47
+2015/2016,Unknown,Leicester vs Everton,3-1,1.86,3.93,3.96
+2015/2016,Unknown,Aston Villa vs Newcastle,0-0,5.06,4.03,1.7
+2015/2016,Unknown,Bournemouth vs West Brom,1-1,1.91,3.61,4.27
+2015/2016,Unknown,Crystal Palace vs Stoke,2-1,2.02,3.47,4.0
+2015/2016,Unknown,Sunderland vs Chelsea,3-2,3.16,3.58,2.27
+2015/2016,Unknown,West Ham vs Swansea,1-4,1.34,5.59,9.29
+2015/2016,Unknown,Norwich vs Manchester Utd,0-1,3.91,3.49,2.03
+2015/2016,Unknown,Chelsea vs Tottenham,2-2,2.56,3.5,2.77
+2015/2016,Unknown,Southampton vs Manchester City,4-2,2.42,3.48,2.99
+2015/2016,Unknown,Manchester Utd vs Leicester,1-1,2.0,3.5,4.3
+2015/2016,Unknown,Swansea vs Liverpool,3-1,3.49,3.53,2.16
+2015/2016,Unknown,Arsenal vs Norwich,1-0,1.25,6.4,12.72
+2015/2016,Unknown,Everton vs Bournemouth,2-1,2.41,3.66,2.89
+2015/2016,Unknown,Newcastle vs Crystal Palace,1-0,2.12,3.47,3.63
+2015/2016,Unknown,Stoke vs Sunderland,1-1,2.95,3.36,2.5
+2015/2016,Unknown,Watford vs Aston Villa,3-2,1.73,3.77,5.29
+2015/2016,Unknown,West Brom vs West Ham,0-3,3.92,3.51,2.02
+2015/2016,Unknown,Tottenham vs West Brom,1-1,1.21,7.01,15.04
+2015/2016,Unknown,Leicester vs Swansea,4-0,1.7,3.8,5.5
+2015/2016,Unknown,Sunderland vs Arsenal,0-0,5.41,4.19,1.64
+2015/2016,Unknown,Aston Villa vs Southampton,2-4,6.84,4.24,1.53
+2015/2016,Unknown,Bournemouth vs Chelsea,1-4,3.42,3.62,2.15
+2015/2016,Unknown,Liverpool vs Newcastle,2-2,1.51,4.66,6.51
+2015/2016,Unknown,Manchester City vs Stoke,4-0,1.3,5.95,10.67
+2015/2016,Unknown,Arsenal vs West Brom,2-0,1.25,6.36,13.05
+2015/2016,Unknown,Liverpool vs Everton,4-0,1.69,4.04,5.19
+2015/2016,Unknown,Manchester Utd vs Crystal Palace,2-0,1.43,4.61,8.58
+2015/2016,Unknown,West Ham vs Watford,3-1,1.45,4.69,7.75
+2015/2016,Unknown,Newcastle vs Manchester City,1-1,6.23,4.51,1.53
+2015/2016,Unknown,Stoke vs Tottenham,0-4,4.87,3.88,1.75
+2015/2016,Unknown,Arsenal vs Crystal Palace,1-1,1.33,5.7,9.61
+2015/2016,Unknown,Bournemouth vs Liverpool,1-2,2.65,3.35,2.75
+2015/2016,Unknown,Leicester vs West Ham,2-2,1.95,3.59,4.11
+2015/2016,Unknown,Chelsea vs Manchester City,0-3,2.6,3.49,2.74
+2015/2016,Unknown,Everton vs Southampton,1-1,3.01,3.37,2.46
+2015/2016,Unknown,Manchester Utd vs Aston Villa,1-0,1.25,6.09,14.3
+2015/2016,Unknown,Newcastle vs Swansea,3-0,2.42,3.38,3.07
+2015/2016,Unknown,West Brom vs Watford,0-1,2.37,3.15,3.38
+2015/2016,Unknown,Norwich vs Sunderland,0-3,2.34,3.3,3.29
+2015/2016,Unknown,Crystal Palace vs Everton,0-0,2.7,3.33,2.75
+2015/2016,Unknown,Liverpool vs Stoke,4-1,1.65,3.95,5.68
+2015/2016,Unknown,Tottenham vs Manchester Utd,3-0,1.98,3.51,4.09
+2015/2016,Unknown,Sunderland vs Leicester,0-2,3.22,3.26,2.39
+2015/2016,Unknown,Manchester City vs West Brom,2-1,1.34,5.28,10.19
+2015/2016,Unknown,Aston Villa vs Bournemouth,1-2,3.73,3.48,2.09
+2015/2016,Unknown,Crystal Palace vs Norwich,1-0,1.91,3.47,4.51
+2015/2016,Unknown,Southampton vs Newcastle,3-1,1.63,4.09,5.71
+2015/2016,Unknown,Swansea vs Chelsea,1-0,3.09,3.28,2.45
+2015/2016,Unknown,Watford vs Everton,1-1,3.45,3.44,2.2
+2015/2016,Unknown,West Ham vs Arsenal,3-3,3.88,3.81,1.94
+2015/2016,Unknown,Manchester Utd vs Everton,1-0,1.97,3.54,4.1
+2015/2016,Unknown,Leicester vs Southampton,1-0,2.34,3.25,3.35
+2015/2016,Unknown,Liverpool vs Tottenham,1-1,2.15,3.48,3.52
+2015/2016,Unknown,Arsenal vs Watford,4-0,1.35,5.35,9.43
+2015/2016,Unknown,Bournemouth vs Manchester City,0-4,3.88,3.57,2.01
+2015/2016,Unknown,Norwich vs Newcastle,3-2,2.31,3.32,3.34
+2015/2016,Unknown,Stoke vs Swansea,2-2,2.13,3.29,3.84
+2015/2016,Unknown,Sunderland vs West Brom,0-0,1.99,3.37,4.26
+2015/2016,Unknown,West Ham vs Crystal Palace,2-2,1.88,3.61,4.44
+2015/2016,Unknown,Aston Villa vs Chelsea,0-4,4.97,3.62,1.8
+2015/2016,Unknown,Manchester City vs Manchester Utd,0-1,1.99,3.52,4.05
+2015/2016,Unknown,Tottenham vs Bournemouth,3-0,1.52,4.23,7.18
+2015/2016,Unknown,Newcastle vs Sunderland,1-1,2.22,3.2,3.68
+2015/2016,Unknown,Southampton vs Liverpool,3-2,2.93,3.1,2.68
+2015/2016,Unknown,Swansea vs Aston Villa,1-0,1.68,3.8,5.75
+2015/2016,Unknown,Chelsea vs West Ham,2-2,1.8,3.74,4.75
+2015/2016,Unknown,Crystal Palace vs Leicester,0-1,2.89,3.27,2.6
+2015/2016,Unknown,West Brom vs Norwich,0-1,2.43,3.19,3.2
+2015/2016,Unknown,Everton vs Arsenal,0-2,2.68,3.52,2.64
+2015/2016,Unknown,Leicester vs Newcastle,1-0,1.56,4.35,6.27
+2015/2016,Unknown,Aston Villa vs Tottenham,0-2,7.28,4.32,1.51
+2015/2016,Unknown,Bournemouth vs Swansea,3-2,2.0,3.43,4.13
+2015/2016,Unknown,Stoke vs Southampton,1-2,2.74,3.16,2.83
+2015/2016,Unknown,Norwich vs Manchester City,0-0,6.53,4.23,1.56
+2015/2016,Unknown,West Brom vs Manchester Utd,1-0,4.42,3.44,1.94
+2015/2016,Unknown,Crystal Palace vs Liverpool,1-2,3.7,3.42,2.12
+2015/2016,Unknown,Watford vs Leicester,0-1,2.98,3.25,2.54
+2015/2016,Unknown,Chelsea vs Stoke,1-1,1.53,4.25,7.06
+2015/2016,Unknown,Everton vs West Ham,2-3,1.64,4.16,5.48
+2015/2016,Unknown,Manchester City vs Aston Villa,4-0,1.19,7.13,18.5
+2015/2016,Unknown,Newcastle vs Bournemouth,1-3,2.58,3.3,2.9
+2015/2016,Unknown,Southampton vs Sunderland,1-1,1.61,4.03,6.17
+2015/2016,Unknown,Swansea vs Norwich,1-0,2.14,3.29,3.8
+2015/2016,Unknown,Tottenham vs Arsenal,2-2,2.3,3.43,3.24
+2015/2016,Unknown,Liverpool vs Manchester City,3-0,2.77,3.45,2.61
+2015/2016,Unknown,Manchester Utd vs Watford,1-0,1.68,4.07,5.59
+2015/2016,Unknown,Arsenal vs Swansea,1-2,1.3,5.77,11.45
+2015/2016,Unknown,West Ham vs Tottenham,1-0,3.53,3.47,2.16
+2015/2016,Unknown,Aston Villa vs Everton,1-3,5.46,4.03,1.66
+2015/2016,Unknown,Bournemouth vs Southampton,2-0,2.84,3.17,2.71
+2015/2016,Unknown,Leicester vs West Brom,2-2,1.7,3.7,5.5
+2015/2016,Unknown,Norwich vs Chelsea,1-2,5.37,3.86,1.7
+2015/2016,Unknown,Sunderland vs Crystal Palace,2-2,2.46,3.25,3.09
+2015/2016,Unknown,Manchester Utd vs Arsenal,3-2,3.39,3.35,2.26
+2015/2016,Unknown,West Brom vs Crystal Palace,3-2,2.88,3.12,2.7
+2015/2016,Unknown,Leicester vs Norwich,1-0,1.59,4.14,6.15
+2015/2016,Unknown,Southampton vs Chelsea,1-2,3.15,3.24,2.43
+2015/2016,Unknown,Stoke vs Aston Villa,2-1,1.91,3.4,4.65
+2015/2016,Unknown,Watford vs Bournemouth,0-0,2.64,3.25,2.87
+2015/2016,Unknown,West Ham vs Sunderland,1-0,1.85,3.65,4.5
+2015/2016,Unknown,Manchester City vs Tottenham,1-2,2.13,3.41,3.67
+2015/2016,Unknown,Aston Villa vs Liverpool,0-6,5.56,3.78,1.69
+2015/2016,Unknown,Arsenal vs Leicester,2-1,1.68,4.15,5.07
+2015/2016,Unknown,Chelsea vs Newcastle,5-1,1.37,5.21,8.85
+2015/2016,Unknown,Bournemouth vs Stoke,1-3,1.93,3.55,4.24
+2015/2016,Unknown,Crystal Palace vs Watford,1-2,2.19,3.24,3.71
+2015/2016,Unknown,Everton vs West Brom,0-1,1.48,4.39,7.64
+2015/2016,Unknown,Norwich vs West Ham,2-2,2.48,3.3,3.04
+2015/2016,Unknown,Swansea vs Southampton,0-1,3.19,3.18,2.45
+2015/2016,Unknown,Sunderland vs Manchester Utd,2-1,5.06,3.59,1.79
+2015/2016,Unknown,Chelsea vs Manchester Utd,1-1,2.17,3.2,3.8
+2015/2016,Unknown,Bournemouth vs Arsenal,0-2,4.41,3.61,1.89
+2015/2016,Unknown,Southampton vs West Ham,1-0,1.7,3.84,5.43
+2015/2016,Unknown,Aston Villa vs Norwich,2-0,2.46,3.17,3.16
+2015/2016,Unknown,Liverpool vs Sunderland,2-2,1.45,4.64,7.83
+2015/2016,Unknown,Newcastle vs West Brom,1-0,2.25,3.29,3.49
+2015/2016,Unknown,Stoke vs Everton,0-3,2.87,3.28,2.6
+2015/2016,Unknown,Swansea vs Crystal Palace,1-1,2.31,3.17,3.48
+2015/2016,Unknown,Tottenham vs Watford,1-0,1.49,4.35,7.38
+2015/2016,Unknown,Manchester City vs Leicester,1-3,1.61,4.13,5.76
+2015/2016,Unknown,Everton vs Newcastle,3-0,1.7,4.04,5.03
+2015/2016,Unknown,Watford vs Chelsea,0-0,4.8,3.64,1.82
+2015/2016,Unknown,Crystal Palace vs Bournemouth,1-2,2.59,3.19,2.95
+2015/2016,Unknown,Manchester Utd vs Stoke,3-0,1.62,3.8,6.25
+2015/2016,Unknown,West Brom vs Swansea,1-1,2.57,3.04,3.12
+2015/2016,Unknown,Arsenal vs Southampton,0-0,1.81,3.56,4.9
+2015/2016,Unknown,Leicester vs Liverpool,2-0,2.83,3.24,2.67
+2015/2016,Unknown,Norwich vs Tottenham,0-3,4.79,3.91,1.75
+2015/2016,Unknown,Sunderland vs Manchester City,0-1,6.77,4.58,1.5
+2015/2016,Unknown,West Ham vs Aston Villa,2-0,1.85,3.46,4.85
+2015/2016,Unknown,Arsenal vs Chelsea,0-1,2.28,3.25,3.4
+2015/2016,Unknown,Everton vs Swansea,1-2,1.74,3.73,5.21
+2015/2016,Unknown,West Ham vs Manchester City,2-2,4.95,4.04,1.71
+2015/2016,Unknown,Crystal Palace vs Tottenham,1-3,3.66,3.36,2.15
+2015/2016,Unknown,Leicester vs Stoke,3-0,1.9,3.56,4.44
+2015/2016,Unknown,Manchester Utd vs Southampton,0-1,1.95,3.37,4.4
+2015/2016,Unknown,Sunderland vs Bournemouth,1-1,2.77,3.32,2.66
+2015/2016,Unknown,Watford vs Newcastle,2-1,1.97,3.55,4.06
+2015/2016,Unknown,West Brom vs Aston Villa,0-0,2.3,3.12,3.57
+2015/2016,Unknown,Norwich vs Liverpool,4-5,4.12,3.44,2.0
+2015/2016,Unknown,Swansea vs Watford,1-0,2.26,3.26,3.5
+2015/2016,Unknown,Stoke vs Arsenal,0-0,3.35,3.21,2.35
+2015/2016,Unknown,Liverpool vs Manchester Utd,0-1,2.63,3.04,3.06
+2015/2016,Unknown,Aston Villa vs Leicester,1-1,3.58,3.46,2.14
+2015/2016,Unknown,Bournemouth vs Norwich,3-0,1.9,3.52,4.48
+2015/2016,Unknown,Manchester City vs Crystal Palace,4-0,1.4,5.01,8.52
+2015/2016,Unknown,Newcastle vs West Ham,2-1,2.35,3.35,3.22
+2015/2016,Unknown,Southampton vs West Brom,3-0,1.7,3.62,5.92
+2015/2016,Unknown,Liverpool vs Arsenal,3-3,2.61,3.37,2.82
+2015/2016,Unknown,Tottenham vs Leicester,0-1,1.83,3.66,4.68
+2015/2016,Unknown,Chelsea vs West Brom,2-2,1.45,4.37,8.53
+2015/2016,Unknown,Manchester City vs Everton,0-0,1.53,4.49,6.3
+2015/2016,Unknown,Southampton vs Watford,2-0,2.02,3.44,4.02
+2015/2016,Unknown,Stoke vs Norwich,3-1,2.03,3.37,4.06
+2015/2016,Unknown,Swansea vs Sunderland,2-4,1.84,3.53,4.81
+2015/2016,Unknown,Aston Villa vs Crystal Palace,1-0,3.29,3.19,2.39
+2015/2016,Unknown,Bournemouth vs West Ham,1-3,1.99,3.64,3.89
+2015/2016,Unknown,Newcastle vs Manchester Utd,3-3,4.91,3.65,1.8
+2015/2016,Unknown,Everton vs Tottenham,1-1,2.54,3.44,2.84
+2015/2016,Unknown,Crystal Palace vs Chelsea,0-3,4.03,3.47,2.01
+2015/2016,Unknown,Watford vs Manchester City,1-2,4.93,3.96,1.72
+2015/2016,Unknown,Arsenal vs Newcastle,1-0,1.23,6.93,12.46
+2015/2016,Unknown,Leicester vs Bournemouth,0-0,1.94,3.7,4.25
+2015/2016,Unknown,Manchester Utd vs Swansea,2-1,1.49,4.19,7.89
+2015/2016,Unknown,Norwich vs Southampton,1-0,3.01,3.17,2.57
+2015/2016,Unknown,Sunderland vs Aston Villa,3-1,2.5,3.16,3.11
+2015/2016,Unknown,West Brom vs Stoke,2-1,2.85,3.09,2.77
+2015/2016,Unknown,West Ham vs Liverpool,2-0,4.14,3.5,1.97
+2015/2016,Unknown,Sunderland vs Liverpool,0-1,5.68,4.01,1.64
+2015/2016,Unknown,Leicester vs Manchester City,0-0,4.05,3.86,1.89
+2015/2016,Unknown,Arsenal vs Bournemouth,2-0,1.53,4.24,6.85
+2015/2016,Unknown,Manchester Utd vs Chelsea,0-0,2.45,3.21,3.14
+2015/2016,Unknown,West Ham vs Southampton,2-1,3.49,3.31,2.24
+2015/2016,Unknown,Crystal Palace vs Swansea,0-0,2.01,3.31,4.24
+2015/2016,Unknown,Everton vs Stoke,3-4,1.85,3.59,4.59
+2015/2016,Unknown,Watford vs Tottenham,1-2,3.19,3.36,2.37
+2015/2016,Unknown,West Brom vs Newcastle,1-0,2.16,3.27,3.74
+2015/2016,Unknown,Southampton vs Arsenal,4-0,3.55,3.4,2.17
+2015/2016,Unknown,Newcastle vs Everton,0-1,3.45,3.52,2.16
+2015/2016,Unknown,Aston Villa vs West Ham,1-1,2.49,3.18,3.11
+2015/2016,Unknown,Bournemouth vs Crystal Palace,0-0,2.15,3.43,3.63
+2015/2016,Unknown,Chelsea vs Watford,2-2,1.5,4.37,7.08
+2015/2016,Unknown,Manchester City vs Sunderland,4-1,1.2,7.64,14.0
+2015/2016,Unknown,Tottenham vs Norwich,3-0,1.45,4.56,7.91
+2015/2016,Unknown,Stoke vs Manchester Utd,2-0,3.61,3.2,2.25
+2015/2016,Unknown,Swansea vs West Ham,0-0,2.05,3.33,4.04
+2015/2016,Unknown,Watford vs Liverpool,3-0,3.6,3.48,2.12
+2015/2016,Unknown,Newcastle vs Aston Villa,1-1,2.0,3.48,4.06
+2015/2016,Unknown,Chelsea vs Sunderland,3-1,1.32,5.6,10.37
+2015/2016,Unknown,Everton vs Leicester,2-3,2.1,3.69,3.48
+2015/2016,Unknown,Manchester Utd vs Norwich,1-2,1.43,4.67,8.26
+2015/2016,Unknown,Southampton vs Tottenham,0-2,2.73,3.29,2.73
+2015/2016,Unknown,Stoke vs Crystal Palace,1-2,2.5,3.2,3.08
+2015/2016,Unknown,West Brom vs Bournemouth,1-2,2.75,3.24,2.74
+2015/2016,Unknown,Leicester vs Chelsea,2-1,3.39,3.46,2.21
+2015/2016,Unknown,Liverpool vs West Brom,2-2,1.43,4.57,8.73
+2015/2016,Unknown,Tottenham vs Newcastle,1-2,1.37,5.39,8.6
+2015/2016,Unknown,Aston Villa vs Arsenal,0-2,6.4,4.27,1.55
+2015/2016,Unknown,Bournemouth vs Manchester Utd,2-1,3.24,3.25,2.38
+2015/2016,Unknown,Crystal Palace vs Southampton,1-0,2.37,3.29,3.22
+2015/2016,Unknown,Manchester City vs Swansea,2-1,1.35,5.38,9.22
+2015/2016,Unknown,Sunderland vs Watford,0-1,2.83,3.23,2.68
+2015/2016,Unknown,West Ham vs Stoke,0-0,2.58,3.22,2.96
+2015/2016,Unknown,Norwich vs Everton,1-1,3.11,3.44,2.36
+2015/2016,Unknown,Everton vs Crystal Palace,1-1,2.11,3.42,3.71
+2015/2016,Unknown,Newcastle vs Liverpool,2-0,5.98,4.35,1.57
+2015/2016,Unknown,Chelsea vs Bournemouth,0-1,1.41,4.71,8.58
+2015/2016,Unknown,Arsenal vs Sunderland,3-1,1.27,6.11,11.14
+2015/2016,Unknown,Manchester Utd vs West Ham,0-0,1.45,4.48,8.09
+2015/2016,Unknown,Southampton vs Aston Villa,1-1,1.49,4.37,7.22
+2015/2016,Unknown,Swansea vs Leicester,0-3,2.54,3.32,2.9
+2015/2016,Unknown,Watford vs Norwich,2-0,2.29,3.37,3.27
+2015/2016,Unknown,West Brom vs Tottenham,1-1,4.64,3.61,1.84
+2015/2016,Unknown,Stoke vs Manchester City,2-0,5.08,3.8,1.73
+2015/2016,Unknown,Liverpool vs Swansea,1-0,1.48,4.41,7.53
+2015/2016,Unknown,Norwich vs Arsenal,1-1,5.87,4.26,1.59
+2015/2016,Unknown,West Ham vs West Brom,1-1,2.11,3.3,3.86
+2015/2016,Unknown,Tottenham vs Chelsea,0-0,2.63,3.33,2.8
+2015/2016,Unknown,Leicester vs Manchester Utd,1-1,3.12,3.41,2.37
+2015/2016,Unknown,Aston Villa vs Watford,2-3,2.73,3.19,2.79
+2015/2016,Unknown,Bournemouth vs Everton,3-3,2.64,3.51,2.68
+2015/2016,Unknown,Crystal Palace vs Newcastle,5-1,1.7,3.93,5.2
+2015/2016,Unknown,Manchester City vs Southampton,3-1,1.55,3.95,5.8
+2015/2016,Unknown,Sunderland vs Stoke,2-0,2.99,3.17,2.57
+2015/2016,Unknown,Crystal Palace vs Sunderland,0-1,1.54,4.38,6.33
+2015/2016,Unknown,Tottenham vs West Ham,4-1,1.6,4.2,6.0
+2015/2016,Unknown,Manchester City vs Liverpool,1-4,1.78,3.75,4.75
+2015/2016,Unknown,Chelsea vs Norwich,1-0,1.42,4.77,8.31
+2015/2016,Unknown,Everton vs Aston Villa,4-0,1.67,3.91,5.52
+2015/2016,Unknown,Newcastle vs Leicester,0-3,2.85,3.49,2.49
+2015/2016,Unknown,Southampton vs Stoke,0-1,1.7,3.73,5.5
+2015/2016,Unknown,Swansea vs Bournemouth,2-2,2.27,3.29,3.42
+2015/2016,Unknown,West Brom vs Arsenal,2-1,6.26,4.24,1.57
+2015/2016,Unknown,Watford vs Manchester Utd,1-2,3.98,3.32,2.07
+2015/2016,Unknown,Arsenal vs Tottenham,1-1,1.79,3.92,4.54
+2015/2016,Unknown,Liverpool vs Crystal Palace,1-2,1.61,3.98,6.16
+2015/2016,Unknown,Aston Villa vs Manchester City,0-0,8.19,4.94,1.41
+2015/2016,Unknown,Stoke vs Chelsea,1-0,4.34,3.57,1.91
+2015/2016,Unknown,Leicester vs Watford,2-1,1.9,3.7,4.24
+2015/2016,Unknown,Norwich vs Swansea,1-0,2.49,3.38,2.95
+2015/2016,Unknown,Sunderland vs Southampton,0-1,4.74,3.82,1.78
+2015/2016,Unknown,West Ham vs Everton,1-1,2.42,3.5,2.96
+2015/2016,Unknown,Bournemouth vs Newcastle,0-1,2.22,3.52,3.32
+2015/2016,Unknown,Tottenham vs Aston Villa,3-1,1.39,4.9,8.9
+2015/2016,Unknown,Southampton vs Bournemouth,2-0,1.54,4.26,6.66
+2015/2016,Unknown,Everton vs Sunderland,6-2,1.48,4.58,7.32
+2015/2016,Unknown,Crystal Palace vs Manchester Utd,0-0,4.22,3.46,1.97
+2015/2016,Unknown,Manchester City vs Norwich,2-1,1.28,6.11,11.68
+2015/2016,Unknown,Newcastle vs Stoke,0-0,2.37,3.34,3.18
+2015/2016,Unknown,Swansea vs Arsenal,0-3,4.62,3.86,1.78
+2015/2016,Unknown,Watford vs West Ham,2-0,2.51,3.34,2.94
+2015/2016,Unknown,West Brom vs Leicester,2-3,2.86,3.32,2.6
+2015/2016,Unknown,Liverpool vs Southampton,1-1,2.09,3.46,3.74
+2015/2016,Unknown,Bournemouth vs Tottenham,1-5,3.43,3.43,2.2
+2015/2016,Unknown,Manchester Utd vs Manchester City,0-0,2.62,3.22,2.89
+2015/2016,Unknown,Sunderland vs Newcastle,3-0,2.58,3.32,2.87
+2015/2016,Unknown,Arsenal vs Everton,2-1,1.39,5.22,8.11
+2015/2016,Unknown,Aston Villa vs Swansea,1-2,2.95,3.24,2.57
+2015/2016,Unknown,Leicester vs Crystal Palace,1-0,2.14,3.52,3.53
+2015/2016,Unknown,Norwich vs West Brom,0-1,1.94,3.54,4.2
+2015/2016,Unknown,Stoke vs Watford,0-2,2.06,3.37,3.95
+2015/2016,Unknown,West Ham vs Chelsea,2-1,4.02,3.67,1.95
+2015/2016,Unknown,Swansea vs Stoke,0-1,1.86,3.59,4.51
+2015/2016,Unknown,Newcastle vs Norwich,6-2,2.44,3.42,2.98
+2015/2016,Unknown,Watford vs Arsenal,0-3,5.5,4.0,1.62
+2015/2016,Unknown,Chelsea vs Aston Villa,2-0,1.33,5.49,9.79
+2015/2016,Unknown,Crystal Palace vs West Ham,1-3,1.85,3.7,4.2
+2015/2016,Unknown,Everton vs Manchester Utd,0-3,3.16,3.4,2.34
+2015/2016,Unknown,Manchester City vs Bournemouth,5-1,1.34,5.3,9.86
+2015/2016,Unknown,Southampton vs Leicester,2-2,1.74,3.87,4.89
+2015/2016,Unknown,West Brom vs Sunderland,1-0,2.1,3.3,3.91
+2015/2016,Unknown,Tottenham vs Liverpool,0-0,2.29,3.39,3.28
+2015/2016,Unknown,Arsenal vs Manchester Utd,3-0,2.0,3.75,3.73
+2015/2016,Unknown,Swansea vs Tottenham,2-2,2.74,3.29,2.71
+2015/2016,Unknown,Everton vs Liverpool,1-1,3.2,3.4,2.4
+2015/2016,Unknown,Chelsea vs Southampton,1-3,1.76,3.7,4.85
+2015/2016,Unknown,Aston Villa vs Stoke,0-1,2.63,3.16,2.93
+2015/2016,Unknown,Bournemouth vs Watford,1-1,2.17,3.33,3.63
+2015/2016,Unknown,Manchester City vs Newcastle,6-1,1.22,7.05,13.51
+2015/2016,Unknown,Sunderland vs West Ham,2-2,3.1,3.43,2.37
+2015/2016,Unknown,Crystal Palace vs West Brom,2-0,1.82,3.54,4.81
+2015/2016,Unknown,West Brom vs Everton,2-3,2.95,3.25,2.56
+2015/2016,Unknown,Watford vs Crystal Palace,0-1,2.56,3.33,2.9
+2015/2016,Unknown,Newcastle vs Chelsea,2-2,5.75,4.15,1.62
+2015/2016,Unknown,Leicester vs Arsenal,2-5,4.66,3.99,1.76
+2015/2016,Unknown,Liverpool vs Aston Villa,3-2,1.5,4.32,7.39
+2015/2016,Unknown,Manchester Utd vs Sunderland,3-0,1.21,7.03,14.46
+2015/2016,Unknown,Southampton vs Swansea,3-1,1.85,3.55,4.71
+2015/2016,Unknown,Stoke vs Bournemouth,2-1,2.44,3.4,2.99
+2015/2016,Unknown,West Ham vs Norwich,2-2,2.24,3.44,3.35
+2015/2016,Unknown,Tottenham vs Manchester City,4-1,3.44,3.5,2.18
+2015/2016,Unknown,Liverpool vs Norwich,1-1,1.6,4.04,6.12
+2015/2016,Unknown,Southampton vs Manchester Utd,2-3,3.3,3.24,2.36
+2015/2016,Unknown,Tottenham vs Crystal Palace,1-0,1.93,3.68,4.07
+2015/2016,Unknown,Manchester City vs West Ham,1-2,1.28,6.19,10.91
+2015/2016,Unknown,Aston Villa vs West Brom,0-1,2.4,3.13,3.35
+2015/2016,Unknown,Bournemouth vs Sunderland,2-0,1.55,4.59,5.86
+2015/2016,Unknown,Newcastle vs Watford,1-2,2.22,3.39,3.46
+2015/2016,Unknown,Stoke vs Leicester,2-2,2.86,3.33,2.58
+2015/2016,Unknown,Swansea vs Everton,0-0,2.18,3.39,3.54
+2015/2016,Unknown,Chelsea vs Arsenal,2-0,2.58,3.4,2.82
+2015/2016,Unknown,West Ham vs Newcastle,2-0,2.09,3.49,3.69
+2015/2016,Unknown,Leicester vs Aston Villa,3-2,1.84,3.7,4.5
+2015/2016,Unknown,Sunderland vs Tottenham,0-1,4.29,3.58,1.91
+2015/2016,Unknown,Manchester Utd vs Liverpool,3-1,1.94,3.36,4.52
+2015/2016,Unknown,Arsenal vs Stoke,2-0,1.29,5.94,10.9
+2015/2016,Unknown,Crystal Palace vs Manchester City,0-1,4.8,4.0,1.75
+2015/2016,Unknown,Norwich vs Bournemouth,3-1,2.39,3.41,3.07
+2015/2016,Unknown,Watford vs Swansea,1-0,2.6,3.27,2.88
+2015/2016,Unknown,West Brom vs Southampton,0-0,3.15,3.28,2.41
+2015/2016,Unknown,Everton vs Chelsea,3-1,3.45,3.47,2.17
+2015/2016,Unknown,Swansea vs Manchester Utd,2-1,3.72,3.37,2.13
+2015/2016,Unknown,Southampton vs Norwich,3-0,2.09,3.35,3.86
+2015/2016,Unknown,Tottenham vs Everton,0-0,2.07,3.48,3.77
+2015/2016,Unknown,Bournemouth vs Leicester,1-1,2.05,3.66,3.66
+2015/2016,Unknown,Chelsea vs Crystal Palace,1-2,1.37,4.98,9.47
+2015/2016,Unknown,Liverpool vs West Ham,0-3,1.36,5.16,9.37
+2015/2016,Unknown,Manchester City vs Watford,2-0,1.21,7.24,14.67
+2015/2016,Unknown,Stoke vs West Brom,0-1,2.09,3.23,4.06
+2015/2016,Unknown,Newcastle vs Arsenal,0-1,5.65,4.35,1.59
+2015/2016,Unknown,Arsenal vs Liverpool,0-0,1.78,4.01,4.49
+2015/2016,Unknown,Everton vs Manchester City,0-2,5.19,4.12,1.67
+2015/2016,Unknown,Watford vs Southampton,0-0,2.71,3.26,2.77
+2015/2016,Unknown,West Brom vs Chelsea,2-3,6.91,4.21,1.53
+2015/2016,Unknown,Crystal Palace vs Aston Villa,2-1,1.8,3.68,4.82
+2015/2016,Unknown,Norwich vs Stoke,1-1,2.16,3.38,3.61
+2015/2016,Unknown,Sunderland vs Swansea,1-1,3.87,3.41,2.06
+2015/2016,Unknown,West Ham vs Bournemouth,3-4,2.61,3.43,2.79
+2015/2016,Unknown,Manchester Utd vs Newcastle,0-0,1.34,5.29,10.08
+2015/2016,Unknown,Liverpool vs Bournemouth,1-0,1.51,4.29,7.19
+2015/2016,Unknown,Manchester City vs Chelsea,3-0,1.98,3.57,4.02
+2015/2016,Unknown,Crystal Palace vs Arsenal,1-2,5.17,3.98,1.69
+2015/2016,Unknown,Sunderland vs Norwich,1-3,2.87,3.13,2.62
+2015/2016,Unknown,Swansea vs Newcastle,2-0,1.82,3.71,4.43
+2015/2016,Unknown,Tottenham vs Stoke,2-2,1.69,3.79,5.35
+2015/2016,Unknown,Watford vs West Brom,0-0,2.03,3.48,3.77
+2015/2016,Unknown,West Ham vs Leicester,1-2,2.34,3.41,3.08
+2015/2016,Unknown,Southampton vs Everton,0-3,2.02,3.47,4.02
+2015/2016,Unknown,Aston Villa vs Manchester Utd,0-1,5.2,3.67,1.77
+2015/2016,Unknown,West Brom vs Manchester City,0-3,5.96,4.05,1.62
+2015/2016,Unknown,Stoke vs Liverpool,0-1,3.78,3.43,2.09
+2015/2016,Unknown,Arsenal vs West Ham,0-2,1.23,6.55,14.05
+2015/2016,Unknown,Newcastle vs Southampton,2-2,3.02,3.24,2.54
+2015/2016,Unknown,Chelsea vs Swansea,2-2,1.37,4.8,10.5
+2015/2016,Unknown,Bournemouth vs Aston Villa,0-1,1.83,3.77,4.51
+2015/2016,Unknown,Everton vs Watford,2-2,1.8,3.66,4.95
+2015/2016,Unknown,Leicester vs Sunderland,4-2,1.79,3.72,4.83
+2015/2016,Unknown,Manchester Utd vs Tottenham,1-0,1.63,3.96,5.9

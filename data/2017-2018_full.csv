@@ -1,0 +1,381 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2017/2018,Unknown,Burnley vs Bournemouth,1-2,136.0,246.0,212.0
+2017/2018,Unknown,Crystal Palace vs West Brom,2-0,-130.0,288.0,376.0
+2017/2018,Unknown,Huddersfield vs Arsenal,0-1,471.0,369.0,-179.0
+2017/2018,Unknown,Liverpool vs Brighton,4-0,-455.0,616.0,1209.0
+2017/2018,Unknown,Manchester Utd vs Watford,1-0,-192.0,337.0,583.0
+2017/2018,Unknown,Newcastle vs Chelsea,3-0,374.0,288.0,-128.0
+2017/2018,Unknown,Southampton vs Manchester City,0-1,525.0,359.0,-189.0
+2017/2018,Unknown,Swansea vs Stoke,1-2,104.0,254.0,280.0
+2017/2018,Unknown,Tottenham vs Leicester,5-4,-263.0,453.0,705.0
+2017/2018,Unknown,West Ham vs Everton,3-1,133.0,243.0,220.0
+2017/2018,Unknown,West Ham vs Manchester Utd,0-0,355.0,281.0,-122.0
+2017/2018,Unknown,Manchester City vs Brighton,3-1,-526.0,677.0,1478.0
+2017/2018,Unknown,Tottenham vs Newcastle,1-0,-476.0,636.0,1413.0
+2017/2018,Unknown,Chelsea vs Huddersfield,1-1,-417.0,515.0,1468.0
+2017/2018,Unknown,Leicester vs Arsenal,3-1,283.0,293.0,-105.0
+2017/2018,Unknown,Swansea vs Southampton,0-1,229.0,219.0,140.0
+2017/2018,Unknown,Arsenal vs Burnley,5-0,-244.0,399.0,718.0
+2017/2018,Unknown,Chelsea vs Liverpool,1-0,120.0,268.0,229.0
+2017/2018,Unknown,Manchester City vs Huddersfield,0-0,-1111.0,1213.0,2803.0
+2017/2018,Unknown,Everton vs Southampton,1-1,181.0,229.0,169.0
+2017/2018,Unknown,Bournemouth vs Swansea,1-0,100.0,259.0,295.0
+2017/2018,Unknown,Leicester vs West Ham,0-2,127.0,246.0,231.0
+2017/2018,Unknown,Watford vs Newcastle,2-1,121.0,234.0,261.0
+2017/2018,Unknown,West Brom vs Tottenham,1-0,648.0,353.0,-213.0
+2017/2018,Unknown,Stoke vs Crystal Palace,1-2,154.0,248.0,186.0
+2017/2018,Unknown,Brighton vs Manchester Utd,1-0,397.0,250.0,-119.0
+2017/2018,Unknown,Tottenham vs Watford,2-0,-588.0,757.0,1630.0
+2017/2018,Unknown,Manchester Utd vs Arsenal,2-1,-256.0,432.0,711.0
+2017/2018,Unknown,West Ham vs Manchester City,1-4,841.0,479.0,-303.0
+2017/2018,Unknown,Swansea vs Chelsea,0-1,667.0,374.0,-222.0
+2017/2018,Unknown,Burnley vs Brighton,0-0,137.0,212.0,247.0
+2017/2018,Unknown,Crystal Palace vs Leicester,5-0,108.0,254.0,275.0
+2017/2018,Unknown,Huddersfield vs Everton,0-2,169.0,206.0,200.0
+2017/2018,Unknown,Newcastle vs West Brom,0-1,-103.0,236.0,345.0
+2017/2018,Unknown,Southampton vs Bournemouth,2-1,-143.0,309.0,405.0
+2017/2018,Unknown,Liverpool vs Stoke,0-0,-345.0,504.0,1016.0
+2017/2018,Unknown,Everton vs Newcastle,1-0,117.0,231.0,271.0
+2017/2018,Unknown,Manchester City vs Swansea,5-0,-769.0,867.0,1955.0
+2017/2018,Unknown,Arsenal vs West Ham,4-1,-196.0,359.0,566.0
+2017/2018,Unknown,Stoke vs Burnley,1-1,124.0,237.0,247.0
+2017/2018,Unknown,Watford vs Crystal Palace,0-0,206.0,231.0,148.0
+2017/2018,Unknown,West Brom vs Liverpool,2-2,555.0,305.0,-169.0
+2017/2018,Unknown,Burnley vs Chelsea,1-2,346.0,252.0,-110.0
+2017/2018,Unknown,Leicester vs Southampton,0-0,139.0,242.0,210.0
+2017/2018,Unknown,Bournemouth vs Manchester Utd,0-2,350.0,285.0,-122.0
+2017/2018,Unknown,Brighton vs Tottenham,1-1,539.0,326.0,-179.0
+2017/2018,Unknown,West Ham vs Stoke,1-1,100.0,243.0,318.0
+2017/2018,Unknown,Manchester Utd vs West Brom,0-1,-526.0,629.0,1666.0
+2017/2018,Unknown,Newcastle vs Arsenal,2-1,188.0,247.0,152.0
+2017/2018,Unknown,Tottenham vs Manchester City,1-3,177.0,265.0,152.0
+2017/2018,Unknown,Liverpool vs Bournemouth,3-0,-455.0,619.0,1243.0
+2017/2018,Unknown,Burnley vs Leicester,2-1,162.0,218.0,199.0
+2017/2018,Unknown,Crystal Palace vs Brighton,3-2,-116.0,250.0,383.0
+2017/2018,Unknown,Huddersfield vs Watford,1-0,156.0,219.0,206.0
+2017/2018,Unknown,Swansea vs Everton,1-1,171.0,214.0,190.0
+2017/2018,Unknown,Southampton vs Chelsea,2-3,361.0,279.0,-123.0
+2017/2018,Unknown,Chelsea vs West Ham,1-1,-333.0,487.0,1010.0
+2017/2018,Unknown,Arsenal vs Southampton,3-2,-132.0,284.0,391.0
+2017/2018,Unknown,Manchester City vs Manchester Utd,2-3,-120.0,271.0,362.0
+2017/2018,Unknown,Bournemouth vs Crystal Palace,2-2,158.0,252.0,177.0
+2017/2018,Unknown,Brighton vs Huddersfield,1-1,-137.0,263.0,459.0
+2017/2018,Unknown,Leicester vs Newcastle,1-2,-116.0,254.0,370.0
+2017/2018,Unknown,Stoke vs Tottenham,1-2,1022.0,509.0,-345.0
+2017/2018,Unknown,Watford vs Burnley,1-2,134.0,220.0,243.0
+2017/2018,Unknown,West Brom vs Swansea,1-1,142.0,219.0,227.0
+2017/2018,Unknown,Everton vs Liverpool,0-0,265.0,244.0,114.0
+2017/2018,Unknown,Chelsea vs Tottenham,1-3,131.0,236.0,224.0
+2017/2018,Unknown,Arsenal vs Stoke,3-0,-345.0,493.0,961.0
+2017/2018,Unknown,Everton vs Manchester City,1-3,881.0,436.0,-303.0
+2017/2018,Unknown,Brighton vs Leicester,0-2,172.0,225.0,175.0
+2017/2018,Unknown,Manchester Utd vs Swansea,2-0,-455.0,562.0,1402.0
+2017/2018,Unknown,Newcastle vs Huddersfield,1-0,-132.0,262.0,438.0
+2017/2018,Unknown,Watford vs Bournemouth,2-2,127.0,246.0,231.0
+2017/2018,Unknown,West Brom vs Burnley,1-2,156.0,204.0,212.0
+2017/2018,Unknown,West Ham vs Southampton,3-0,187.0,224.0,168.0
+2017/2018,Unknown,Crystal Palace vs Liverpool,1-2,583.0,370.0,-204.0
+2017/2018,Unknown,Liverpool vs Watford,5-0,-588.0,769.0,1548.0
+2017/2018,Unknown,Bournemouth vs West Brom,2-1,-125.0,273.0,386.0
+2017/2018,Unknown,Huddersfield vs Crystal Palace,0-2,177.0,218.0,181.0
+2017/2018,Unknown,Stoke vs Everton,1-2,175.0,223.0,179.0
+2017/2018,Unknown,Stoke vs Manchester City,0-2,1291.0,574.0,-435.0
+2017/2018,Unknown,Bournemouth vs Tottenham,1-4,631.0,405.0,-227.0
+2017/2018,Unknown,Arsenal vs Watford,3-0,-196.0,351.0,583.0
+2017/2018,Unknown,Chelsea vs Crystal Palace,2-1,-333.0,467.0,1071.0
+2017/2018,Unknown,Everton vs Brighton,2-0,125.0,225.0,258.0
+2017/2018,Unknown,Huddersfield vs Swansea,0-0,150.0,208.0,227.0
+2017/2018,Unknown,Newcastle vs Southampton,3-0,166.0,215.0,195.0
+2017/2018,Unknown,West Brom vs Leicester,1-4,224.0,234.0,136.0
+2017/2018,Unknown,West Ham vs Burnley,0-3,124.0,216.0,273.0
+2017/2018,Unknown,Manchester Utd vs Liverpool,2-1,209.0,223.0,150.0
+2017/2018,Unknown,Crystal Palace vs Manchester Utd,2-3,679.0,363.0,-217.0
+2017/2018,Unknown,Manchester City vs Chelsea,1-0,-196.0,376.0,530.0
+2017/2018,Unknown,Brighton vs Arsenal,2-1,316.0,267.0,-108.0
+2017/2018,Unknown,Liverpool vs Newcastle,2-0,-500.0,648.0,1415.0
+2017/2018,Unknown,Leicester vs Bournemouth,1-1,-111.0,264.0,333.0
+2017/2018,Unknown,Southampton vs Stoke,0-0,-139.0,272.0,451.0
+2017/2018,Unknown,Swansea vs West Ham,4-1,160.0,206.0,213.0
+2017/2018,Unknown,Tottenham vs Huddersfield,2-0,-588.0,725.0,1867.0
+2017/2018,Unknown,Watford vs West Brom,1-0,138.0,218.0,240.0
+2017/2018,Unknown,Burnley vs Everton,2-1,156.0,195.0,229.0
+2017/2018,Unknown,Arsenal vs Manchester City,0-3,370.0,322.0,-139.0
+2017/2018,Unknown,Manchester Utd vs Chelsea,2-1,140.0,224.0,227.0
+2017/2018,Unknown,Crystal Palace vs Tottenham,0-1,815.0,448.0,-278.0
+2017/2018,Unknown,Watford vs Everton,1-0,140.0,224.0,225.0
+2017/2018,Unknown,Bournemouth vs Newcastle,2-2,-101.0,259.0,301.0
+2017/2018,Unknown,Brighton vs Swansea,4-1,104.0,219.0,337.0
+2017/2018,Unknown,Burnley vs Southampton,1-1,231.0,206.0,148.0
+2017/2018,Unknown,Liverpool vs West Ham,4-1,-435.0,598.0,1276.0
+2017/2018,Unknown,West Brom vs Huddersfield,1-2,-112.0,238.0,384.0
+2017/2018,Unknown,Leicester vs Stoke,1-1,-145.0,293.0,441.0
+2017/2018,Unknown,Chelsea vs West Brom,3-0,-294.0,420.0,980.0
+2017/2018,Unknown,Southampton vs Liverpool,0-2,405.0,295.0,-137.0
+2017/2018,Unknown,Newcastle vs Manchester Utd,1-0,520.0,311.0,-167.0
+2017/2018,Unknown,Huddersfield vs Bournemouth,4-1,213.0,231.0,143.0
+2017/2018,Unknown,Manchester City vs Leicester,5-1,-417.0,560.0,1280.0
+2017/2018,Unknown,Everton vs Crystal Palace,3-1,112.0,225.0,293.0
+2017/2018,Unknown,Stoke vs Brighton,1-1,136.0,224.0,236.0
+2017/2018,Unknown,Swansea vs Burnley,1-0,139.0,200.0,256.0
+2017/2018,Unknown,West Ham vs Watford,2-0,140.0,231.0,218.0
+2017/2018,Unknown,Tottenham vs Arsenal,1-0,-106.0,282.0,292.0
+2017/2018,Unknown,Watford vs Chelsea,4-1,560.0,338.0,-185.0
+2017/2018,Unknown,Liverpool vs Tottenham,2-2,100.0,278.0,279.0
+2017/2018,Unknown,Crystal Palace vs Newcastle,1-1,108.0,231.0,299.0
+2017/2018,Unknown,Arsenal vs Everton,5-1,-294.0,451.0,882.0
+2017/2018,Unknown,Bournemouth vs Stoke,2-1,-110.0,261.0,333.0
+2017/2018,Unknown,Brighton vs West Ham,3-1,127.0,202.0,284.0
+2017/2018,Unknown,Leicester vs Swansea,1-1,-118.0,248.0,398.0
+2017/2018,Unknown,Manchester Utd vs Huddersfield,2-0,-476.0,588.0,1554.0
+2017/2018,Unknown,West Brom vs Southampton,2-3,187.0,210.0,177.0
+2017/2018,Unknown,Burnley vs Manchester City,1-1,1152.0,472.0,-345.0
+2017/2018,Unknown,Manchester City vs West Brom,3-0,-667.0,802.0,2011.0
+2017/2018,Unknown,Stoke vs Watford,0-0,116.0,247.0,259.0
+2017/2018,Unknown,Tottenham vs Manchester Utd,2-0,139.0,239.0,213.0
+2017/2018,Unknown,Chelsea vs Bournemouth,0-3,-270.0,415.0,868.0
+2017/2018,Unknown,Everton vs Leicester,2-1,175.0,213.0,186.0
+2017/2018,Unknown,Newcastle vs Burnley,1-1,123.0,212.0,282.0
+2017/2018,Unknown,Southampton vs Brighton,1-1,-123.0,245.0,434.0
+2017/2018,Unknown,Huddersfield vs Liverpool,0-3,944.0,443.0,-303.0
+2017/2018,Unknown,Swansea vs Arsenal,3-1,587.0,330.0,-189.0
+2017/2018,Unknown,West Ham vs Crystal Palace,1-1,202.0,218.0,156.0
+2017/2018,Unknown,Swansea vs Liverpool,1-0,1041.0,487.0,-333.0
+2017/2018,Unknown,Southampton vs Tottenham,1-1,354.0,276.0,-119.0
+2017/2018,Unknown,Manchester City vs Newcastle,3-1,-833.0,906.0,2560.0
+2017/2018,Unknown,Arsenal vs Crystal Palace,4-1,-217.0,375.0,628.0
+2017/2018,Unknown,Burnley vs Manchester Utd,0-1,625.0,303.0,-182.0
+2017/2018,Unknown,Everton vs West Brom,1-1,147.0,196.0,247.0
+2017/2018,Unknown,Leicester vs Watford,2-0,-128.0,285.0,380.0
+2017/2018,Unknown,Stoke vs Huddersfield,2-0,104.0,242.0,305.0
+2017/2018,Unknown,West Ham vs Bournemouth,1-1,131.0,238.0,229.0
+2017/2018,Unknown,Brighton vs Chelsea,0-4,567.0,274.0,-159.0
+2017/2018,Unknown,Manchester Utd vs Stoke,3-0,-476.0,618.0,1470.0
+2017/2018,Unknown,Liverpool vs Manchester City,4-3,206.0,262.0,133.0
+2017/2018,Unknown,Bournemouth vs Arsenal,2-1,275.0,266.0,102.0
+2017/2018,Unknown,Tottenham vs Everton,4-0,-370.0,501.0,1145.0
+2017/2018,Unknown,Chelsea vs Leicester,0-0,-333.0,468.0,1078.0
+2017/2018,Unknown,Crystal Palace vs Burnley,1-0,120.0,218.0,283.0
+2017/2018,Unknown,Huddersfield vs West Ham,1-4,185.0,212.0,177.0
+2017/2018,Unknown,Newcastle vs Swansea,1-1,-133.0,262.0,451.0
+2017/2018,Unknown,Watford vs Southampton,2-2,167.0,235.0,179.0
+2017/2018,Unknown,West Brom vs Brighton,2-0,116.0,206.0,313.0
+2017/2018,Unknown,Tottenham vs West Ham,1-1,-345.0,501.0,1054.0
+2017/2018,Unknown,Arsenal vs Chelsea,2-2,222.0,238.0,135.0
+2017/2018,Unknown,Manchester City vs Watford,3-1,-833.0,947.0,1993.0
+2017/2018,Unknown,Southampton vs Crystal Palace,1-2,108.0,236.0,295.0
+2017/2018,Unknown,Swansea vs Tottenham,0-2,702.0,344.0,-213.0
+2017/2018,Unknown,West Ham vs West Brom,2-1,114.0,215.0,305.0
+2017/2018,Unknown,Everton vs Manchester Utd,0-2,459.0,277.0,-141.0
+2017/2018,Unknown,Burnley vs Liverpool,1-2,513.0,281.0,-154.0
+2017/2018,Unknown,Leicester vs Huddersfield,3-0,-125.0,252.0,420.0
+2017/2018,Unknown,Stoke vs Newcastle,0-1,129.0,229.0,243.0
+2017/2018,Unknown,Brighton vs Bournemouth,2-2,143.0,210.0,236.0
+2017/2018,Unknown,West Brom vs Arsenal,1-1,455.0,317.0,-156.0
+2017/2018,Unknown,Crystal Palace vs Manchester City,0-0,934.0,484.0,-312.0
+2017/2018,Unknown,Manchester Utd vs Southampton,0-0,-286.0,434.0,892.0
+2017/2018,Unknown,Bournemouth vs Everton,2-1,139.0,218.0,235.0
+2017/2018,Unknown,Chelsea vs Stoke,5-0,-714.0,840.0,2051.0
+2017/2018,Unknown,Huddersfield vs Burnley,0-0,141.0,197.0,256.0
+2017/2018,Unknown,Liverpool vs Leicester,2-1,-370.0,581.0,948.0
+2017/2018,Unknown,Newcastle vs Brighton,0-0,112.0,223.0,301.0
+2017/2018,Unknown,Watford vs Swansea,1-2,-123.0,258.0,403.0
+2017/2018,Unknown,Crystal Palace vs Arsenal,2-3,359.0,321.0,-135.0
+2017/2018,Unknown,Newcastle vs Manchester City,0-1,1180.0,571.0,-400.0
+2017/2018,Unknown,Liverpool vs Swansea,5-0,-714.0,861.0,1893.0
+2017/2018,Unknown,Bournemouth vs West Ham,3-3,156.0,219.0,204.0
+2017/2018,Unknown,Chelsea vs Brighton,2-0,-588.0,706.0,2085.0
+2017/2018,Unknown,Huddersfield vs Stoke,1-1,136.0,217.0,243.0
+2017/2018,Unknown,Manchester Utd vs Burnley,2-2,-385.0,518.0,1268.0
+2017/2018,Unknown,Watford vs Leicester,2-1,166.0,244.0,174.0
+2017/2018,Unknown,West Brom vs Everton,0-0,127.0,210.0,272.0
+2017/2018,Unknown,Tottenham vs Southampton,5-2,-294.0,448.0,876.0
+2017/2018,Unknown,Leicester vs Manchester Utd,2-2,313.0,265.0,-105.0
+2017/2018,Unknown,Burnley vs Tottenham,0-3,576.0,326.0,-185.0
+2017/2018,Unknown,Brighton vs Watford,1-0,168.0,216.0,190.0
+2017/2018,Unknown,Manchester City vs Bournemouth,4-0,-1111.0,1176.0,2873.0
+2017/2018,Unknown,Southampton vs Huddersfield,1-1,-152.0,283.0,501.0
+2017/2018,Unknown,Stoke vs West Brom,3-1,136.0,217.0,244.0
+2017/2018,Unknown,Swansea vs Crystal Palace,1-1,234.0,220.0,139.0
+2017/2018,Unknown,West Ham vs Newcastle,2-3,-102.0,239.0,334.0
+2017/2018,Unknown,Everton vs Chelsea,0-0,570.0,305.0,-175.0
+2017/2018,Unknown,Arsenal vs Liverpool,3-3,162.0,266.0,165.0
+2017/2018,Unknown,Everton vs Swansea,3-1,-127.0,252.0,434.0
+2017/2018,Unknown,Bournemouth vs Liverpool,0-4,608.0,413.0,-227.0
+2017/2018,Unknown,West Brom vs Manchester Utd,1-2,508.0,277.0,-152.0
+2017/2018,Unknown,Manchester City vs Tottenham,4-1,-161.0,344.0,430.0
+2017/2018,Unknown,Stoke vs West Ham,0-3,147.0,218.0,212.0
+2017/2018,Unknown,Arsenal vs Newcastle,1-0,-400.0,564.0,1117.0
+2017/2018,Unknown,Brighton vs Burnley,0-0,149.0,191.0,247.0
+2017/2018,Unknown,Chelsea vs Southampton,1-0,-244.0,393.0,750.0
+2017/2018,Unknown,Watford vs Huddersfield,1-4,-135.0,273.0,428.0
+2017/2018,Unknown,Leicester vs Crystal Palace,0-3,-130.0,280.0,394.0
+2017/2018,Unknown,Liverpool vs West Brom,0-0,-500.0,643.0,1475.0
+2017/2018,Unknown,Manchester Utd vs Bournemouth,1-0,-357.0,519.0,1002.0
+2017/2018,Unknown,Tottenham vs Brighton,2-0,-476.0,610.0,1490.0
+2017/2018,Unknown,West Ham vs Arsenal,0-0,423.0,326.0,-154.0
+2017/2018,Unknown,Newcastle vs Everton,0-1,122.0,227.0,265.0
+2017/2018,Unknown,Southampton vs Leicester,1-4,-104.0,249.0,329.0
+2017/2018,Unknown,Swansea vs Manchester City,0-4,1184.0,562.0,-400.0
+2017/2018,Unknown,Crystal Palace vs Watford,2-1,129.0,250.0,222.0
+2017/2018,Unknown,Huddersfield vs Chelsea,1-3,789.0,351.0,-227.0
+2017/2018,Unknown,Burnley vs Stoke,1-0,135.0,221.0,241.0
+2017/2018,Unknown,Manchester Utd vs Manchester City,1-2,234.0,254.0,122.0
+2017/2018,Unknown,Liverpool vs Everton,1-1,-278.0,416.0,852.0
+2017/2018,Unknown,Southampton vs Arsenal,1-1,318.0,278.0,-111.0
+2017/2018,Unknown,Newcastle vs Leicester,2-3,160.0,227.0,192.0
+2017/2018,Unknown,Burnley vs Watford,1-0,179.0,219.0,177.0
+2017/2018,Unknown,Crystal Palace vs Bournemouth,2-2,-109.0,264.0,326.0
+2017/2018,Unknown,Huddersfield vs Brighton,2-0,170.0,193.0,212.0
+2017/2018,Unknown,Swansea vs West Brom,1-0,184.0,196.0,193.0
+2017/2018,Unknown,Tottenham vs Stoke,5-1,-345.0,509.0,1022.0
+2017/2018,Unknown,West Ham vs Chelsea,1-0,616.0,354.0,-204.0
+2017/2018,Unknown,Manchester City vs West Ham,2-1,-833.0,997.0,2252.0
+2017/2018,Unknown,Bournemouth vs Southampton,1-1,236.0,227.0,134.0
+2017/2018,Unknown,Arsenal vs Manchester Utd,1-3,135.0,236.0,225.0
+2017/2018,Unknown,Brighton vs Liverpool,1-5,586.0,333.0,-189.0
+2017/2018,Unknown,Everton vs Huddersfield,2-0,-114.0,248.0,379.0
+2017/2018,Unknown,Leicester vs Burnley,1-0,102.0,233.0,323.0
+2017/2018,Unknown,Stoke vs Swansea,2-1,-120.0,260.0,384.0
+2017/2018,Unknown,Watford vs Tottenham,1-1,418.0,330.0,-154.0
+2017/2018,Unknown,West Brom vs Crystal Palace,0-0,168.0,208.0,198.0
+2017/2018,Unknown,Chelsea vs Newcastle,3-1,-417.0,543.0,1350.0
+2017/2018,Unknown,Everton vs West Ham,4-0,147.0,225.0,214.0
+2017/2018,Unknown,Manchester City vs Southampton,2-1,-417.0,561.0,1227.0
+2017/2018,Unknown,Stoke vs Liverpool,0-3,498.0,338.0,-172.0
+2017/2018,Unknown,Arsenal vs Huddersfield,5-0,-526.0,670.0,1573.0
+2017/2018,Unknown,Bournemouth vs Burnley,1-2,121.0,220.0,279.0
+2017/2018,Unknown,Chelsea vs Swansea,1-0,-500.0,636.0,1573.0
+2017/2018,Unknown,Watford vs Manchester Utd,2-4,399.0,280.0,-132.0
+2017/2018,Unknown,West Brom vs Newcastle,2-2,140.0,211.0,240.0
+2017/2018,Unknown,Brighton vs Crystal Palace,0-0,165.0,210.0,200.0
+2017/2018,Unknown,Leicester vs Tottenham,2-1,396.0,278.0,-130.0
+2017/2018,Unknown,Huddersfield vs Manchester City,1-2,1680.0,709.0,-556.0
+2017/2018,Unknown,Burnley vs Arsenal,0-1,495.0,316.0,-164.0
+2017/2018,Unknown,Southampton vs Everton,4-1,-116.0,254.0,375.0
+2017/2018,Unknown,Liverpool vs Chelsea,1-1,118.0,259.0,242.0
+2017/2018,Unknown,Crystal Palace vs Stoke,2-1,-104.0,258.0,316.0
+2017/2018,Unknown,Manchester Utd vs Brighton,1-0,-526.0,614.0,1791.0
+2017/2018,Unknown,Newcastle vs Watford,0-3,131.0,237.0,227.0
+2017/2018,Unknown,Swansea vs Bournemouth,0-0,195.0,223.0,161.0
+2017/2018,Unknown,Tottenham vs West Brom,1-1,-435.0,572.0,1331.0
+2017/2018,Unknown,West Ham vs Leicester,1-1,181.0,227.0,169.0
+2017/2018,Unknown,Brighton vs Stoke,2-2,138.0,215.0,241.0
+2017/2018,Unknown,Watford vs West Ham,2-0,129.0,224.0,249.0
+2017/2018,Unknown,Manchester Utd vs Newcastle,4-1,-357.0,473.0,1239.0
+2017/2018,Unknown,Bournemouth vs Huddersfield,4-0,-127.0,263.0,407.0
+2017/2018,Unknown,Burnley vs Swansea,2-0,134.0,200.0,269.0
+2017/2018,Unknown,Crystal Palace vs Everton,2-2,124.0,225.0,262.0
+2017/2018,Unknown,Leicester vs Manchester City,0-2,700.0,466.0,-270.0
+2017/2018,Unknown,Liverpool vs Southampton,3-0,-238.0,398.0,703.0
+2017/2018,Unknown,West Brom vs Chelsea,0-4,587.0,320.0,-182.0
+2017/2018,Unknown,Arsenal vs Tottenham,2-0,150.0,248.0,189.0
+2017/2018,Unknown,Chelsea vs Manchester Utd,1-0,156.0,210.0,212.0
+2017/2018,Unknown,Everton vs Watford,3-2,127.0,227.0,252.0
+2017/2018,Unknown,Manchester City vs Arsenal,3-1,-250.0,451.0,636.0
+2017/2018,Unknown,Tottenham vs Crystal Palace,1-0,-312.0,458.0,957.0
+2017/2018,Unknown,West Ham vs Liverpool,1-4,509.0,355.0,-185.0
+2017/2018,Unknown,Huddersfield vs West Brom,1-0,192.0,193.0,189.0
+2017/2018,Unknown,Newcastle vs Bournemouth,0-1,-119.0,262.0,376.0
+2017/2018,Unknown,Southampton vs Burnley,0-1,-152.0,266.0,549.0
+2017/2018,Unknown,Swansea vs Brighton,0-1,156.0,200.0,220.0
+2017/2018,Unknown,Stoke vs Leicester,2-2,162.0,225.0,191.0
+2017/2018,Unknown,Burnley vs Newcastle,1-0,219.0,210.0,152.0
+2017/2018,Unknown,Leicester vs Everton,2-0,106.0,245.0,289.0
+2017/2018,Unknown,Brighton vs Southampton,1-1,238.0,219.0,136.0
+2017/2018,Unknown,Bournemouth vs Chelsea,0-1,499.0,330.0,-172.0
+2017/2018,Unknown,Arsenal vs Swansea,2-1,-500.0,667.0,1365.0
+2017/2018,Unknown,Crystal Palace vs West Ham,2-2,154.0,214.0,211.0
+2017/2018,Unknown,Liverpool vs Huddersfield,3-0,-400.0,546.0,1251.0
+2017/2018,Unknown,Watford vs Stoke,0-1,102.0,256.0,292.0
+2017/2018,Unknown,West Brom vs Manchester City,2-3,1071.0,497.0,-357.0
+2017/2018,Unknown,Manchester Utd vs Tottenham,1-0,110.0,234.0,286.0
+2017/2018,Unknown,Tottenham vs Liverpool,4-1,119.0,261.0,236.0
+2017/2018,Unknown,Everton vs Arsenal,2-5,345.0,285.0,-120.0
+2017/2018,Unknown,Southampton vs West Brom,1-0,-118.0,237.0,412.0
+2017/2018,Unknown,Huddersfield vs Manchester Utd,2-1,851.0,376.0,-256.0
+2017/2018,Unknown,Manchester City vs Burnley,3-0,-909.0,982.0,2255.0
+2017/2018,Unknown,Newcastle vs Crystal Palace,1-0,-115.0,258.0,357.0
+2017/2018,Unknown,Stoke vs Bournemouth,1-2,114.0,248.0,260.0
+2017/2018,Unknown,Swansea vs Leicester,1-2,186.0,223.0,168.0
+2017/2018,Unknown,Chelsea vs Watford,4-2,-270.0,433.0,786.0
+2017/2018,Unknown,West Ham vs Brighton,0-3,-125.0,250.0,418.0
+2017/2018,Unknown,Leicester vs West Brom,1-1,100.0,237.0,326.0
+2017/2018,Unknown,Southampton vs Newcastle,2-2,-112.0,249.0,363.0
+2017/2018,Unknown,Brighton vs Everton,1-1,216.0,216.0,150.0
+2017/2018,Unknown,Watford vs Arsenal,2-1,388.0,309.0,-141.0
+2017/2018,Unknown,Burnley vs West Ham,1-1,191.0,225.0,161.0
+2017/2018,Unknown,Crystal Palace vs Chelsea,2-1,680.0,354.0,-217.0
+2017/2018,Unknown,Manchester City vs Stoke,7-2,-769.0,875.0,1868.0
+2017/2018,Unknown,Swansea vs Huddersfield,2-0,104.0,227.0,317.0
+2017/2018,Unknown,Tottenham vs Bournemouth,1-0,-435.0,600.0,1179.0
+2017/2018,Unknown,Liverpool vs Manchester Utd,0-0,171.0,227.0,177.0
+2017/2018,Unknown,Newcastle vs Liverpool,1-1,386.0,309.0,-137.0
+2017/2018,Unknown,Everton vs Burnley,0-1,-139.0,270.0,458.0
+2017/2018,Unknown,Arsenal vs Brighton,2-0,-400.0,546.0,1250.0
+2017/2018,Unknown,Chelsea vs Manchester City,0-1,170.0,249.0,168.0
+2017/2018,Unknown,Bournemouth vs Leicester,0-0,160.0,247.0,177.0
+2017/2018,Unknown,Manchester Utd vs Crystal Palace,4-0,-500.0,621.0,1610.0
+2017/2018,Unknown,Stoke vs Southampton,2-1,190.0,234.0,158.0
+2017/2018,Unknown,West Brom vs Watford,2-2,117.0,229.0,274.0
+2017/2018,Unknown,West Ham vs Swansea,1-0,-118.0,261.0,370.0
+2017/2018,Unknown,Huddersfield vs Tottenham,0-4,783.0,374.0,-238.0
+2017/2018,Unknown,Arsenal vs West Brom,2-0,-303.0,447.0,957.0
+2017/2018,Unknown,Brighton vs Newcastle,1-0,181.0,214.0,179.0
+2017/2018,Unknown,Leicester vs Liverpool,2-3,330.0,304.0,-122.0
+2017/2018,Unknown,Burnley vs Huddersfield,0-0,136.0,217.0,243.0
+2017/2018,Unknown,Everton vs Bournemouth,2-1,-133.0,276.0,417.0
+2017/2018,Unknown,Manchester City vs Crystal Palace,5-0,-769.0,894.0,1970.0
+2017/2018,Unknown,Southampton vs Manchester Utd,0-1,373.0,270.0,-122.0
+2017/2018,Unknown,Stoke vs Chelsea,0-4,542.0,344.0,-185.0
+2017/2018,Unknown,Swansea vs Watford,1-2,133.0,225.0,241.0
+2017/2018,Unknown,West Ham vs Tottenham,2-3,479.0,326.0,-167.0
+2017/2018,Unknown,Manchester Utd vs Everton,4-0,-294.0,421.0,927.0
+2017/2018,Unknown,Chelsea vs Arsenal,0-0,-132.0,296.0,376.0
+2017/2018,Unknown,Tottenham vs Swansea,0-0,-500.0,662.0,1348.0
+2017/2018,Unknown,Huddersfield vs Leicester,1-1,252.0,234.0,124.0
+2017/2018,Unknown,Liverpool vs Burnley,1-1,-385.0,542.0,1169.0
+2017/2018,Unknown,Newcastle vs Stoke,2-1,114.0,239.0,273.0
+2017/2018,Unknown,Watford vs Manchester City,0-6,846.0,488.0,-312.0
+2017/2018,Unknown,West Brom vs West Ham,0-0,133.0,223.0,244.0
+2017/2018,Unknown,Crystal Palace vs Southampton,0-1,186.0,222.0,169.0
+2017/2018,Unknown,Bournemouth vs Brighton,2-1,112.0,240.0,273.0
+2017/2018,Unknown,West Ham vs Huddersfield,2-0,104.0,243.0,301.0
+2017/2018,Unknown,Swansea vs Newcastle,0-1,146.0,223.0,217.0
+2017/2018,Unknown,Burnley vs Crystal Palace,1-0,122.0,231.0,259.0
+2017/2018,Unknown,Stoke vs Manchester Utd,2-2,625.0,326.0,-192.0
+2017/2018,Unknown,Arsenal vs Bournemouth,3-0,-323.0,525.0,852.0
+2017/2018,Unknown,Brighton vs West Brom,3-1,167.0,206.0,202.0
+2017/2018,Unknown,Everton vs Tottenham,0-3,294.0,256.0,102.0
+2017/2018,Unknown,Leicester vs Chelsea,1-2,375.0,286.0,-127.0
+2017/2018,Unknown,Southampton vs Watford,0-2,-145.0,289.0,447.0
+2017/2018,Unknown,Manchester City vs Liverpool,5-0,-112.0,297.0,303.0
+2017/2018,Unknown,Liverpool vs Arsenal,4-0,120.0,269.0,225.0
+2017/2018,Unknown,Tottenham vs Burnley,1-1,-476.0,614.0,1464.0
+2017/2018,Unknown,Chelsea vs Everton,2-0,-192.0,337.0,605.0
+2017/2018,Unknown,West Brom vs Stoke,1-1,152.0,217.0,212.0
+2017/2018,Unknown,Manchester Utd vs Leicester,2-0,-323.0,461.0,984.0
+2017/2018,Unknown,Crystal Palace vs Swansea,0-2,106.0,233.0,305.0
+2017/2018,Unknown,Huddersfield vs Southampton,0-0,313.0,250.0,-101.0
+2017/2018,Unknown,Newcastle vs West Ham,3-0,136.0,239.0,222.0
+2017/2018,Unknown,Watford vs Brighton,0-0,116.0,227.0,282.0
+2017/2018,Unknown,Bournemouth vs Manchester City,1-2,1058.0,563.0,-385.0
+2017/2018,Unknown,Manchester City vs Everton,1-1,-345.0,498.0,1015.0
+2017/2018,Unknown,Tottenham vs Chelsea,1-2,114.0,236.0,273.0
+2017/2018,Unknown,Huddersfield vs Newcastle,1-0,181.0,216.0,177.0
+2017/2018,Unknown,Stoke vs Arsenal,1-0,325.0,282.0,-115.0
+2017/2018,Unknown,Bournemouth vs Watford,0-2,102.0,259.0,282.0
+2017/2018,Unknown,Burnley vs West Brom,0-1,160.0,209.0,209.0
+2017/2018,Unknown,Leicester vs Brighton,2-0,-135.0,273.0,434.0
+2017/2018,Unknown,Liverpool vs Crystal Palace,1-0,-256.0,413.0,760.0
+2017/2018,Unknown,Southampton vs West Ham,3-2,-141.0,294.0,417.0
+2017/2018,Unknown,Swansea vs Manchester Utd,0-4,961.0,409.0,-286.0
+2017/2018,Unknown,Manchester Utd vs West Ham,4-0,-333.0,468.0,1057.0
+2017/2018,Unknown,Newcastle vs Tottenham,0-2,393.0,290.0,-133.0
+2017/2018,Unknown,Brighton vs Manchester City,0-2,977.0,495.0,-333.0
+2017/2018,Unknown,Chelsea vs Burnley,2-3,-323.0,455.0,1127.0
+2017/2018,Unknown,Crystal Palace vs Huddersfield,0-3,-122.0,258.0,398.0
+2017/2018,Unknown,Everton vs Stoke,1-0,-127.0,254.0,428.0
+2017/2018,Unknown,Southampton vs Swansea,0-0,-167.0,305.0,529.0
+2017/2018,Unknown,West Brom vs Bournemouth,1-0,159.0,220.0,200.0
+2017/2018,Unknown,Watford vs Liverpool,3-3,558.0,324.0,-179.0
+2017/2018,Unknown,Arsenal vs Leicester,4-3,-200.0,363.0,597.0

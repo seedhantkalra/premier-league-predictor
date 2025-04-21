@@ -103,13 +103,13 @@ def scrape_all_pages(season):
     driver = init_driver()
     driver.get(url)
 
-    print("✅ Please accept cookies if prompted...")
+    print("Please accept cookies if prompted...")
     try:
         WebDriverWait(driver, 20).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, "div.border-black-borders.border-b.border-l.border-r"))
         )
     except:
-        print(f"❌ No match blocks found for {season}. Skipping.")
+        print(f"No match blocks found for {season}. Skipping.")
         driver.quit()
         return pd.DataFrame()
 
@@ -118,7 +118,7 @@ def scrape_all_pages(season):
     page = 1
 
     while True:
-        print(f"\n📄 Scraping Page {page}...")
+        print(f"\nScraping Page {page}...")
         all_data += parse_page_matches(driver, season)
 
         try:
@@ -142,11 +142,11 @@ def scrape_all_pages(season):
                 page += 1
                 time.sleep(4)
             else:
-                print("❌ No more pages found.")
+                print("No more pages found.")
                 break
 
         except Exception as e:
-            print(f"❌ Error clicking next: {e}")
+            print(f"Error clicking next: {e}")
             break
 
     driver.quit()

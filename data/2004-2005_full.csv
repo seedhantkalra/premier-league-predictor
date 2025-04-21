@@ -1,0 +1,371 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2004/2005,Unknown,Birmingham vs Arsenal,2-1,301.0,240.0,-125.0
+2004/2005,Unknown,Bolton vs Everton,3-2,-118.0,234.0,298.0
+2004/2005,Unknown,Charlton vs Crystal Palace,2-2,164.0,245.0,134.0
+2004/2005,Unknown,Fulham vs Norwich,6-0,166.0,243.0,136.0
+2004/2005,Unknown,Liverpool vs Aston Villa,2-1,-159.0,241.0,433.0
+2004/2005,Unknown,Manchester City vs Middlesbrough,1-1,102.0,217.0,252.0
+2004/2005,Unknown,Newcastle vs Chelsea,1-1,234.0,227.0,104.0
+2004/2005,Unknown,Southampton vs Manchester Utd,1-2,159.0,250.0,139.0
+2004/2005,Unknown,Tottenham vs Blackburn,0-0,-185.0,257.0,501.0
+2004/2005,Unknown,West Brom vs Portsmouth,2-0,-185.0,277.0,463.0
+2004/2005,Unknown,Arsenal vs Everton,7-0,-204.0,268.0,543.0
+2004/2005,Unknown,Manchester Utd vs Chelsea,1-3,112.0,215.0,231.0
+2004/2005,Unknown,Arsenal vs Liverpool,3-1,-132.0,237.0,340.0
+2004/2005,Unknown,Manchester Utd vs West Brom,1-1,-333.0,373.0,858.0
+2004/2005,Unknown,Aston Villa vs Manchester City,1-2,127.0,225.0,187.0
+2004/2005,Unknown,Blackburn vs Fulham,1-3,102.0,221.0,246.0
+2004/2005,Unknown,Chelsea vs Charlton,1-0,-312.0,343.0,807.0
+2004/2005,Unknown,Crystal Palace vs Southampton,2-2,117.0,223.0,208.0
+2004/2005,Unknown,Everton vs Newcastle,2-0,-141.0,234.0,375.0
+2004/2005,Unknown,Middlesbrough vs Tottenham,1-0,124.0,218.0,199.0
+2004/2005,Unknown,Norwich vs Birmingham,1-0,-116.0,239.0,277.0
+2004/2005,Unknown,Portsmouth vs Bolton,1-1,177.0,225.0,134.0
+2004/2005,Unknown,Fulham vs Newcastle,1-3,118.0,218.0,214.0
+2004/2005,Unknown,West Brom vs Arsenal,0-2,458.0,256.0,-175.0
+2004/2005,Unknown,Charlton vs Manchester Utd,0-4,443.0,250.0,-167.0
+2004/2005,Unknown,Tottenham vs Aston Villa,5-1,-108.0,227.0,277.0
+2004/2005,Unknown,Bolton vs Chelsea,0-2,270.0,229.0,-118.0
+2004/2005,Unknown,Birmingham vs Blackburn,2-1,112.0,221.0,225.0
+2004/2005,Unknown,Fulham vs Everton,2-0,166.0,220.0,149.0
+2004/2005,Unknown,Liverpool vs Middlesbrough,1-1,-143.0,239.0,380.0
+2004/2005,Unknown,Manchester City vs Portsmouth,2-0,-132.0,233.0,348.0
+2004/2005,Unknown,Newcastle vs Crystal Palace,0-0,-119.0,231.0,301.0
+2004/2005,Unknown,Southampton vs Norwich,4-3,102.0,229.0,239.0
+2004/2005,Unknown,Newcastle vs Middlesbrough,0-0,114.0,220.0,219.0
+2004/2005,Unknown,West Brom vs Blackburn,1-1,104.0,223.0,242.0
+2004/2005,Unknown,Arsenal vs Tottenham,1-0,-213.0,271.0,603.0
+2004/2005,Unknown,Manchester Utd vs Newcastle,2-1,-294.0,333.0,771.0
+2004/2005,Unknown,Portsmouth vs Southampton,4-1,122.0,218.0,208.0
+2004/2005,Unknown,Aston Villa vs Bolton,1-1,131.0,218.0,189.0
+2004/2005,Unknown,Blackburn vs Manchester City,0-0,127.0,218.0,198.0
+2004/2005,Unknown,Crystal Palace vs Liverpool,1-0,268.0,235.0,-109.0
+2004/2005,Unknown,Middlesbrough vs West Brom,4-0,-110.0,227.0,285.0
+2004/2005,Unknown,Norwich vs Charlton,1-0,114.0,231.0,211.0
+2004/2005,Unknown,Chelsea vs Fulham,3-1,-345.0,363.0,863.0
+2004/2005,Unknown,Everton vs Birmingham,1-1,-154.0,237.0,428.0
+2004/2005,Unknown,Blackburn vs Crystal Palace,1-0,-115.0,229.0,295.0
+2004/2005,Unknown,Chelsea vs Arsenal,0-0,102.0,216.0,254.0
+2004/2005,Unknown,Everton vs Manchester Utd,1-0,358.0,229.0,-132.0
+2004/2005,Unknown,Manchester City vs Birmingham,3-0,-104.0,223.0,269.0
+2004/2005,Unknown,Tottenham vs West Brom,1-1,-147.0,240.0,396.0
+2004/2005,Unknown,Aston Villa vs Charlton,0-0,-114.0,225.0,296.0
+2004/2005,Unknown,Norwich vs Newcastle,2-1,133.0,225.0,184.0
+2004/2005,Unknown,Portsmouth vs Liverpool,1-2,238.0,222.0,106.0
+2004/2005,Unknown,Bolton vs Southampton,1-1,-167.0,250.0,440.0
+2004/2005,Unknown,Middlesbrough vs Fulham,1-1,-123.0,225.0,332.0
+2004/2005,Unknown,Birmingham vs Portsmouth,0-0,-118.0,225.0,311.0
+2004/2005,Unknown,Charlton vs Bolton,1-2,154.0,216.0,159.0
+2004/2005,Unknown,Crystal Palace vs Norwich,3-3,-101.0,222.0,260.0
+2004/2005,Unknown,Fulham vs Manchester City,1-1,136.0,217.0,183.0
+2004/2005,Unknown,Liverpool vs Tottenham,2-2,-135.0,243.0,358.0
+2004/2005,Unknown,Southampton vs Aston Villa,2-3,108.0,221.0,233.0
+2004/2005,Unknown,Tottenham vs Newcastle,1-0,-103.0,221.0,268.0
+2004/2005,Unknown,Everton vs Crystal Palace,4-0,-154.0,239.0,426.0
+2004/2005,Unknown,Aston Villa vs West Brom,1-1,-114.0,225.0,304.0
+2004/2005,Unknown,Norwich vs Manchester Utd,2-0,739.0,324.0,-286.0
+2004/2005,Unknown,Blackburn vs Southampton,3-0,104.0,214.0,257.0
+2004/2005,Unknown,Bolton vs Fulham,3-1,-139.0,235.0,380.0
+2004/2005,Unknown,Chelsea vs Birmingham,1-1,-357.0,375.0,886.0
+2004/2005,Unknown,Manchester City vs Liverpool,1-0,175.0,214.0,144.0
+2004/2005,Unknown,Middlesbrough vs Arsenal,0-1,384.0,235.0,-143.0
+2004/2005,Unknown,Portsmouth vs Charlton,4-2,123.0,217.0,208.0
+2004/2005,Unknown,West Brom vs Everton,1-0,167.0,217.0,148.0
+2004/2005,Unknown,Fulham vs Portsmouth,3-1,106.0,217.0,246.0
+2004/2005,Unknown,Southampton vs Chelsea,1-3,503.0,249.0,-179.0
+2004/2005,Unknown,Arsenal vs Norwich,4-1,-556.0,473.0,899.0
+2004/2005,Unknown,Birmingham vs Tottenham,1-1,129.0,214.0,198.0
+2004/2005,Unknown,Crystal Palace vs Middlesbrough,0-1,140.0,217.0,177.0
+2004/2005,Unknown,Liverpool vs Bolton,1-0,-119.0,220.0,326.0
+2004/2005,Unknown,Manchester Utd vs Blackburn,0-0,-370.0,383.0,874.0
+2004/2005,Unknown,Newcastle vs Aston Villa,0-3,-154.0,240.0,436.0
+2004/2005,Unknown,Charlton vs Manchester City,2-2,112.0,217.0,229.0
+2004/2005,Unknown,Liverpool vs Everton,2-1,-122.0,216.0,343.0
+2004/2005,Unknown,Middlesbrough vs Southampton,1-3,104.0,218.0,247.0
+2004/2005,Unknown,Birmingham vs Aston Villa,2-0,129.0,202.0,206.0
+2004/2005,Unknown,Bolton vs Norwich,1-0,-182.0,252.0,505.0
+2004/2005,Unknown,Charlton vs West Brom,1-4,-147.0,238.0,403.0
+2004/2005,Unknown,Chelsea vs Crystal Palace,4-1,-526.0,465.0,899.0
+2004/2005,Unknown,Manchester Utd vs Fulham,1-0,-417.0,397.0,899.0
+2004/2005,Unknown,Portsmouth vs Newcastle,1-1,174.0,217.0,144.0
+2004/2005,Unknown,Tottenham vs Manchester City,2-1,-122.0,223.0,325.0
+2004/2005,Unknown,Blackburn vs Arsenal,0-1,323.0,229.0,-122.0
+2004/2005,Unknown,Charlton vs Tottenham,2-0,139.0,218.0,177.0
+2004/2005,Unknown,Liverpool vs Blackburn,0-0,-189.0,252.0,533.0
+2004/2005,Unknown,Chelsea vs West Brom,1-0,-667.0,514.0,899.0
+2004/2005,Unknown,Manchester City vs Bolton,0-1,135.0,215.0,187.0
+2004/2005,Unknown,Everton vs Blackburn,0-1,-132.0,231.0,363.0
+2004/2005,Unknown,West Brom vs Birmingham,2-0,167.0,211.0,154.0
+2004/2005,Unknown,Norwich vs Chelsea,1-3,695.0,305.0,-256.0
+2004/2005,Unknown,Newcastle vs Liverpool,1-0,137.0,216.0,186.0
+2004/2005,Unknown,Southampton vs Tottenham,1-0,147.0,217.0,174.0
+2004/2005,Unknown,Arsenal vs Portsmouth,3-0,-294.0,334.0,794.0
+2004/2005,Unknown,Crystal Palace vs Manchester Utd,0-0,624.0,283.0,-222.0
+2004/2005,Unknown,Fulham vs Charlton,0-0,125.0,219.0,202.0
+2004/2005,Unknown,Aston Villa vs Middlesbrough,2-0,127.0,219.0,200.0
+2004/2005,Unknown,Norwich vs Manchester City,2-3,166.0,211.0,162.0
+2004/2005,Unknown,Middlesbrough vs Charlton,2-2,-110.0,221.0,296.0
+2004/2005,Unknown,Newcastle vs Bolton,2-1,-110.0,225.0,286.0
+2004/2005,Unknown,Manchester Utd vs Portsmouth,2-1,-476.0,436.0,899.0
+2004/2005,Unknown,Aston Villa vs Everton,1-3,116.0,218.0,222.0
+2004/2005,Unknown,Crystal Palace vs Birmingham,2-0,158.0,216.0,162.0
+2004/2005,Unknown,Tottenham vs Fulham,2-0,-119.0,224.0,325.0
+2004/2005,Unknown,Southampton vs Arsenal,1-1,461.0,254.0,-169.0
+2004/2005,Unknown,West Brom vs Southampton,0-0,131.0,217.0,195.0
+2004/2005,Unknown,Arsenal vs Crystal Palace,5-1,-500.0,442.0,899.0
+2004/2005,Unknown,Manchester City vs Manchester Utd,0-2,359.0,231.0,-132.0
+2004/2005,Unknown,Bolton vs Middlesbrough,0-0,104.0,220.0,250.0
+2004/2005,Unknown,Birmingham vs Liverpool,2-0,214.0,220.0,119.0
+2004/2005,Unknown,Blackburn vs Norwich,3-0,-135.0,229.0,375.0
+2004/2005,Unknown,Portsmouth vs Aston Villa,1-2,127.0,218.0,200.0
+2004/2005,Unknown,Everton vs Chelsea,0-1,337.0,225.0,-123.0
+2004/2005,Unknown,Chelsea vs Manchester City,0-0,-400.0,421.0,866.0
+2004/2005,Unknown,Southampton vs Everton,2-2,152.0,217.0,165.0
+2004/2005,Unknown,Aston Villa vs Arsenal,1-3,305.0,235.0,-118.0
+2004/2005,Unknown,Liverpool vs Fulham,3-1,-222.0,284.0,652.0
+2004/2005,Unknown,Manchester Utd vs Birmingham,2-0,-400.0,413.0,877.0
+2004/2005,Unknown,Middlesbrough vs Blackburn,1-0,100.0,211.0,272.0
+2004/2005,Unknown,Newcastle vs Charlton,1-1,-128.0,235.0,343.0
+2004/2005,Unknown,Norwich vs West Brom,3-2,125.0,217.0,206.0
+2004/2005,Unknown,Tottenham vs Portsmouth,3-1,-141.0,239.0,378.0
+2004/2005,Unknown,Crystal Palace vs Bolton,0-1,156.0,219.0,158.0
+2004/2005,Unknown,Blackburn vs Chelsea,0-1,567.0,281.0,-208.0
+2004/2005,Unknown,Everton vs Norwich,1-0,-182.0,259.0,526.0
+2004/2005,Unknown,Birmingham vs Southampton,2-1,-112.0,224.0,296.0
+2004/2005,Unknown,Fulham vs Aston Villa,1-1,129.0,216.0,196.0
+2004/2005,Unknown,Manchester City vs Newcastle,1-1,135.0,217.0,188.0
+2004/2005,Unknown,Arsenal vs Manchester Utd,2-4,129.0,214.0,206.0
+2004/2005,Unknown,Bolton vs Tottenham,3-1,120.0,221.0,209.0
+2004/2005,Unknown,Charlton vs Liverpool,1-2,181.0,220.0,136.0
+2004/2005,Unknown,Portsmouth vs Middlesbrough,2-1,154.0,220.0,162.0
+2004/2005,Unknown,West Brom vs Crystal Palace,2-2,123.0,222.0,204.0
+2004/2005,Unknown,Blackburn vs Bolton,0-1,125.0,214.0,206.0
+2004/2005,Unknown,Arsenal vs Newcastle,1-0,-222.0,289.0,598.0
+2004/2005,Unknown,West Brom vs Manchester City,2-0,204.0,221.0,122.0
+2004/2005,Unknown,Birmingham vs Fulham,1-2,-110.0,220.0,295.0
+2004/2005,Unknown,Chelsea vs Portsmouth,3-0,-500.0,471.0,882.0
+2004/2005,Unknown,Crystal Palace vs Tottenham,3-0,204.0,225.0,121.0
+2004/2005,Unknown,Everton vs Charlton,0-1,-110.0,227.0,291.0
+2004/2005,Unknown,Manchester Utd vs Aston Villa,3-1,-303.0,348.0,781.0
+2004/2005,Unknown,Norwich vs Middlesbrough,4-4,200.0,220.0,125.0
+2004/2005,Unknown,Southampton vs Liverpool,2-0,343.0,229.0,-127.0
+2004/2005,Unknown,Fulham vs West Brom,1-0,-132.0,223.0,380.0
+2004/2005,Unknown,Middlesbrough vs Everton,1-1,-101.0,221.0,263.0
+2004/2005,Unknown,Bolton vs Arsenal,1-0,454.0,245.0,-164.0
+2004/2005,Unknown,Aston Villa vs Norwich,3-0,-152.0,239.0,430.0
+2004/2005,Unknown,Charlton vs Birmingham,3-1,114.0,213.0,231.0
+2004/2005,Unknown,Manchester City vs Crystal Palace,3-1,-159.0,243.0,433.0
+2004/2005,Unknown,Newcastle vs Southampton,2-1,-189.0,259.0,523.0
+2004/2005,Unknown,Portsmouth vs Blackburn,0-1,110.0,216.0,237.0
+2004/2005,Unknown,Tottenham vs Chelsea,0-2,309.0,229.0,-118.0
+2004/2005,Unknown,Liverpool vs Manchester Utd,0-1,167.0,210.0,173.0
+2004/2005,Unknown,Southampton vs Fulham,3-3,131.0,218.0,189.0
+2004/2005,Unknown,Everton vs Portsmouth,2-1,-128.0,225.0,357.0
+2004/2005,Unknown,Manchester Utd vs Tottenham,0-0,-250.0,305.0,650.0
+2004/2005,Unknown,Arsenal vs Manchester City,1-1,-370.0,367.0,883.0
+2004/2005,Unknown,Birmingham vs Bolton,1-2,-115.0,225.0,307.0
+2004/2005,Unknown,Chelsea vs Middlesbrough,2-0,-294.0,326.0,817.0
+2004/2005,Unknown,West Brom vs Newcastle,0-0,298.0,227.0,-118.0
+2004/2005,Unknown,Blackburn vs Charlton,1-0,123.0,221.0,204.0
+2004/2005,Unknown,Crystal Palace vs Aston Villa,2-0,173.0,213.0,143.0
+2004/2005,Unknown,Norwich vs Liverpool,1-2,450.0,242.0,-159.0
+2004/2005,Unknown,Middlesbrough vs Manchester Utd,0-2,252.0,222.0,100.0
+2004/2005,Unknown,Aston Villa vs Blackburn,1-0,-111.0,222.0,299.0
+2004/2005,Unknown,Bolton vs West Brom,1-1,-175.0,246.0,488.0
+2004/2005,Unknown,Charlton vs Arsenal,1-3,463.0,247.0,-167.0
+2004/2005,Unknown,Manchester City vs Southampton,2-1,-143.0,238.0,390.0
+2004/2005,Unknown,Newcastle vs Birmingham,2-1,-115.0,223.0,305.0
+2004/2005,Unknown,Portsmouth vs Norwich,1-1,-169.0,245.0,468.0
+2004/2005,Unknown,Tottenham vs Everton,5-2,118.0,215.0,218.0
+2004/2005,Unknown,Fulham vs Crystal Palace,3-1,-104.0,223.0,270.0
+2004/2005,Unknown,Liverpool vs Chelsea,0-1,200.0,217.0,125.0
+2004/2005,Unknown,Newcastle vs Arsenal,0-1,374.0,242.0,-141.0
+2004/2005,Unknown,Aston Villa vs Manchester Utd,0-1,354.0,243.0,-137.0
+2004/2005,Unknown,Liverpool vs Southampton,1-0,-323.0,330.0,886.0
+2004/2005,Unknown,Bolton vs Blackburn,0-1,-102.0,220.0,265.0
+2004/2005,Unknown,Charlton vs Everton,2-0,141.0,217.0,177.0
+2004/2005,Unknown,Fulham vs Birmingham,2-3,136.0,221.0,179.0
+2004/2005,Unknown,Manchester City vs West Brom,1-1,-227.0,285.0,635.0
+2004/2005,Unknown,Middlesbrough vs Norwich,2-0,-233.0,287.0,639.0
+2004/2005,Unknown,Portsmouth vs Chelsea,0-2,527.0,258.0,-189.0
+2004/2005,Unknown,Tottenham vs Crystal Palace,1-1,-204.0,269.0,558.0
+2004/2005,Unknown,West Brom vs Liverpool,0-5,472.0,250.0,-169.0
+2004/2005,Unknown,Birmingham vs Middlesbrough,2-0,142.0,217.0,177.0
+2004/2005,Unknown,Blackburn vs Newcastle,2-2,152.0,223.0,158.0
+2004/2005,Unknown,Everton vs Manchester City,2-1,-105.0,222.0,277.0
+2004/2005,Unknown,Manchester Utd vs Bolton,2-0,-333.0,359.0,841.0
+2004/2005,Unknown,Norwich vs Tottenham,0-2,200.0,218.0,125.0
+2004/2005,Unknown,Crystal Palace vs Portsmouth,0-1,142.0,217.0,175.0
+2004/2005,Unknown,Arsenal vs Fulham,2-0,-417.0,388.0,899.0
+2004/2005,Unknown,Chelsea vs Aston Villa,1-0,-385.0,355.0,899.0
+2004/2005,Unknown,Southampton vs Charlton,0-0,127.0,217.0,200.0
+2004/2005,Unknown,Charlton vs Fulham,2-1,102.0,225.0,243.0
+2004/2005,Unknown,Portsmouth vs Arsenal,0-1,588.0,290.0,-238.0
+2004/2005,Unknown,Liverpool vs Newcastle,3-1,-122.0,229.0,308.0
+2004/2005,Unknown,Manchester Utd vs Crystal Palace,5-2,-526.0,459.0,899.0
+2004/2005,Unknown,Blackburn vs Everton,0-0,168.0,221.0,142.0
+2004/2005,Unknown,Bolton vs Manchester City,0-1,114.0,218.0,218.0
+2004/2005,Unknown,Chelsea vs Norwich,4-0,-625.0,498.0,899.0
+2004/2005,Unknown,Middlesbrough vs Aston Villa,3-0,-102.0,223.0,258.0
+2004/2005,Unknown,Tottenham vs Southampton,5-1,-120.0,225.0,313.0
+2004/2005,Unknown,Birmingham vs West Brom,4-0,-132.0,235.0,337.0
+2004/2005,Unknown,Liverpool vs Portsmouth,1-1,-270.0,303.0,709.0
+2004/2005,Unknown,Fulham vs Manchester Utd,1-1,565.0,280.0,-222.0
+2004/2005,Unknown,Arsenal vs Chelsea,2-2,129.0,210.0,190.0
+2004/2005,Unknown,Aston Villa vs Birmingham,1-2,-118.0,229.0,290.0
+2004/2005,Unknown,Crystal Palace vs Blackburn,0-0,120.0,220.0,200.0
+2004/2005,Unknown,Manchester City vs Tottenham,0-1,110.0,220.0,220.0
+2004/2005,Unknown,Newcastle vs Portsmouth,1-1,-167.0,240.0,440.0
+2004/2005,Unknown,Norwich vs Bolton,3-2,145.0,200.0,170.0
+2004/2005,Unknown,Southampton vs Middlesbrough,2-2,160.0,220.0,145.0
+2004/2005,Unknown,West Brom vs Charlton,0-1,145.0,220.0,160.0
+2004/2005,Unknown,Everton vs Liverpool,1-0,150.0,204.0,170.0
+2004/2005,Unknown,Middlesbrough vs Manchester City,3-2,-111.0,229.0,280.0
+2004/2005,Unknown,Crystal Palace vs Charlton,0-1,131.0,215.0,185.0
+2004/2005,Unknown,Blackburn vs Tottenham,0-1,129.0,215.0,190.0
+2004/2005,Unknown,Arsenal vs Birmingham,3-0,-303.0,323.0,825.0
+2004/2005,Unknown,Aston Villa vs Liverpool,1-1,131.0,219.0,184.0
+2004/2005,Unknown,Everton vs Bolton,3-2,114.0,216.0,227.0
+2004/2005,Unknown,Manchester Utd vs Southampton,3-0,-526.0,459.0,899.0
+2004/2005,Unknown,Norwich vs Fulham,0-1,129.0,219.0,188.0
+2004/2005,Unknown,Portsmouth vs West Brom,3-2,-115.0,229.0,292.0
+2004/2005,Unknown,Chelsea vs Newcastle,4-0,-238.0,290.0,590.0
+2004/2005,Unknown,Liverpool vs Arsenal,2-1,235.0,223.0,104.0
+2004/2005,Unknown,Tottenham vs Middlesbrough,2-0,136.0,227.0,170.0
+2004/2005,Unknown,Newcastle vs Everton,1-1,-119.0,229.0,295.0
+2004/2005,Unknown,Manchester City vs Aston Villa,2-0,127.0,223.0,190.0
+2004/2005,Unknown,Birmingham vs Norwich,1-1,-141.0,229.0,390.0
+2004/2005,Unknown,Bolton vs Portsmouth,0-1,-182.0,245.0,495.0
+2004/2005,Unknown,Charlton vs Chelsea,0-4,528.0,263.0,-200.0
+2004/2005,Unknown,Southampton vs Crystal Palace,2-2,-102.0,225.0,254.0
+2004/2005,Unknown,West Brom vs Manchester Utd,0-3,625.0,295.0,-250.0
+2004/2005,Unknown,Fulham vs Blackburn,0-2,-108.0,227.0,270.0
+2004/2005,Unknown,Aston Villa vs Tottenham,1-0,-103.0,223.0,262.0
+2004/2005,Unknown,Blackburn vs Birmingham,3-3,129.0,220.0,188.0
+2004/2005,Unknown,Portsmouth vs Manchester City,1-3,124.0,223.0,195.0
+2004/2005,Unknown,Chelsea vs Bolton,2-2,-278.0,308.0,743.0
+2004/2005,Unknown,Arsenal vs West Brom,1-1,-667.0,540.0,899.0
+2004/2005,Unknown,Crystal Palace vs Newcastle,0-2,188.0,218.0,129.0
+2004/2005,Unknown,Everton vs Fulham,1-0,-127.0,233.0,328.0
+2004/2005,Unknown,Middlesbrough vs Liverpool,2-0,137.0,217.0,185.0
+2004/2005,Unknown,Norwich vs Southampton,2-1,129.0,212.0,198.0
+2004/2005,Unknown,Manchester Utd vs Charlton,2-0,-323.0,357.0,783.0
+2004/2005,Unknown,Newcastle vs Manchester Utd,1-3,220.0,222.0,117.0
+2004/2005,Unknown,West Brom vs Middlesbrough,1-2,200.0,217.0,124.0
+2004/2005,Unknown,Birmingham vs Everton,0-1,125.0,216.0,199.0
+2004/2005,Unknown,Bolton vs Aston Villa,1-2,112.0,222.0,220.0
+2004/2005,Unknown,Charlton vs Norwich,4-0,-116.0,227.0,298.0
+2004/2005,Unknown,Fulham vs Chelsea,1-4,476.0,236.0,-167.0
+2004/2005,Unknown,Liverpool vs Crystal Palace,3-2,-250.0,288.0,685.0
+2004/2005,Unknown,Manchester City vs Blackburn,1-1,-119.0,237.0,300.0
+2004/2005,Unknown,Southampton vs Portsmouth,2-1,138.0,217.0,177.0
+2004/2005,Unknown,Tottenham vs Arsenal,4-5,397.0,231.0,-143.0
+2004/2005,Unknown,Manchester Utd vs Manchester City,0-0,-250.0,285.0,695.0
+2004/2005,Unknown,Newcastle vs Fulham,1-4,-192.0,252.0,533.0
+2004/2005,Unknown,Middlesbrough vs Bolton,1-1,-105.0,222.0,262.0
+2004/2005,Unknown,Crystal Palace vs Arsenal,1-1,633.0,305.0,-256.0
+2004/2005,Unknown,Chelsea vs Everton,1-0,-256.0,297.0,671.0
+2004/2005,Unknown,Liverpool vs Birmingham,0-1,-185.0,250.0,500.0
+2004/2005,Unknown,Norwich vs Blackburn,1-1,121.0,220.0,202.0
+2004/2005,Unknown,Southampton vs West Brom,2-2,-116.0,223.0,294.0
+2004/2005,Unknown,Tottenham vs Charlton,2-3,-112.0,218.0,296.0
+2004/2005,Unknown,Aston Villa vs Portsmouth,3-0,-123.0,231.0,304.0
+2004/2005,Unknown,Manchester City vs Norwich,1-1,-147.0,233.0,393.0
+2004/2005,Unknown,Bolton vs Newcastle,2-1,144.0,206.0,175.0
+2004/2005,Unknown,Blackburn vs Liverpool,2-2,330.0,223.0,-125.0
+2004/2005,Unknown,Arsenal vs Southampton,2-2,-588.0,486.0,899.0
+2004/2005,Unknown,Charlton vs Middlesbrough,1-2,141.0,218.0,171.0
+2004/2005,Unknown,Everton vs Aston Villa,1-1,106.0,219.0,235.0
+2004/2005,Unknown,Fulham vs Tottenham,2-0,145.0,213.0,168.0
+2004/2005,Unknown,Portsmouth vs Manchester Utd,2-0,428.0,237.0,-156.0
+2004/2005,Unknown,Birmingham vs Crystal Palace,0-1,-132.0,229.0,340.0
+2004/2005,Unknown,Manchester Utd vs Arsenal,2-0,147.0,212.0,166.0
+2004/2005,Unknown,Middlesbrough vs Portsmouth,1-1,-161.0,237.0,443.0
+2004/2005,Unknown,Newcastle vs Manchester City,4-3,-152.0,233.0,409.0
+2004/2005,Unknown,Southampton vs Birmingham,0-0,143.0,217.0,169.0
+2004/2005,Unknown,Liverpool vs Charlton,2-0,-213.0,268.0,573.0
+2004/2005,Unknown,Aston Villa vs Fulham,2-0,-133.0,229.0,341.0
+2004/2005,Unknown,Chelsea vs Blackburn,4-0,-357.0,365.0,866.0
+2004/2005,Unknown,Crystal Palace vs West Brom,3-0,127.0,220.0,188.0
+2004/2005,Unknown,Tottenham vs Bolton,1-2,-106.0,225.0,265.0
+2004/2005,Unknown,Norwich vs Everton,2-3,163.0,217.0,147.0
+2004/2005,Unknown,Portsmouth vs Tottenham,1-0,158.0,218.0,156.0
+2004/2005,Unknown,Charlton vs Newcastle,1-1,179.0,217.0,137.0
+2004/2005,Unknown,Manchester City vs Chelsea,1-0,375.0,227.0,-137.0
+2004/2005,Unknown,Arsenal vs Aston Villa,3-1,-357.0,348.0,850.0
+2004/2005,Unknown,Blackburn vs Middlesbrough,0-4,143.0,218.0,166.0
+2004/2005,Unknown,Bolton vs Crystal Palace,1-0,-179.0,256.0,450.0
+2004/2005,Unknown,Everton vs Southampton,1-0,-147.0,233.0,390.0
+2004/2005,Unknown,Fulham vs Liverpool,2-4,222.0,220.0,110.0
+2004/2005,Unknown,West Brom vs Norwich,0-0,108.0,220.0,227.0
+2004/2005,Unknown,Birmingham vs Manchester Utd,0-0,438.0,231.0,-149.0
+2004/2005,Unknown,Crystal Palace vs Fulham,2-0,183.0,210.0,136.0
+2004/2005,Unknown,Chelsea vs Liverpool,1-0,-137.0,225.0,379.0
+2004/2005,Unknown,Birmingham vs Newcastle,2-2,162.0,218.0,147.0
+2004/2005,Unknown,Manchester Utd vs Middlesbrough,1-1,-312.0,344.0,783.0
+2004/2005,Unknown,West Brom vs Bolton,2-1,193.0,217.0,129.0
+2004/2005,Unknown,Arsenal vs Charlton,4-0,-400.0,398.0,885.0
+2004/2005,Unknown,Blackburn vs Aston Villa,2-2,131.0,220.0,184.0
+2004/2005,Unknown,Everton vs Tottenham,0-1,127.0,213.0,193.0
+2004/2005,Unknown,Norwich vs Portsmouth,2-2,131.0,220.0,183.0
+2004/2005,Unknown,Southampton vs Manchester City,0-0,136.0,215.0,179.0
+2004/2005,Unknown,Middlesbrough vs Chelsea,0-1,220.0,220.0,110.0
+2004/2005,Unknown,Manchester Utd vs Liverpool,2-1,-103.0,222.0,257.0
+2004/2005,Unknown,Chelsea vs Tottenham,0-0,-208.0,260.0,575.0
+2004/2005,Unknown,Everton vs Middlesbrough,1-0,140.0,215.0,173.0
+2004/2005,Unknown,Southampton vs Newcastle,1-2,174.0,218.0,137.0
+2004/2005,Unknown,Birmingham vs Charlton,1-1,-116.0,215.0,312.0
+2004/2005,Unknown,Blackburn vs Portsmouth,1-0,110.0,218.0,220.0
+2004/2005,Unknown,Crystal Palace vs Manchester City,1-2,175.0,220.0,150.0
+2004/2005,Unknown,Norwich vs Aston Villa,0-0,165.0,215.0,145.0
+2004/2005,Unknown,West Brom vs Fulham,1-1,140.0,215.0,173.0
+2004/2005,Unknown,Arsenal vs Bolton,2-2,-333.0,359.0,850.0
+2004/2005,Unknown,Charlton vs Southampton,0-0,-110.0,225.0,276.0
+2004/2005,Unknown,Tottenham vs Norwich,0-0,-172.0,243.0,480.0
+2004/2005,Unknown,Portsmouth vs Crystal Palace,3-1,-137.0,249.0,368.0
+2004/2005,Unknown,Bolton vs Manchester Utd,2-2,252.0,233.0,-106.0
+2004/2005,Unknown,Fulham vs Arsenal,0-3,547.0,267.0,-204.0
+2004/2005,Unknown,Liverpool vs West Brom,3-0,-233.0,278.0,617.0
+2004/2005,Unknown,Manchester City vs Everton,0-1,-116.0,227.0,293.0
+2004/2005,Unknown,Middlesbrough vs Birmingham,2-1,-110.0,218.0,283.0
+2004/2005,Unknown,Newcastle vs Blackburn,3-0,-147.0,233.0,405.0
+2004/2005,Unknown,Aston Villa vs Chelsea,0-0,289.0,215.0,-111.0
+2004/2005,Unknown,Portsmouth vs Fulham,4-3,122.0,218.0,188.0
+2004/2005,Unknown,Manchester Utd vs Everton,0-0,-312.0,322.0,802.0
+2004/2005,Unknown,Bolton vs Liverpool,1-0,210.0,215.0,112.0
+2004/2005,Unknown,Norwich vs Arsenal,1-4,705.0,303.0,-278.0
+2004/2005,Unknown,Aston Villa vs Newcastle,4-2,127.0,218.0,183.0
+2004/2005,Unknown,Chelsea vs Southampton,2-1,-435.0,395.0,875.0
+2004/2005,Unknown,Everton vs West Brom,2-1,-104.0,217.0,250.0
+2004/2005,Unknown,Manchester City vs Charlton,4-0,100.0,210.0,220.0
+2004/2005,Unknown,Middlesbrough vs Crystal Palace,2-1,-200.0,245.0,470.0
+2004/2005,Unknown,Tottenham vs Birmingham,1-0,104.0,214.0,225.0
+2004/2005,Unknown,Blackburn vs Manchester Utd,1-1,265.0,220.0,-118.0
+2004/2005,Unknown,Charlton vs Aston Villa,3-0,134.0,218.0,170.0
+2004/2005,Unknown,Newcastle vs Norwich,2-2,-238.0,280.0,550.0
+2004/2005,Unknown,Arsenal vs Blackburn,3-0,-400.0,370.0,899.0
+2004/2005,Unknown,Fulham vs Middlesbrough,0-2,129.0,218.0,175.0
+2004/2005,Unknown,Southampton vs Bolton,1-2,125.0,218.0,183.0
+2004/2005,Unknown,West Brom vs Tottenham,1-1,150.0,216.0,152.0
+2004/2005,Unknown,Crystal Palace vs Chelsea,0-2,593.0,299.0,-256.0
+2004/2005,Unknown,Birmingham vs Manchester City,1-0,-106.0,225.0,254.0
+2004/2005,Unknown,Arsenal vs Middlesbrough,5-3,-294.0,300.0,750.0
+2004/2005,Unknown,West Brom vs Aston Villa,1-1,159.0,218.0,137.0
+2004/2005,Unknown,Manchester Utd vs Norwich,2-1,-370.0,345.0,875.0
+2004/2005,Unknown,Birmingham vs Chelsea,0-1,333.0,220.0,-132.0
+2004/2005,Unknown,Charlton vs Portsmouth,2-1,-103.0,223.0,240.0
+2004/2005,Unknown,Crystal Palace vs Everton,1-3,120.0,218.0,193.0
+2004/2005,Unknown,Fulham vs Bolton,2-0,110.0,218.0,213.0
+2004/2005,Unknown,Liverpool vs Manchester City,2-1,-189.0,245.0,495.0
+2004/2005,Unknown,Newcastle vs Tottenham,0-1,-156.0,235.0,403.0
+2004/2005,Unknown,Southampton vs Blackburn,3-2,120.0,218.0,193.0
+2004/2005,Unknown,Chelsea vs Manchester Utd,1-0,104.0,218.0,220.0
+2004/2005,Unknown,Everton vs Arsenal,1-4,390.0,229.0,-152.0
+2004/2005,Unknown,Middlesbrough vs Newcastle,2-2,114.0,218.0,198.0
+2004/2005,Unknown,Aston Villa vs Southampton,2-0,-109.0,223.0,254.0
+2004/2005,Unknown,Blackburn vs West Brom,1-1,-127.0,225.0,315.0
+2004/2005,Unknown,Bolton vs Charlton,4-1,114.0,215.0,204.0
+2004/2005,Unknown,Manchester City vs Fulham,1-1,100.0,218.0,235.0
+2004/2005,Unknown,Norwich vs Crystal Palace,1-1,-102.0,220.0,240.0
+2004/2005,Unknown,Portsmouth vs Birmingham,1-1,133.0,218.0,172.0
+2004/2005,Unknown,Tottenham vs Liverpool,1-1,204.0,213.0,116.0

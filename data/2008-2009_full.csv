@@ -1,0 +1,381 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2008/2009,Unknown,Arsenal vs Stoke,4-1,-312.0,399.0,866.0
+2008/2009,Unknown,Aston Villa vs Newcastle,1-0,102.0,248.0,257.0
+2008/2009,Unknown,Blackburn vs West Brom,0-0,-111.0,244.0,307.0
+2008/2009,Unknown,Fulham vs Everton,0-2,114.0,224.0,239.0
+2008/2009,Unknown,Hull vs Manchester Utd,0-1,152.0,235.0,170.0
+2008/2009,Unknown,Liverpool vs Tottenham,3-1,-227.0,320.0,649.0
+2008/2009,Unknown,Manchester City vs Bolton,1-0,-137.0,250.0,392.0
+2008/2009,Unknown,Sunderland vs Chelsea,2-3,386.0,259.0,-137.0
+2008/2009,Unknown,West Ham vs Middlesbrough,2-1,110.0,243.0,239.0
+2008/2009,Unknown,Wigan vs Portsmouth,1-0,-108.0,239.0,305.0
+2008/2009,Unknown,Portsmouth vs Sunderland,3-1,133.0,216.0,212.0
+2008/2009,Unknown,Chelsea vs Blackburn,2-0,-370.0,428.0,1158.0
+2008/2009,Unknown,West Brom vs Liverpool,0-2,576.0,344.0,-222.0
+2008/2009,Unknown,Bolton vs Hull,1-1,114.0,231.0,240.0
+2008/2009,Unknown,Everton vs West Ham,3-1,-141.0,252.0,417.0
+2008/2009,Unknown,Middlesbrough vs Aston Villa,1-1,154.0,235.0,169.0
+2008/2009,Unknown,Newcastle vs Fulham,0-1,-109.0,245.0,295.0
+2008/2009,Unknown,Stoke vs Wigan,2-0,119.0,227.0,231.0
+2008/2009,Unknown,Tottenham vs Manchester City,2-1,-125.0,247.0,355.0
+2008/2009,Unknown,Manchester Utd vs Arsenal,0-0,-172.0,271.0,567.0
+2008/2009,Unknown,Wigan vs Manchester Utd,1-2,978.0,416.0,-345.0
+2008/2009,Unknown,Newcastle vs Middlesbrough,3-1,-101.0,237.0,277.0
+2008/2009,Unknown,Arsenal vs Chelsea,1-4,170.0,223.0,163.0
+2008/2009,Unknown,Manchester Utd vs Manchester City,2-0,-294.0,396.0,866.0
+2008/2009,Unknown,West Ham vs Liverpool,0-3,614.0,293.0,-196.0
+2008/2009,Unknown,Blackburn vs Portsmouth,2-0,102.0,223.0,283.0
+2008/2009,Unknown,Bolton vs Sunderland,0-0,108.0,225.0,261.0
+2008/2009,Unknown,Everton vs Tottenham,0-0,121.0,229.0,225.0
+2008/2009,Unknown,Fulham vs Aston Villa,3-1,162.0,224.0,169.0
+2008/2009,Unknown,Hull vs Stoke,1-2,104.0,227.0,270.0
+2008/2009,Unknown,West Brom vs Wigan,3-1,131.0,231.0,204.0
+2008/2009,Unknown,Aston Villa vs Hull,1-0,-185.0,279.0,566.0
+2008/2009,Unknown,Sunderland vs Everton,0-2,161.0,223.0,170.0
+2008/2009,Unknown,Liverpool vs Newcastle,3-0,-400.0,454.0,1279.0
+2008/2009,Unknown,Chelsea vs Fulham,3-1,-213.0,286.0,716.0
+2008/2009,Unknown,Manchester City vs Blackburn,3-1,-105.0,234.0,293.0
+2008/2009,Unknown,Portsmouth vs Arsenal,0-3,206.0,224.0,133.0
+2008/2009,Unknown,Stoke vs West Ham,0-1,131.0,224.0,208.0
+2008/2009,Unknown,Tottenham vs West Brom,1-0,-213.0,305.0,633.0
+2008/2009,Unknown,Wigan vs Bolton,0-0,106.0,227.0,264.0
+2008/2009,Unknown,Middlesbrough vs Manchester Utd,0-2,532.0,271.0,-175.0
+2008/2009,Unknown,Newcastle vs Portsmouth,0-0,-112.0,247.0,311.0
+2008/2009,Unknown,Blackburn vs Wigan,2-0,117.0,223.0,242.0
+2008/2009,Unknown,Arsenal vs Middlesbrough,2-0,-217.0,311.0,675.0
+2008/2009,Unknown,Manchester Utd vs Tottenham,5-2,-233.0,317.0,700.0
+2008/2009,Unknown,Bolton vs Aston Villa,1-1,197.0,229.0,137.0
+2008/2009,Unknown,Everton vs Manchester City,1-2,-128.0,247.0,363.0
+2008/2009,Unknown,Fulham vs Stoke,1-0,-147.0,250.0,447.0
+2008/2009,Unknown,West Brom vs Sunderland,3-0,138.0,231.0,192.0
+2008/2009,Unknown,West Ham vs Chelsea,0-1,346.0,237.0,-116.0
+2008/2009,Unknown,Hull vs Liverpool,1-3,808.0,350.0,-270.0
+2008/2009,Unknown,Chelsea vs Everton,0-0,-244.0,318.0,802.0
+2008/2009,Unknown,Manchester Utd vs Portsmouth,2-0,-417.0,459.0,1309.0
+2008/2009,Unknown,Liverpool vs Arsenal,4-4,-145.0,257.0,438.0
+2008/2009,Unknown,Manchester City vs West Brom,4-2,-141.0,250.0,409.0
+2008/2009,Unknown,Tottenham vs Newcastle,1-0,-152.0,263.0,446.0
+2008/2009,Unknown,Aston Villa vs West Ham,1-1,-161.0,266.0,496.0
+2008/2009,Unknown,Middlesbrough vs Fulham,0-0,121.0,224.0,231.0
+2008/2009,Unknown,Portsmouth vs Bolton,1-0,100.0,231.0,278.0
+2008/2009,Unknown,Stoke vs Blackburn,1-0,142.0,220.0,195.0
+2008/2009,Unknown,Sunderland vs Hull,1-0,-118.0,239.0,336.0
+2008/2009,Unknown,Manchester City vs Fulham,1-3,102.0,224.0,288.0
+2008/2009,Unknown,Aston Villa vs Everton,3-3,129.0,223.0,218.0
+2008/2009,Unknown,Stoke vs Newcastle,1-1,141.0,224.0,193.0
+2008/2009,Unknown,Chelsea vs Bolton,4-3,-370.0,424.0,1165.0
+2008/2009,Unknown,Middlesbrough vs Hull,3-1,106.0,231.0,260.0
+2008/2009,Unknown,Portsmouth vs West Brom,2-2,-141.0,247.0,413.0
+2008/2009,Unknown,Sunderland vs Manchester Utd,1-2,639.0,299.0,-213.0
+2008/2009,Unknown,Tottenham vs West Ham,1-0,-147.0,252.0,447.0
+2008/2009,Unknown,Wigan vs Arsenal,1-4,355.0,235.0,-118.0
+2008/2009,Unknown,Liverpool vs Blackburn,4-0,-303.0,362.0,889.0
+2008/2009,Unknown,Manchester Utd vs Aston Villa,3-2,-244.0,318.0,764.0
+2008/2009,Unknown,Everton vs Wigan,4-0,-128.0,239.0,376.0
+2008/2009,Unknown,Fulham vs Liverpool,0-1,493.0,263.0,-161.0
+2008/2009,Unknown,Arsenal vs Manchester City,2-0,-189.0,276.0,600.0
+2008/2009,Unknown,Bolton vs Middlesbrough,4-1,108.0,225.0,263.0
+2008/2009,Unknown,Hull vs Portsmouth,0-0,156.0,221.0,174.0
+2008/2009,Unknown,Newcastle vs Chelsea,0-2,434.0,258.0,-149.0
+2008/2009,Unknown,West Brom vs Stoke,0-2,112.0,224.0,247.0
+2008/2009,Unknown,West Ham vs Sunderland,2-0,106.0,224.0,268.0
+2008/2009,Unknown,Blackburn vs Tottenham,2-1,154.0,223.0,174.0
+2008/2009,Unknown,Liverpool vs Aston Villa,5-0,-213.0,294.0,668.0
+2008/2009,Unknown,Manchester City vs Sunderland,1-0,-167.0,260.0,515.0
+2008/2009,Unknown,Wigan vs Hull,1-0,-130.0,244.0,384.0
+2008/2009,Unknown,Newcastle vs Arsenal,1-3,408.0,250.0,-141.0
+2008/2009,Unknown,Blackburn vs West Ham,1-1,-101.0,229.0,285.0
+2008/2009,Unknown,Fulham vs Manchester Utd,2-0,674.0,299.0,-217.0
+2008/2009,Unknown,Stoke vs Middlesbrough,1-0,131.0,223.0,206.0
+2008/2009,Unknown,Tottenham vs Chelsea,1-0,311.0,235.0,-110.0
+2008/2009,Unknown,West Brom vs Bolton,1-1,139.0,224.0,195.0
+2008/2009,Unknown,Portsmouth vs Everton,2-1,172.0,221.0,158.0
+2008/2009,Unknown,West Ham vs West Brom,0-0,-112.0,237.0,332.0
+2008/2009,Unknown,Aston Villa vs Tottenham,1-2,108.0,225.0,268.0
+2008/2009,Unknown,Chelsea vs Manchester City,1-0,-270.0,341.0,880.0
+2008/2009,Unknown,Arsenal vs Blackburn,4-0,-222.0,301.0,728.0
+2008/2009,Unknown,Bolton vs Fulham,1-3,108.0,224.0,263.0
+2008/2009,Unknown,Everton vs Stoke,3-1,-204.0,283.0,639.0
+2008/2009,Unknown,Hull vs Newcastle,1-1,149.0,225.0,179.0
+2008/2009,Unknown,Middlesbrough vs Portsmouth,1-1,123.0,220.0,234.0
+2008/2009,Unknown,Sunderland vs Wigan,1-2,134.0,219.0,211.0
+2008/2009,Unknown,Manchester Utd vs Liverpool,1-4,-106.0,216.0,344.0
+2008/2009,Unknown,Fulham vs Blackburn,1-2,127.0,221.0,222.0
+2008/2009,Unknown,Sunderland vs Tottenham,1-1,185.0,225.0,145.0
+2008/2009,Unknown,Blackburn vs Everton,0-0,163.0,219.0,172.0
+2008/2009,Unknown,Fulham vs Hull,0-1,-149.0,252.0,458.0
+2008/2009,Unknown,Tottenham vs Middlesbrough,4-0,-137.0,247.0,408.0
+2008/2009,Unknown,Manchester City vs Aston Villa,2-0,179.0,223.0,154.0
+2008/2009,Unknown,Newcastle vs Manchester Utd,1-2,771.0,309.0,-238.0
+2008/2009,Unknown,Stoke vs Bolton,2-0,145.0,220.0,192.0
+2008/2009,Unknown,Wigan vs West Ham,0-1,102.0,227.0,278.0
+2008/2009,Unknown,Liverpool vs Sunderland,2-0,-233.0,304.0,752.0
+2008/2009,Unknown,Portsmouth vs Chelsea,0-1,558.0,267.0,-175.0
+2008/2009,Unknown,West Brom vs Arsenal,1-3,504.0,261.0,-161.0
+2008/2009,Unknown,Aston Villa vs Stoke,2-2,-250.0,325.0,807.0
+2008/2009,Unknown,Bolton vs Newcastle,1-0,102.0,229.0,279.0
+2008/2009,Unknown,Hull vs Blackburn,1-2,179.0,224.0,152.0
+2008/2009,Unknown,West Ham vs Manchester City,1-0,149.0,227.0,184.0
+2008/2009,Unknown,Arsenal vs Fulham,0-0,-244.0,309.0,786.0
+2008/2009,Unknown,Chelsea vs Wigan,2-1,-323.0,368.0,1089.0
+2008/2009,Unknown,Middlesbrough vs Liverpool,2-0,395.0,238.0,-128.0
+2008/2009,Unknown,Everton vs West Brom,2-0,-204.0,285.0,667.0
+2008/2009,Unknown,Hull vs Tottenham,1-2,225.0,223.0,124.0
+2008/2009,Unknown,Newcastle vs Everton,0-0,192.0,221.0,145.0
+2008/2009,Unknown,Liverpool vs Manchester City,1-1,-175.0,264.0,560.0
+2008/2009,Unknown,Fulham vs West Brom,2-0,-120.0,241.0,345.0
+2008/2009,Unknown,Manchester Utd vs Blackburn,2-1,-400.0,434.0,1263.0
+2008/2009,Unknown,Arsenal vs Sunderland,0-0,-270.0,334.0,908.0
+2008/2009,Unknown,Bolton vs West Ham,2-1,124.0,225.0,223.0
+2008/2009,Unknown,Middlesbrough vs Wigan,0-0,141.0,224.0,194.0
+2008/2009,Unknown,Stoke vs Portsmouth,2-2,162.0,220.0,173.0
+2008/2009,Unknown,Aston Villa vs Chelsea,0-1,236.0,224.0,121.0
+2008/2009,Unknown,Manchester Utd vs Fulham,3-0,-455.0,465.0,1523.0
+2008/2009,Unknown,Portsmouth vs Manchester City,2-0,171.0,223.0,162.0
+2008/2009,Unknown,West Ham vs Manchester Utd,0-1,519.0,264.0,-167.0
+2008/2009,Unknown,Tottenham vs Arsenal,0-0,214.0,221.0,134.0
+2008/2009,Unknown,Portsmouth vs Liverpool,2-3,343.0,229.0,-114.0
+2008/2009,Unknown,Blackburn vs Aston Villa,0-2,183.0,225.0,148.0
+2008/2009,Unknown,Chelsea vs Hull,0-0,-500.0,507.0,1455.0
+2008/2009,Unknown,Everton vs Bolton,3-0,-141.0,242.0,434.0
+2008/2009,Unknown,Sunderland vs Stoke,2-0,-128.0,239.0,368.0
+2008/2009,Unknown,West Brom vs Newcastle,2-3,104.0,237.0,261.0
+2008/2009,Unknown,Wigan vs Fulham,0-0,-101.0,225.0,294.0
+2008/2009,Unknown,Manchester City vs Middlesbrough,1-0,-172.0,269.0,524.0
+2008/2009,Unknown,Liverpool vs Chelsea,2-0,148.0,204.0,208.0
+2008/2009,Unknown,Newcastle vs Sunderland,1-1,154.0,216.0,183.0
+2008/2009,Unknown,Manchester Utd vs Everton,1-0,-263.0,324.0,853.0
+2008/2009,Unknown,Arsenal vs West Ham,0-0,-208.0,304.0,613.0
+2008/2009,Unknown,Aston Villa vs Wigan,0-0,-141.0,247.0,425.0
+2008/2009,Unknown,Bolton vs Tottenham,3-2,174.0,225.0,154.0
+2008/2009,Unknown,Fulham vs Portsmouth,3-1,-108.0,231.0,309.0
+2008/2009,Unknown,Hull vs West Brom,2-2,118.0,225.0,237.0
+2008/2009,Unknown,Middlesbrough vs Blackburn,0-0,150.0,224.0,181.0
+2008/2009,Unknown,Stoke vs Manchester City,1-0,245.0,227.0,114.0
+2008/2009,Unknown,Blackburn vs Bolton,2-2,-104.0,223.0,309.0
+2008/2009,Unknown,Everton vs Arsenal,1-1,193.0,218.0,143.0
+2008/2009,Unknown,West Ham vs Hull,2-0,-137.0,252.0,404.0
+2008/2009,Unknown,Chelsea vs Middlesbrough,2-0,-455.0,505.0,1343.0
+2008/2009,Unknown,Manchester City vs Newcastle,2-1,-161.0,268.0,472.0
+2008/2009,Unknown,Wigan vs Liverpool,1-1,433.0,248.0,-141.0
+2008/2009,Unknown,West Brom vs Manchester Utd,0-5,864.0,349.0,-286.0
+2008/2009,Unknown,Portsmouth vs Aston Villa,0-1,209.0,224.0,131.0
+2008/2009,Unknown,Tottenham vs Stoke,3-1,-172.0,268.0,541.0
+2008/2009,Unknown,Sunderland vs Fulham,1-0,125.0,220.0,225.0
+2008/2009,Unknown,Liverpool vs Everton,1-1,-167.0,254.0,535.0
+2008/2009,Unknown,Tottenham vs Portsmouth,1-1,-159.0,268.0,473.0
+2008/2009,Unknown,West Ham vs Fulham,3-1,122.0,223.0,231.0
+2008/2009,Unknown,Hull vs Arsenal,1-3,479.0,272.0,-164.0
+2008/2009,Unknown,Blackburn vs Newcastle,3-0,-120.0,243.0,348.0
+2008/2009,Unknown,Bolton vs Manchester Utd,0-1,739.0,294.0,-217.0
+2008/2009,Unknown,Chelsea vs Stoke,2-1,-526.0,520.0,1434.0
+2008/2009,Unknown,Manchester City vs Wigan,1-0,112.0,229.0,247.0
+2008/2009,Unknown,Sunderland vs Aston Villa,1-2,218.0,227.0,125.0
+2008/2009,Unknown,West Brom vs Middlesbrough,3-0,120.0,231.0,227.0
+2008/2009,Unknown,Manchester Utd vs Wigan,1-0,-435.0,455.0,1285.0
+2008/2009,Unknown,Manchester Utd vs Chelsea,3-0,127.0,213.0,235.0
+2008/2009,Unknown,Wigan vs Tottenham,1-0,141.0,229.0,191.0
+2008/2009,Unknown,Stoke vs Liverpool,0-0,797.0,342.0,-263.0
+2008/2009,Unknown,Arsenal vs Bolton,1-0,-294.0,359.0,925.0
+2008/2009,Unknown,Everton vs Hull,2-0,-175.0,270.0,560.0
+2008/2009,Unknown,Middlesbrough vs Sunderland,1-1,124.0,224.0,215.0
+2008/2009,Unknown,Newcastle vs West Ham,2-2,133.0,223.0,208.0
+2008/2009,Unknown,Aston Villa vs West Brom,2-1,-213.0,300.0,649.0
+2008/2009,Unknown,Hull vs Aston Villa,0-1,292.0,240.0,-105.0
+2008/2009,Unknown,Manchester Utd vs Middlesbrough,1-0,-500.0,514.0,1555.0
+2008/2009,Unknown,Blackburn vs Manchester City,2-2,158.0,229.0,173.0
+2008/2009,Unknown,Arsenal vs Portsmouth,1-0,-286.0,365.0,897.0
+2008/2009,Unknown,Bolton vs Wigan,0-1,136.0,222.0,208.0
+2008/2009,Unknown,Everton vs Sunderland,3-0,-132.0,247.0,395.0
+2008/2009,Unknown,Fulham vs Chelsea,2-2,561.0,274.0,-175.0
+2008/2009,Unknown,West Brom vs Tottenham,2-0,234.0,229.0,118.0
+2008/2009,Unknown,West Ham vs Stoke,2-1,-137.0,249.0,409.0
+2008/2009,Unknown,Newcastle vs Liverpool,1-5,398.0,249.0,-132.0
+2008/2009,Unknown,Aston Villa vs Arsenal,2-2,152.0,225.0,184.0
+2008/2009,Unknown,Liverpool vs Bolton,3-0,-263.0,338.0,832.0
+2008/2009,Unknown,Manchester City vs Hull,5-1,-133.0,261.0,368.0
+2008/2009,Unknown,Middlesbrough vs Everton,0-1,161.0,224.0,170.0
+2008/2009,Unknown,Sunderland vs Blackburn,0-0,127.0,225.0,219.0
+2008/2009,Unknown,Wigan vs Newcastle,2-1,117.0,229.0,231.0
+2008/2009,Unknown,Chelsea vs West Brom,2-0,-625.0,576.0,1775.0
+2008/2009,Unknown,Portsmouth vs West Ham,1-4,124.0,227.0,221.0
+2008/2009,Unknown,Tottenham vs Fulham,0-0,-130.0,247.0,378.0
+2008/2009,Unknown,Stoke vs Manchester Utd,0-1,1016.0,391.0,-333.0
+2008/2009,Unknown,Everton vs Chelsea,0-0,459.0,258.0,-154.0
+2008/2009,Unknown,Arsenal vs Liverpool,1-1,145.0,196.0,215.0
+2008/2009,Unknown,Newcastle vs Tottenham,2-1,150.0,219.0,187.0
+2008/2009,Unknown,West Brom vs Manchester City,2-1,213.0,218.0,136.0
+2008/2009,Unknown,West Ham vs Aston Villa,0-1,212.0,200.0,150.0
+2008/2009,Unknown,Blackburn vs Stoke,3-0,-147.0,252.0,399.0
+2008/2009,Unknown,Bolton vs Portsmouth,2-1,100.0,231.0,275.0
+2008/2009,Unknown,Fulham vs Middlesbrough,3-0,108.0,224.0,264.0
+2008/2009,Unknown,Hull vs Sunderland,1-4,119.0,218.0,244.0
+2008/2009,Unknown,Chelsea vs West Ham,1-1,-385.0,438.0,1256.0
+2008/2009,Unknown,Portsmouth vs Newcastle,0-3,114.0,214.0,265.0
+2008/2009,Unknown,Tottenham vs Manchester Utd,0-0,344.0,224.0,-110.0
+2008/2009,Unknown,Aston Villa vs Bolton,4-2,-143.0,250.0,413.0
+2008/2009,Unknown,Liverpool vs Hull,2-2,-263.0,336.0,847.0
+2008/2009,Unknown,Manchester City vs Everton,0-1,108.0,210.0,292.0
+2008/2009,Unknown,Stoke vs Fulham,0-0,148.0,220.0,188.0
+2008/2009,Unknown,Sunderland vs West Brom,4-0,104.0,229.0,267.0
+2008/2009,Unknown,Wigan vs Blackburn,3-0,108.0,229.0,254.0
+2008/2009,Unknown,Middlesbrough vs Arsenal,1-1,380.0,223.0,-109.0
+2008/2009,Unknown,West Ham vs Tottenham,0-2,175.0,209.0,174.0
+2008/2009,Unknown,Everton vs Aston Villa,2-3,159.0,204.0,185.0
+2008/2009,Unknown,West Brom vs Portsmouth,1-1,147.0,227.0,184.0
+2008/2009,Unknown,Manchester Utd vs Sunderland,1-0,-667.0,602.0,1818.0
+2008/2009,Unknown,Arsenal vs Wigan,1-0,-357.0,367.0,902.0
+2008/2009,Unknown,Blackburn vs Liverpool,1-3,413.0,235.0,-130.0
+2008/2009,Unknown,Bolton vs Chelsea,0-2,553.0,272.0,-182.0
+2008/2009,Unknown,Hull vs Middlesbrough,2-1,140.0,225.0,195.0
+2008/2009,Unknown,Newcastle vs Stoke,2-2,-133.0,250.0,387.0
+2008/2009,Unknown,Fulham vs Manchester City,1-1,149.0,200.0,221.0
+2008/2009,Unknown,Liverpool vs West Ham,0-0,-278.0,350.0,949.0
+2008/2009,Unknown,Chelsea vs Arsenal,1-2,-125.0,234.0,384.0
+2008/2009,Unknown,Portsmouth vs Blackburn,3-2,106.0,227.0,263.0
+2008/2009,Unknown,Tottenham vs Everton,0-1,-106.0,239.0,295.0
+2008/2009,Unknown,Manchester City vs Manchester Utd,0-1,343.0,246.0,-119.0
+2008/2009,Unknown,Aston Villa vs Fulham,0-0,-152.0,249.0,480.0
+2008/2009,Unknown,Middlesbrough vs Newcastle,0-0,121.0,225.0,227.0
+2008/2009,Unknown,Stoke vs Hull,1-1,142.0,222.0,196.0
+2008/2009,Unknown,Sunderland vs Bolton,1-4,125.0,225.0,219.0
+2008/2009,Unknown,Wigan vs West Brom,2-1,-127.0,243.0,363.0
+2008/2009,Unknown,Wigan vs Everton,1-0,172.0,220.0,158.0
+2008/2009,Unknown,Sunderland vs West Ham,0-1,110.0,233.0,246.0
+2008/2009,Unknown,Tottenham vs Blackburn,1-0,-141.0,257.0,398.0
+2008/2009,Unknown,Aston Villa vs Manchester Utd,0-0,396.0,222.0,-122.0
+2008/2009,Unknown,Chelsea vs Newcastle,0-0,-303.0,387.0,1425.0
+2008/2009,Unknown,Liverpool vs Fulham,0-0,-222.0,341.0,942.0
+2008/2009,Unknown,Manchester City vs Arsenal,3-0,212.0,227.0,127.0
+2008/2009,Unknown,Middlesbrough vs Bolton,1-3,-104.0,233.0,294.0
+2008/2009,Unknown,Portsmouth vs Hull,2-2,-111.0,238.0,312.0
+2008/2009,Unknown,Stoke vs West Brom,1-0,127.0,227.0,214.0
+2008/2009,Unknown,Hull vs Manchester City,2-2,194.0,227.0,137.0
+2008/2009,Unknown,Everton vs Middlesbrough,1-1,-115.0,239.0,323.0
+2008/2009,Unknown,West Brom vs Chelsea,0-3,1039.0,392.0,-333.0
+2008/2009,Unknown,Arsenal vs Aston Villa,0-2,-192.0,280.0,609.0
+2008/2009,Unknown,Blackburn vs Sunderland,1-2,-108.0,241.0,285.0
+2008/2009,Unknown,Fulham vs Tottenham,2-1,217.0,223.0,127.0
+2008/2009,Unknown,Manchester Utd vs Stoke,5-0,-714.0,643.0,1828.0
+2008/2009,Unknown,Newcastle vs Wigan,2-2,102.0,227.0,271.0
+2008/2009,Unknown,West Ham vs Portsmouth,0-0,133.0,229.0,200.0
+2008/2009,Unknown,Bolton vs Liverpool,0-2,491.0,254.0,-159.0
+2008/2009,Unknown,Fulham vs Newcastle,2-1,129.0,225.0,211.0
+2008/2009,Unknown,Aston Villa vs Middlesbrough,1-2,-141.0,254.0,401.0
+2008/2009,Unknown,Manchester City vs Tottenham,1-2,124.0,227.0,219.0
+2008/2009,Unknown,Blackburn vs Chelsea,0-2,690.0,312.0,-233.0
+2008/2009,Unknown,Liverpool vs West Brom,3-0,-526.0,476.0,1472.0
+2008/2009,Unknown,Hull vs Bolton,0-1,117.0,223.0,241.0
+2008/2009,Unknown,Sunderland vs Portsmouth,1-2,134.0,212.0,210.0
+2008/2009,Unknown,West Ham vs Everton,1-3,154.0,215.0,175.0
+2008/2009,Unknown,Arsenal vs Manchester Utd,2-1,229.0,220.0,125.0
+2008/2009,Unknown,Wigan vs Stoke,0-0,-122.0,229.0,392.0
+2008/2009,Unknown,Newcastle vs Aston Villa,2-0,194.0,225.0,140.0
+2008/2009,Unknown,Bolton vs Manchester City,2-0,227.0,227.0,121.0
+2008/2009,Unknown,Tottenham vs Liverpool,2-1,268.0,235.0,102.0
+2008/2009,Unknown,Chelsea vs Sunderland,5-0,-526.0,520.0,1488.0
+2008/2009,Unknown,Manchester Utd vs Hull,4-3,-667.0,581.0,1623.0
+2008/2009,Unknown,Middlesbrough vs West Ham,1-1,-114.0,235.0,328.0
+2008/2009,Unknown,Portsmouth vs Wigan,1-2,-110.0,235.0,312.0
+2008/2009,Unknown,Stoke vs Arsenal,2-1,732.0,333.0,-250.0
+2008/2009,Unknown,West Brom vs Blackburn,2-2,147.0,225.0,186.0
+2008/2009,Unknown,Everton vs Fulham,1-0,-139.0,240.0,430.0
+2008/2009,Unknown,Arsenal vs Tottenham,4-4,-233.0,317.0,699.0
+2008/2009,Unknown,Bolton vs Everton,0-1,174.0,225.0,154.0
+2008/2009,Unknown,Liverpool vs Portsmouth,1-0,-263.0,334.0,892.0
+2008/2009,Unknown,Manchester Utd vs West Ham,2-0,-500.0,509.0,1496.0
+2008/2009,Unknown,Middlesbrough vs Manchester City,2-0,181.0,227.0,145.0
+2008/2009,Unknown,Aston Villa vs Blackburn,3-2,-154.0,259.0,455.0
+2008/2009,Unknown,Fulham vs Wigan,2-0,140.0,223.0,192.0
+2008/2009,Unknown,Hull vs Chelsea,0-3,691.0,321.0,-233.0
+2008/2009,Unknown,Stoke vs Sunderland,1-0,164.0,224.0,163.0
+2008/2009,Unknown,Newcastle vs West Brom,2-1,-114.0,237.0,325.0
+2008/2009,Unknown,Portsmouth vs Fulham,1-1,-118.0,233.0,355.0
+2008/2009,Unknown,West Ham vs Arsenal,0-2,503.0,264.0,-167.0
+2008/2009,Unknown,Manchester City vs Stoke,3-0,-217.0,311.0,629.0
+2008/2009,Unknown,Tottenham vs Bolton,2-0,-103.0,235.0,291.0
+2008/2009,Unknown,Wigan vs Aston Villa,0-4,152.0,225.0,175.0
+2008/2009,Unknown,Chelsea vs Liverpool,0-1,-110.0,222.0,336.0
+2008/2009,Unknown,Blackburn vs Middlesbrough,1-1,104.0,225.0,269.0
+2008/2009,Unknown,West Brom vs Hull,0-3,121.0,227.0,227.0
+2008/2009,Unknown,Sunderland vs Newcastle,2-1,118.0,225.0,234.0
+2008/2009,Unknown,Everton vs Manchester Utd,1-1,617.0,286.0,-200.0
+2008/2009,Unknown,Newcastle vs Manchester City,2-2,219.0,227.0,125.0
+2008/2009,Unknown,Stoke vs Tottenham,2-1,241.0,227.0,114.0
+2008/2009,Unknown,Hull vs West Ham,1-0,134.0,224.0,204.0
+2008/2009,Unknown,Manchester Utd vs West Brom,4-0,-556.0,530.0,1567.0
+2008/2009,Unknown,Arsenal vs Everton,3-1,-278.0,351.0,831.0
+2008/2009,Unknown,Aston Villa vs Portsmouth,0-0,-132.0,246.0,380.0
+2008/2009,Unknown,Bolton vs Blackburn,0-0,133.0,221.0,206.0
+2008/2009,Unknown,Fulham vs Sunderland,0-0,123.0,225.0,223.0
+2008/2009,Unknown,Liverpool vs Wigan,3-2,-244.0,323.0,764.0
+2008/2009,Unknown,Middlesbrough vs Chelsea,0-5,512.0,262.0,-167.0
+2008/2009,Unknown,Everton vs Newcastle,2-2,-133.0,249.0,379.0
+2008/2009,Unknown,Chelsea vs Aston Villa,2-0,-175.0,270.0,530.0
+2008/2009,Unknown,Manchester City vs Liverpool,2-3,239.0,224.0,114.0
+2008/2009,Unknown,Portsmouth vs Stoke,2-1,-147.0,247.0,450.0
+2008/2009,Unknown,Tottenham vs Hull,0-1,-156.0,260.0,430.0
+2008/2009,Unknown,West Ham vs Bolton,1-3,-111.0,229.0,321.0
+2008/2009,Unknown,Blackburn vs Manchester Utd,0-2,546.0,269.0,-175.0
+2008/2009,Unknown,Sunderland vs Arsenal,1-1,539.0,268.0,-179.0
+2008/2009,Unknown,West Brom vs Fulham,1-0,124.0,224.0,223.0
+2008/2009,Unknown,Wigan vs Middlesbrough,0-1,-109.0,231.0,328.0
+2008/2009,Unknown,Wigan vs Manchester City,2-1,189.0,225.0,145.0
+2008/2009,Unknown,Portsmouth vs Tottenham,2-0,152.0,222.0,173.0
+2008/2009,Unknown,Arsenal vs Hull,1-2,-588.0,535.0,1700.0
+2008/2009,Unknown,Aston Villa vs Sunderland,2-1,-169.0,270.0,525.0
+2008/2009,Unknown,Fulham vs West Ham,1-2,123.0,225.0,210.0
+2008/2009,Unknown,Manchester Utd vs Bolton,2-0,-500.0,497.0,1545.0
+2008/2009,Unknown,Middlesbrough vs West Brom,0-1,-130.0,239.0,388.0
+2008/2009,Unknown,Newcastle vs Blackburn,1-2,152.0,223.0,175.0
+2008/2009,Unknown,Stoke vs Chelsea,0-2,890.0,357.0,-294.0
+2008/2009,Unknown,Everton vs Liverpool,0-2,279.0,224.0,102.0
+2008/2009,Unknown,Hull vs Everton,2-2,213.0,225.0,129.0
+2008/2009,Unknown,Manchester City vs Portsmouth,6-0,100.0,227.0,277.0
+2008/2009,Unknown,Tottenham vs Wigan,0-0,-133.0,249.0,398.0
+2008/2009,Unknown,Chelsea vs Manchester Utd,1-1,108.0,217.0,283.0
+2008/2009,Unknown,West Brom vs Aston Villa,1-2,224.0,227.0,122.0
+2008/2009,Unknown,Bolton vs Arsenal,1-3,535.0,266.0,-172.0
+2008/2009,Unknown,Blackburn vs Fulham,1-0,108.0,227.0,254.0
+2008/2009,Unknown,Liverpool vs Stoke,0-0,-476.0,495.0,1386.0
+2008/2009,Unknown,West Ham vs Newcastle,3-1,-110.0,238.0,305.0
+2008/2009,Unknown,Sunderland vs Middlesbrough,2-0,137.0,222.0,200.0
+2008/2009,Unknown,Tottenham vs Aston Villa,1-2,108.0,229.0,258.0
+2008/2009,Unknown,Stoke vs Everton,2-3,224.0,225.0,123.0
+2008/2009,Unknown,Manchester City vs Chelsea,1-3,293.0,235.0,-114.0
+2008/2009,Unknown,Blackburn vs Arsenal,0-4,355.0,239.0,-122.0
+2008/2009,Unknown,Fulham vs Bolton,2-1,114.0,224.0,245.0
+2008/2009,Unknown,Newcastle vs Hull,1-2,-149.0,248.0,415.0
+2008/2009,Unknown,Portsmouth vs Middlesbrough,2-1,-102.0,231.0,284.0
+2008/2009,Unknown,West Brom vs West Ham,3-2,131.0,225.0,204.0
+2008/2009,Unknown,Wigan vs Sunderland,1-1,100.0,227.0,282.0
+2008/2009,Unknown,Liverpool vs Manchester Utd,2-1,175.0,200.0,174.0
+2008/2009,Unknown,Aston Villa vs Liverpool,0-0,185.0,223.0,148.0
+2008/2009,Unknown,Sunderland vs Manchester City,0-3,122.0,224.0,225.0
+2008/2009,Unknown,Chelsea vs Tottenham,1-1,-250.0,318.0,798.0
+2008/2009,Unknown,Arsenal vs Newcastle,3-0,-244.0,311.0,786.0
+2008/2009,Unknown,Bolton vs West Brom,0-0,100.0,225.0,290.0
+2008/2009,Unknown,Everton vs Portsmouth,0-3,104.0,225.0,272.0
+2008/2009,Unknown,Hull vs Wigan,0-5,164.0,220.0,168.0
+2008/2009,Unknown,Middlesbrough vs Stoke,2-1,-175.0,264.0,549.0
+2008/2009,Unknown,West Ham vs Blackburn,4-1,146.0,224.0,185.0
+2008/2009,Unknown,Portsmouth vs Manchester Utd,0-1,376.0,238.0,-125.0
+2008/2009,Unknown,Manchester City vs West Ham,3-0,122.0,225.0,222.0
+2008/2009,Unknown,Wigan vs Chelsea,0-1,715.0,317.0,-238.0
+2008/2009,Unknown,Fulham vs Arsenal,1-0,527.0,263.0,-172.0
+2008/2009,Unknown,Blackburn vs Hull,1-1,-169.0,260.0,517.0
+2008/2009,Unknown,Liverpool vs Middlesbrough,2-1,-263.0,337.0,789.0
+2008/2009,Unknown,Newcastle vs Bolton,1-0,-110.0,229.0,315.0
+2008/2009,Unknown,Stoke vs Aston Villa,3-2,387.0,250.0,-135.0
+2008/2009,Unknown,Tottenham vs Sunderland,1-2,-200.0,288.0,601.0
+2008/2009,Unknown,West Brom vs Everton,1-2,166.0,222.0,165.0
+2008/2009,Unknown,Manchester Utd vs Newcastle,1-1,-345.0,387.0,956.0
+2008/2009,Unknown,Aston Villa vs Manchester City,4-2,-118.0,236.0,343.0
+2008/2009,Unknown,Chelsea vs Portsmouth,4-0,-312.0,363.0,884.0
+2008/2009,Unknown,Sunderland vs Liverpool,0-1,428.0,252.0,-147.0
+2008/2009,Unknown,Bolton vs Stoke,3-1,-123.0,233.0,342.0
+2008/2009,Unknown,Everton vs Blackburn,2-3,-103.0,227.0,293.0
+2008/2009,Unknown,Hull vs Fulham,2-1,156.0,221.0,172.0
+2008/2009,Unknown,Middlesbrough vs Tottenham,2-1,216.0,231.0,122.0
+2008/2009,Unknown,West Ham vs Wigan,2-1,-105.0,231.0,295.0
+2008/2009,Unknown,Arsenal vs West Brom,1-0,-476.0,472.0,1278.0

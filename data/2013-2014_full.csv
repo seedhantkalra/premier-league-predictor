@@ -1,0 +1,381 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2013/2014,Unknown,Cardiff vs Chelsea,1-2,686.0,401.0,-263.0
+2013/2014,Unknown,Fulham vs Crystal Palace,2-2,156.0,246.0,168.0
+2013/2014,Unknown,Hull vs Everton,0-2,269.0,252.0,102.0
+2013/2014,Unknown,Liverpool vs Newcastle,2-1,-556.0,700.0,1296.0
+2013/2014,Unknown,Manchester City vs West Ham,2-0,-625.0,760.0,1320.0
+2013/2014,Unknown,Norwich vs Arsenal,0-2,390.0,297.0,-147.0
+2013/2014,Unknown,Southampton vs Manchester Utd,1-1,172.0,270.0,143.0
+2013/2014,Unknown,Sunderland vs Swansea,1-3,123.0,240.0,222.0
+2013/2014,Unknown,Tottenham vs Aston Villa,3-0,-213.0,341.0,585.0
+2013/2014,Unknown,West Brom vs Stoke,1-2,114.0,248.0,234.0
+2013/2014,Unknown,Manchester City vs Aston Villa,4-0,-667.0,757.0,1466.0
+2013/2014,Unknown,Sunderland vs West Brom,2-0,102.0,210.0,329.0
+2013/2014,Unknown,Manchester Utd vs Hull,3-1,-233.0,390.0,595.0
+2013/2014,Unknown,Crystal Palace vs Liverpool,3-3,707.0,434.0,-278.0
+2013/2014,Unknown,Chelsea vs Norwich,0-0,-500.0,613.0,1301.0
+2013/2014,Unknown,Arsenal vs West Brom,1-0,-270.0,412.0,715.0
+2013/2014,Unknown,Everton vs Manchester City,2-3,363.0,315.0,-145.0
+2013/2014,Unknown,Aston Villa vs Hull,3-1,154.0,200.0,208.0
+2013/2014,Unknown,Manchester Utd vs Sunderland,0-1,-250.0,401.0,624.0
+2013/2014,Unknown,Newcastle vs Cardiff,3-0,-109.0,267.0,288.0
+2013/2014,Unknown,Stoke vs Fulham,4-1,127.0,243.0,215.0
+2013/2014,Unknown,Swansea vs Southampton,0-1,136.0,236.0,204.0
+2013/2014,Unknown,West Ham vs Tottenham,2-0,281.0,261.0,-104.0
+2013/2014,Unknown,Arsenal vs Newcastle,3-0,-435.0,560.0,1147.0
+2013/2014,Unknown,Crystal Palace vs Manchester City,0-2,682.0,395.0,-250.0
+2013/2014,Unknown,Liverpool vs Chelsea,0-2,-149.0,300.0,408.0
+2013/2014,Unknown,Sunderland vs Cardiff,4-0,-132.0,277.0,369.0
+2013/2014,Unknown,Manchester Utd vs Norwich,4-0,-333.0,472.0,880.0
+2013/2014,Unknown,Fulham vs Hull,2-2,131.0,233.0,215.0
+2013/2014,Unknown,Stoke vs Tottenham,0-1,241.0,239.0,116.0
+2013/2014,Unknown,Swansea vs Aston Villa,4-1,-149.0,274.0,444.0
+2013/2014,Unknown,West Brom vs West Ham,1-0,-119.0,263.0,330.0
+2013/2014,Unknown,Southampton vs Everton,2-0,177.0,242.0,150.0
+2013/2014,Unknown,Manchester City vs West Brom,3-1,-476.0,598.0,1123.0
+2013/2014,Unknown,Everton vs Manchester Utd,2-0,156.0,242.0,173.0
+2013/2014,Unknown,Hull vs Arsenal,0-3,383.0,266.0,-132.0
+2013/2014,Unknown,Norwich vs Liverpool,2-3,570.0,386.0,-227.0
+2013/2014,Unknown,Chelsea vs Sunderland,1-2,-500.0,596.0,1333.0
+2013/2014,Unknown,Aston Villa vs Southampton,0-0,225.0,231.0,127.0
+2013/2014,Unknown,Cardiff vs Stoke,1-1,136.0,235.0,206.0
+2013/2014,Unknown,Newcastle vs Swansea,1-2,186.0,234.0,150.0
+2013/2014,Unknown,West Ham vs Crystal Palace,0-1,124.0,227.0,238.0
+2013/2014,Unknown,Tottenham vs Fulham,3-1,-200.0,355.0,535.0
+2013/2014,Unknown,Everton vs Crystal Palace,2-3,-278.0,388.0,813.0
+2013/2014,Unknown,Manchester City vs Sunderland,2-2,-769.0,840.0,1700.0
+2013/2014,Unknown,Arsenal vs West Ham,3-1,-286.0,416.0,798.0
+2013/2014,Unknown,Swansea vs Chelsea,0-1,374.0,250.0,-123.0
+2013/2014,Unknown,Liverpool vs Manchester City,3-2,125.0,256.0,212.0
+2013/2014,Unknown,Crystal Palace vs Aston Villa,1-0,112.0,218.0,275.0
+2013/2014,Unknown,Fulham vs Norwich,1-0,112.0,241.0,249.0
+2013/2014,Unknown,Southampton vs Cardiff,0-1,-244.0,361.0,677.0
+2013/2014,Unknown,Stoke vs Newcastle,1-0,100.0,238.0,287.0
+2013/2014,Unknown,Sunderland vs Everton,0-1,345.0,254.0,-120.0
+2013/2014,Unknown,West Brom vs Tottenham,3-3,202.0,243.0,131.0
+2013/2014,Unknown,Tottenham vs Sunderland,5-1,-179.0,308.0,523.0
+2013/2014,Unknown,West Ham vs Liverpool,1-2,698.0,420.0,-263.0
+2013/2014,Unknown,Everton vs Arsenal,3-0,147.0,242.0,185.0
+2013/2014,Unknown,Chelsea vs Stoke,3-0,-357.0,454.0,1072.0
+2013/2014,Unknown,Aston Villa vs Fulham,1-2,114.0,233.0,258.0
+2013/2014,Unknown,Cardiff vs Crystal Palace,0-3,135.0,225.0,218.0
+2013/2014,Unknown,Hull vs Swansea,1-0,184.0,214.0,165.0
+2013/2014,Unknown,Newcastle vs Manchester Utd,0-4,277.0,252.0,100.0
+2013/2014,Unknown,Norwich vs West Brom,0-1,134.0,227.0,217.0
+2013/2014,Unknown,Manchester City vs Southampton,4-1,-294.0,436.0,774.0
+2013/2014,Unknown,Sunderland vs West Ham,1-2,-103.0,242.0,301.0
+2013/2014,Unknown,Liverpool vs Tottenham,4-0,-256.0,405.0,662.0
+2013/2014,Unknown,Fulham vs Everton,1-3,382.0,270.0,-135.0
+2013/2014,Unknown,Arsenal vs Manchester City,1-1,258.0,260.0,104.0
+2013/2014,Unknown,Crystal Palace vs Chelsea,1-0,832.0,351.0,-256.0
+2013/2014,Unknown,Southampton vs Newcastle,4-0,-159.0,286.0,474.0
+2013/2014,Unknown,Stoke vs Hull,1-0,135.0,213.0,231.0
+2013/2014,Unknown,Swansea vs Norwich,3-0,-149.0,276.0,448.0
+2013/2014,Unknown,West Brom vs Cardiff,3-3,-111.0,250.0,326.0
+2013/2014,Unknown,Manchester Utd vs Aston Villa,4-1,-244.0,370.0,693.0
+2013/2014,Unknown,Liverpool vs Sunderland,2-1,-625.0,734.0,1518.0
+2013/2014,Unknown,West Ham vs Hull,2-1,131.0,227.0,223.0
+2013/2014,Unknown,Arsenal vs Swansea,2-2,-185.0,313.0,535.0
+2013/2014,Unknown,Manchester Utd vs Manchester City,0-3,217.0,241.0,127.0
+2013/2014,Unknown,Newcastle vs Everton,0-3,224.0,229.0,129.0
+2013/2014,Unknown,Aston Villa vs Stoke,1-4,114.0,221.0,268.0
+2013/2014,Unknown,Tottenham vs Southampton,3-2,116.0,231.0,250.0
+2013/2014,Unknown,West Ham vs Manchester Utd,0-2,351.0,272.0,-125.0
+2013/2014,Unknown,Cardiff vs Liverpool,3-6,801.0,438.0,-303.0
+2013/2014,Unknown,Everton vs Swansea,3-2,-139.0,264.0,426.0
+2013/2014,Unknown,Hull vs West Brom,2-0,125.0,220.0,244.0
+2013/2014,Unknown,Manchester City vs Fulham,5-0,-714.0,796.0,1604.0
+2013/2014,Unknown,Newcastle vs Crystal Palace,1-0,100.0,229.0,309.0
+2013/2014,Unknown,Norwich vs Sunderland,2-0,127.0,223.0,237.0
+2013/2014,Unknown,Chelsea vs Arsenal,6-0,-120.0,248.0,368.0
+2013/2014,Unknown,Tottenham vs Arsenal,0-1,227.0,238.0,123.0
+2013/2014,Unknown,Manchester Utd vs Liverpool,0-3,147.0,246.0,181.0
+2013/2014,Unknown,Aston Villa vs Chelsea,1-0,583.0,313.0,-192.0
+2013/2014,Unknown,Everton vs Cardiff,2-1,-323.0,421.0,924.0
+2013/2014,Unknown,Fulham vs Newcastle,1-0,173.0,235.0,160.0
+2013/2014,Unknown,Southampton vs Norwich,4-2,-179.0,293.0,560.0
+2013/2014,Unknown,Stoke vs West Ham,3-1,127.0,217.0,241.0
+2013/2014,Unknown,Sunderland vs Crystal Palace,0-0,117.0,224.0,258.0
+2013/2014,Unknown,Swansea vs West Brom,1-2,-109.0,242.0,324.0
+2013/2014,Unknown,Hull vs Manchester City,0-2,507.0,315.0,-179.0
+2013/2014,Unknown,Chelsea vs Tottenham,4-0,-192.0,313.0,583.0
+2013/2014,Unknown,Cardiff vs Fulham,3-1,129.0,233.0,224.0
+2013/2014,Unknown,Crystal Palace vs Southampton,0-1,264.0,225.0,114.0
+2013/2014,Unknown,Norwich vs Stoke,1-1,123.0,220.0,250.0
+2013/2014,Unknown,West Brom vs Manchester Utd,0-3,354.0,252.0,-119.0
+2013/2014,Unknown,Aston Villa vs Norwich,4-1,117.0,231.0,252.0
+2013/2014,Unknown,Swansea vs Crystal Palace,1-1,-127.0,249.0,399.0
+2013/2014,Unknown,Tottenham vs Cardiff,1-0,-303.0,401.0,907.0
+2013/2014,Unknown,Southampton vs Liverpool,0-3,265.0,254.0,102.0
+2013/2014,Unknown,Everton vs West Ham,1-0,-204.0,320.0,627.0
+2013/2014,Unknown,Fulham vs Chelsea,1-3,654.0,353.0,-222.0
+2013/2014,Unknown,Hull vs Newcastle,1-4,127.0,220.0,238.0
+2013/2014,Unknown,Stoke vs Arsenal,1-0,419.0,259.0,-135.0
+2013/2014,Unknown,Norwich vs Tottenham,1-0,273.0,245.0,102.0
+2013/2014,Unknown,Liverpool vs Swansea,4-3,-357.0,475.0,994.0
+2013/2014,Unknown,Newcastle vs Aston Villa,1-0,-104.0,244.0,303.0
+2013/2014,Unknown,Crystal Palace vs Manchester Utd,0-2,526.0,291.0,-175.0
+2013/2014,Unknown,Arsenal vs Sunderland,4-1,-303.0,413.0,903.0
+2013/2014,Unknown,Cardiff vs Hull,0-4,190.0,206.0,165.0
+2013/2014,Unknown,Manchester City vs Stoke,1-0,-588.0,670.0,1491.0
+2013/2014,Unknown,West Brom vs Fulham,1-1,-137.0,274.0,393.0
+2013/2014,Unknown,West Ham vs Southampton,3-1,245.0,235.0,118.0
+2013/2014,Unknown,Chelsea vs Everton,1-0,-169.0,287.0,535.0
+2013/2014,Unknown,Fulham vs Liverpool,2-3,682.0,407.0,-263.0
+2013/2014,Unknown,Stoke vs Swansea,1-1,175.0,206.0,175.0
+2013/2014,Unknown,Arsenal vs Manchester Utd,0-0,131.0,229.0,221.0
+2013/2014,Unknown,Newcastle vs Tottenham,0-4,200.0,234.0,139.0
+2013/2014,Unknown,West Brom vs Chelsea,1-1,620.0,330.0,-208.0
+2013/2014,Unknown,Cardiff vs Aston Villa,0-0,164.0,227.0,174.0
+2013/2014,Unknown,Hull vs Southampton,0-1,184.0,216.0,161.0
+2013/2014,Unknown,West Ham vs Norwich,2-0,114.0,233.0,254.0
+2013/2014,Unknown,Manchester Utd vs Fulham,2-2,-625.0,690.0,1577.0
+2013/2014,Unknown,Tottenham vs Everton,1-0,117.0,233.0,246.0
+2013/2014,Unknown,Swansea vs Cardiff,3-0,-112.0,247.0,334.0
+2013/2014,Unknown,Aston Villa vs West Ham,0-2,108.0,234.0,271.0
+2013/2014,Unknown,Chelsea vs Newcastle,3-0,-455.0,531.0,1320.0
+2013/2014,Unknown,Crystal Palace vs West Brom,3-1,154.0,216.0,196.0
+2013/2014,Unknown,Norwich vs Manchester City,0-0,715.0,404.0,-263.0
+2013/2014,Unknown,Southampton vs Stoke,2-2,-196.0,305.0,633.0
+2013/2014,Unknown,Sunderland vs Hull,0-2,131.0,218.0,234.0
+2013/2014,Unknown,Liverpool vs Arsenal,5-1,124.0,248.0,221.0
+2013/2014,Unknown,Manchester City vs Chelsea,0-1,102.0,242.0,282.0
+2013/2014,Unknown,Arsenal vs Crystal Palace,2-0,-455.0,524.0,1335.0
+2013/2014,Unknown,West Brom vs Liverpool,1-1,441.0,312.0,-164.0
+2013/2014,Unknown,Cardiff vs Norwich,2-1,114.0,231.0,263.0
+2013/2014,Unknown,Everton vs Aston Villa,2-1,-179.0,303.0,534.0
+2013/2014,Unknown,Fulham vs Southampton,0-3,250.0,233.0,116.0
+2013/2014,Unknown,Hull vs Tottenham,1-1,268.0,237.0,108.0
+2013/2014,Unknown,Stoke vs Manchester Utd,2-1,657.0,336.0,-217.0
+2013/2014,Unknown,Newcastle vs Sunderland,0-3,-103.0,237.0,311.0
+2013/2014,Unknown,West Ham vs Swansea,2-0,179.0,225.0,161.0
+2013/2014,Unknown,Aston Villa vs West Brom,4-3,156.0,215.0,190.0
+2013/2014,Unknown,Chelsea vs West Ham,0-0,-588.0,637.0,1530.0
+2013/2014,Unknown,Sunderland vs Stoke,1-0,102.0,234.0,293.0
+2013/2014,Unknown,Tottenham vs Manchester City,1-5,301.0,273.0,-114.0
+2013/2014,Unknown,Crystal Palace vs Hull,1-0,147.0,206.0,214.0
+2013/2014,Unknown,Liverpool vs Everton,4-0,-128.0,275.0,351.0
+2013/2014,Unknown,Manchester Utd vs Cardiff,2-0,-476.0,548.0,1374.0
+2013/2014,Unknown,Norwich vs Newcastle,0-0,156.0,224.0,183.0
+2013/2014,Unknown,Southampton vs Arsenal,2-2,294.0,248.0,-102.0
+2013/2014,Unknown,Swansea vs Fulham,2-0,-147.0,275.0,434.0
+2013/2014,Unknown,West Brom vs Everton,1-1,287.0,245.0,100.0
+2013/2014,Unknown,Chelsea vs Manchester Utd,3-1,-149.0,278.0,440.0
+2013/2014,Unknown,Swansea vs Tottenham,1-3,206.0,235.0,135.0
+2013/2014,Unknown,Liverpool vs Aston Villa,2-2,-500.0,615.0,1259.0
+2013/2014,Unknown,Arsenal vs Fulham,2-0,-500.0,610.0,1312.0
+2013/2014,Unknown,Crystal Palace vs Stoke,1-0,123.0,223.0,243.0
+2013/2014,Unknown,Manchester City vs Cardiff,4-2,-1000.0,953.0,2180.0
+2013/2014,Unknown,Norwich vs Hull,1-0,149.0,221.0,198.0
+2013/2014,Unknown,West Ham vs Newcastle,1-3,196.0,233.0,143.0
+2013/2014,Unknown,Sunderland vs Southampton,2-2,196.0,223.0,149.0
+2013/2014,Unknown,Aston Villa vs Arsenal,1-2,594.0,341.0,-208.0
+2013/2014,Unknown,Stoke vs Liverpool,3-5,557.0,338.0,-200.0
+2013/2014,Unknown,Newcastle vs Manchester City,0-2,466.0,316.0,-169.0
+2013/2014,Unknown,Manchester Utd vs Swansea,2-0,-179.0,301.0,537.0
+2013/2014,Unknown,Cardiff vs West Ham,0-2,102.0,246.0,280.0
+2013/2014,Unknown,Everton vs Norwich,2-0,-286.0,394.0,853.0
+2013/2014,Unknown,Fulham vs Sunderland,1-4,114.0,229.0,261.0
+2013/2014,Unknown,Southampton vs West Brom,1-0,-123.0,258.0,361.0
+2013/2014,Unknown,Tottenham vs Crystal Palace,2-0,-250.0,371.0,738.0
+2013/2014,Unknown,Hull vs Chelsea,0-2,501.0,276.0,-159.0
+2013/2014,Unknown,Manchester Utd vs Tottenham,1-2,-152.0,295.0,417.0
+2013/2014,Unknown,Arsenal vs Cardiff,2-0,-400.0,503.0,1097.0
+2013/2014,Unknown,Crystal Palace vs Norwich,1-1,131.0,221.0,227.0
+2013/2014,Unknown,Fulham vs West Ham,2-1,131.0,233.0,217.0
+2013/2014,Unknown,Liverpool vs Hull,2-0,-323.0,444.0,908.0
+2013/2014,Unknown,Southampton vs Chelsea,0-3,275.0,237.0,106.0
+2013/2014,Unknown,Stoke vs Everton,1-1,342.0,252.0,-118.0
+2013/2014,Unknown,Sunderland vs Aston Villa,0-1,108.0,234.0,269.0
+2013/2014,Unknown,West Brom vs Newcastle,1-0,134.0,239.0,206.0
+2013/2014,Unknown,Swansea vs Manchester City,2-3,445.0,287.0,-152.0
+2013/2014,Unknown,Chelsea vs Liverpool,2-1,119.0,237.0,236.0
+2013/2014,Unknown,Tottenham vs Stoke,3-0,-227.0,338.0,693.0
+2013/2014,Unknown,Everton vs Southampton,2-1,-108.0,245.0,313.0
+2013/2014,Unknown,Newcastle vs Arsenal,0-1,225.0,233.0,127.0
+2013/2014,Unknown,Cardiff vs Sunderland,2-2,137.0,223.0,212.0
+2013/2014,Unknown,Aston Villa vs Swansea,1-1,194.0,225.0,149.0
+2013/2014,Unknown,Hull vs Fulham,6-0,100.0,233.0,298.0
+2013/2014,Unknown,Manchester City vs Crystal Palace,1-0,-769.0,780.0,1873.0
+2013/2014,Unknown,Norwich vs Manchester Utd,0-1,423.0,282.0,-147.0
+2013/2014,Unknown,West Ham vs West Brom,3-3,152.0,223.0,190.0
+2013/2014,Unknown,Manchester City vs Liverpool,2-1,-128.0,289.0,338.0
+2013/2014,Unknown,Aston Villa vs Crystal Palace,0-1,-110.0,236.0,338.0
+2013/2014,Unknown,Cardiff vs Southampton,0-3,221.0,231.0,129.0
+2013/2014,Unknown,Chelsea vs Swansea,1-0,-312.0,430.0,927.0
+2013/2014,Unknown,Everton vs Sunderland,0-1,-303.0,425.0,865.0
+2013/2014,Unknown,Newcastle vs Stoke,5-1,-141.0,258.0,434.0
+2013/2014,Unknown,Norwich vs Fulham,1-2,-110.0,250.0,318.0
+2013/2014,Unknown,Tottenham vs West Brom,1-1,-179.0,311.0,512.0
+2013/2014,Unknown,West Ham vs Arsenal,1-3,501.0,316.0,-182.0
+2013/2014,Unknown,Hull vs Manchester Utd,2-3,480.0,276.0,-159.0
+2013/2014,Unknown,Arsenal vs Chelsea,0-0,148.0,225.0,195.0
+2013/2014,Unknown,Swansea vs Everton,1-2,227.0,235.0,125.0
+2013/2014,Unknown,Southampton vs Tottenham,2-3,150.0,231.0,186.0
+2013/2014,Unknown,Crystal Palace vs Newcastle,0-3,210.0,225.0,138.0
+2013/2014,Unknown,Fulham vs Manchester City,2-4,693.0,413.0,-263.0
+2013/2014,Unknown,Manchester Utd vs West Ham,3-1,-333.0,453.0,885.0
+2013/2014,Unknown,Stoke vs Aston Villa,2-1,100.0,229.0,301.0
+2013/2014,Unknown,Sunderland vs Norwich,0-0,110.0,229.0,262.0
+2013/2014,Unknown,West Brom vs Hull,1-1,-104.0,227.0,324.0
+2013/2014,Unknown,Liverpool vs Cardiff,3-1,-526.0,616.0,1445.0
+2013/2014,Unknown,Tottenham vs Liverpool,0-5,135.0,236.0,206.0
+2013/2014,Unknown,Aston Villa vs Manchester Utd,0-3,413.0,273.0,-143.0
+2013/2014,Unknown,Norwich vs Swansea,1-1,189.0,231.0,149.0
+2013/2014,Unknown,Hull vs Stoke,0-0,124.0,213.0,257.0
+2013/2014,Unknown,Cardiff vs West Brom,1-0,174.0,227.0,164.0
+2013/2014,Unknown,Chelsea vs Crystal Palace,2-1,-556.0,624.0,1588.0
+2013/2014,Unknown,Everton vs Fulham,4-1,-270.0,383.0,788.0
+2013/2014,Unknown,Newcastle vs Southampton,1-1,131.0,229.0,221.0
+2013/2014,Unknown,West Ham vs Sunderland,0-0,-104.0,244.0,305.0
+2013/2014,Unknown,Manchester City vs Arsenal,6-3,-139.0,293.0,376.0
+2013/2014,Unknown,Swansea vs Hull,1-1,-149.0,263.0,462.0
+2013/2014,Unknown,Arsenal vs Everton,1-1,-152.0,283.0,446.0
+2013/2014,Unknown,Fulham vs Aston Villa,2-0,158.0,229.0,177.0
+2013/2014,Unknown,Sunderland vs Tottenham,1-2,266.0,239.0,108.0
+2013/2014,Unknown,Crystal Palace vs Cardiff,2-0,147.0,215.0,202.0
+2013/2014,Unknown,Liverpool vs West Ham,4-1,-323.0,445.0,844.0
+2013/2014,Unknown,Southampton vs Manchester City,1-1,401.0,282.0,-145.0
+2013/2014,Unknown,Stoke vs Chelsea,3-2,531.0,299.0,-179.0
+2013/2014,Unknown,West Brom vs Norwich,0-2,-145.0,275.0,425.0
+2013/2014,Unknown,Manchester Utd vs Newcastle,0-1,-217.0,348.0,619.0
+2013/2014,Unknown,Fulham vs Tottenham,1-2,492.0,287.0,-164.0
+2013/2014,Unknown,West Brom vs Manchester City,2-3,560.0,344.0,-204.0
+2013/2014,Unknown,Arsenal vs Hull,2-0,-370.0,482.0,1039.0
+2013/2014,Unknown,Liverpool vs Norwich,5-1,-400.0,511.0,1057.0
+2013/2014,Unknown,Manchester Utd vs Everton,0-1,-128.0,273.0,355.0
+2013/2014,Unknown,Southampton vs Aston Villa,2-3,-147.0,270.0,451.0
+2013/2014,Unknown,Stoke vs Cardiff,0-0,121.0,223.0,250.0
+2013/2014,Unknown,Sunderland vs Chelsea,3-4,533.0,332.0,-192.0
+2013/2014,Unknown,Swansea vs Newcastle,3-0,120.0,239.0,236.0
+2013/2014,Unknown,Crystal Palace vs West Ham,1-0,217.0,224.0,134.0
+2013/2014,Unknown,Chelsea vs Southampton,3-1,-175.0,307.0,495.0
+2013/2014,Unknown,Manchester City vs Swansea,3-0,-400.0,488.0,1113.0
+2013/2014,Unknown,Hull vs Liverpool,3-1,505.0,288.0,-169.0
+2013/2014,Unknown,Tottenham vs Manchester Utd,2-2,172.0,224.0,163.0
+2013/2014,Unknown,Newcastle vs West Brom,2-1,-103.0,247.0,290.0
+2013/2014,Unknown,Aston Villa vs Sunderland,0-0,-122.0,250.0,368.0
+2013/2014,Unknown,Cardiff vs Arsenal,0-3,537.0,312.0,-185.0
+2013/2014,Unknown,Everton vs Stoke,4-0,-192.0,304.0,591.0
+2013/2014,Unknown,Norwich vs Crystal Palace,1-0,-103.0,238.0,303.0
+2013/2014,Unknown,West Ham vs Fulham,3-0,-137.0,274.0,394.0
+2013/2014,Unknown,West Brom vs Aston Villa,2-2,114.0,227.0,265.0
+2013/2014,Unknown,Cardiff vs Manchester Utd,2-2,413.0,275.0,-143.0
+2013/2014,Unknown,Manchester City vs Tottenham,6-0,-154.0,287.0,447.0
+2013/2014,Unknown,West Ham vs Chelsea,0-3,491.0,287.0,-164.0
+2013/2014,Unknown,Arsenal vs Southampton,2-0,-169.0,301.0,503.0
+2013/2014,Unknown,Fulham vs Swansea,1-2,227.0,236.0,125.0
+2013/2014,Unknown,Hull vs Crystal Palace,0-1,-112.0,235.0,355.0
+2013/2014,Unknown,Newcastle vs Norwich,2-1,-133.0,272.0,387.0
+2013/2014,Unknown,Stoke vs Sunderland,2-0,110.0,219.0,289.0
+2013/2014,Unknown,Everton vs Liverpool,3-3,183.0,225.0,156.0
+2013/2014,Unknown,Manchester Utd vs Arsenal,1-0,127.0,237.0,221.0
+2013/2014,Unknown,Swansea vs Stoke,3-3,-105.0,236.0,323.0
+2013/2014,Unknown,Sunderland vs Manchester City,1-0,618.0,354.0,-227.0
+2013/2014,Unknown,Tottenham vs Newcastle,0-1,-189.0,318.0,541.0
+2013/2014,Unknown,Norwich vs West Ham,3-1,131.0,227.0,223.0
+2013/2014,Unknown,Aston Villa vs Cardiff,2-0,117.0,229.0,254.0
+2013/2014,Unknown,Chelsea vs West Brom,2-2,-345.0,459.0,951.0
+2013/2014,Unknown,Crystal Palace vs Everton,0-0,444.0,273.0,-147.0
+2013/2014,Unknown,Liverpool vs Fulham,4-0,-500.0,596.0,1332.0
+2013/2014,Unknown,Southampton vs Hull,4-1,-175.0,276.0,583.0
+2013/2014,Unknown,Cardiff vs Swansea,1-0,216.0,227.0,134.0
+2013/2014,Unknown,Everton vs Tottenham,0-0,131.0,227.0,221.0
+2013/2014,Unknown,Arsenal vs Liverpool,2-0,108.0,244.0,259.0
+2013/2014,Unknown,Fulham vs Manchester Utd,1-3,555.0,330.0,-196.0
+2013/2014,Unknown,Hull vs Sunderland,1-0,125.0,223.0,237.0
+2013/2014,Unknown,Manchester City vs Norwich,7-0,-556.0,624.0,1502.0
+2013/2014,Unknown,Stoke vs Southampton,1-1,210.0,215.0,144.0
+2013/2014,Unknown,West Brom vs Crystal Palace,2-0,-189.0,313.0,564.0
+2013/2014,Unknown,West Ham vs Aston Villa,0-0,112.0,235.0,258.0
+2013/2014,Unknown,Newcastle vs Chelsea,2-0,478.0,309.0,-169.0
+2013/2014,Unknown,Chelsea vs Manchester City,2-1,125.0,231.0,229.0
+2013/2014,Unknown,Swansea vs West Ham,0-0,-139.0,274.0,399.0
+2013/2014,Unknown,Tottenham vs Hull,1-0,-303.0,383.0,1016.0
+2013/2014,Unknown,Sunderland vs Newcastle,2-1,179.0,231.0,156.0
+2013/2014,Unknown,Southampton vs Fulham,2-0,-169.0,295.0,500.0
+2013/2014,Unknown,Aston Villa vs Everton,0-2,231.0,231.0,125.0
+2013/2014,Unknown,Liverpool vs West Brom,4-1,-256.0,388.0,695.0
+2013/2014,Unknown,Manchester Utd vs Stoke,3-2,-323.0,422.0,949.0
+2013/2014,Unknown,Norwich vs Cardiff,0-0,104.0,238.0,279.0
+2013/2014,Unknown,Crystal Palace vs Arsenal,0-2,1091.0,457.0,-357.0
+2013/2014,Unknown,Crystal Palace vs Fulham,1-4,177.0,225.0,165.0
+2013/2014,Unknown,Aston Villa vs Tottenham,0-2,305.0,239.0,-103.0
+2013/2014,Unknown,West Ham vs Manchester City,1-3,434.0,288.0,-152.0
+2013/2014,Unknown,Arsenal vs Norwich,4-1,-345.0,443.0,1016.0
+2013/2014,Unknown,Chelsea vs Cardiff,4-1,-357.0,463.0,1048.0
+2013/2014,Unknown,Everton vs Hull,2-1,-200.0,312.0,627.0
+2013/2014,Unknown,Manchester Utd vs Southampton,1-1,-185.0,312.0,536.0
+2013/2014,Unknown,Stoke vs West Brom,0-0,148.0,223.0,197.0
+2013/2014,Unknown,Swansea vs Sunderland,4-0,-179.0,303.0,536.0
+2013/2014,Unknown,Newcastle vs Liverpool,2-2,313.0,276.0,-118.0
+2013/2014,Unknown,Tottenham vs West Ham,0-3,-238.0,345.0,715.0
+2013/2014,Unknown,West Brom vs Arsenal,1-1,393.0,283.0,-141.0
+2013/2014,Unknown,Norwich vs Chelsea,1-3,525.0,305.0,-179.0
+2013/2014,Unknown,Southampton vs Swansea,2-0,114.0,231.0,259.0
+2013/2014,Unknown,Sunderland vs Manchester Utd,1-2,538.0,322.0,-189.0
+2013/2014,Unknown,Cardiff vs Newcastle,1-2,136.0,234.0,206.0
+2013/2014,Unknown,Fulham vs Stoke,1-0,152.0,219.0,194.0
+2013/2014,Unknown,Hull vs Aston Villa,0-0,127.0,220.0,240.0
+2013/2014,Unknown,Liverpool vs Crystal Palace,3-1,-556.0,607.0,1536.0
+2013/2014,Unknown,Manchester City vs Everton,3-1,-167.0,301.0,472.0
+2013/2014,Unknown,Everton vs Newcastle,3-2,-175.0,309.0,498.0
+2013/2014,Unknown,Sunderland vs Liverpool,1-3,472.0,294.0,-161.0
+2013/2014,Unknown,Stoke vs Norwich,0-1,-106.0,236.0,321.0
+2013/2014,Unknown,Swansea vs Arsenal,1-2,200.0,233.0,141.0
+2013/2014,Unknown,Aston Villa vs Manchester City,3-2,597.0,319.0,-200.0
+2013/2014,Unknown,Fulham vs Cardiff,1-2,106.0,231.0,279.0
+2013/2014,Unknown,Hull vs West Ham,1-0,127.0,218.0,243.0
+2013/2014,Unknown,Manchester Utd vs West Brom,1-2,-333.0,442.0,966.0
+2013/2014,Unknown,Southampton vs Crystal Palace,2-0,-233.0,342.0,707.0
+2013/2014,Unknown,Tottenham vs Chelsea,1-1,148.0,221.0,197.0
+2013/2014,Unknown,Cardiff vs Tottenham,0-1,326.0,241.0,-110.0
+2013/2014,Unknown,Manchester City vs Manchester Utd,4-1,121.0,221.0,246.0
+2013/2014,Unknown,Arsenal vs Stoke,3-1,-263.0,379.0,777.0
+2013/2014,Unknown,Crystal Palace vs Swansea,0-2,258.0,234.0,110.0
+2013/2014,Unknown,Chelsea vs Fulham,2-0,-370.0,463.0,1041.0
+2013/2014,Unknown,Liverpool vs Southampton,0-1,-143.0,266.0,426.0
+2013/2014,Unknown,Newcastle vs Hull,2-3,-130.0,249.0,400.0
+2013/2014,Unknown,West Brom vs Sunderland,3-0,104.0,238.0,273.0
+2013/2014,Unknown,West Ham vs Everton,2-3,224.0,224.0,131.0
+2013/2014,Unknown,Norwich vs Aston Villa,0-1,133.0,227.0,206.0
+2013/2014,Unknown,Swansea vs Liverpool,2-2,204.0,224.0,141.0
+2013/2014,Unknown,Southampton vs West Ham,0-0,-145.0,267.0,440.0
+2013/2014,Unknown,Everton vs Chelsea,1-0,231.0,236.0,122.0
+2013/2014,Unknown,Aston Villa vs Newcastle,1-2,104.0,240.0,276.0
+2013/2014,Unknown,Fulham vs West Brom,1-1,112.0,238.0,254.0
+2013/2014,Unknown,Hull vs Cardiff,1-1,118.0,221.0,257.0
+2013/2014,Unknown,Stoke vs Manchester City,0-0,449.0,270.0,-147.0
+2013/2014,Unknown,Sunderland vs Arsenal,1-3,463.0,282.0,-156.0
+2013/2014,Unknown,Tottenham vs Norwich,2-0,-227.0,334.0,709.0
+2013/2014,Unknown,Manchester Utd vs Crystal Palace,2-0,-588.0,641.0,1564.0
+2013/2014,Unknown,Arsenal vs Tottenham,1-0,110.0,236.0,257.0
+2013/2014,Unknown,Liverpool vs Manchester Utd,1-0,141.0,219.0,214.0
+2013/2014,Unknown,West Brom vs Swansea,0-2,164.0,234.0,169.0
+2013/2014,Unknown,Crystal Palace vs Sunderland,3-1,144.0,222.0,202.0
+2013/2014,Unknown,Cardiff vs Everton,0-0,229.0,227.0,127.0
+2013/2014,Unknown,Newcastle vs Fulham,1-0,110.0,231.0,262.0
+2013/2014,Unknown,Norwich vs Southampton,1-0,184.0,227.0,149.0
+2013/2014,Unknown,West Ham vs Stoke,0-1,-104.0,236.0,315.0
+2013/2014,Unknown,Manchester City vs Hull,2-0,-588.0,661.0,1518.0
+2013/2014,Unknown,Manchester Utd vs Chelsea,0-0,127.0,227.0,224.0
+2013/2014,Unknown,Cardiff vs Manchester City,3-2,703.0,359.0,-244.0
+2013/2014,Unknown,Tottenham vs Swansea,1-0,-141.0,267.0,419.0
+2013/2014,Unknown,Aston Villa vs Liverpool,0-1,301.0,282.0,-116.0
+2013/2014,Unknown,Everton vs West Brom,0-0,-182.0,307.0,542.0
+2013/2014,Unknown,Hull vs Norwich,1-0,135.0,223.0,216.0
+2013/2014,Unknown,Newcastle vs West Ham,0-0,125.0,234.0,227.0
+2013/2014,Unknown,Southampton vs Sunderland,1-1,-156.0,287.0,461.0
+2013/2014,Unknown,Stoke vs Crystal Palace,2-1,-116.0,243.0,363.0
+2013/2014,Unknown,Fulham vs Arsenal,1-3,347.0,252.0,-118.0
+2013/2014,Unknown,Chelsea vs Aston Villa,2-1,-370.0,493.0,982.0
+2013/2014,Unknown,Manchester City vs Newcastle,4-0,-385.0,488.0,1054.0
+2013/2014,Unknown,Chelsea vs Hull,2-0,-500.0,547.0,1398.0
+2013/2014,Unknown,Crystal Palace vs Tottenham,0-1,476.0,272.0,-156.0
+2013/2014,Unknown,Swansea vs Manchester Utd,1-4,257.0,231.0,112.0
+2013/2014,Unknown,Arsenal vs Aston Villa,1-3,-244.0,371.0,674.0
+2013/2014,Unknown,Norwich vs Everton,2-2,248.0,225.0,119.0
+2013/2014,Unknown,Sunderland vs Fulham,0-1,134.0,222.0,217.0
+2013/2014,Unknown,West Brom vs Southampton,0-1,144.0,229.0,194.0
+2013/2014,Unknown,West Ham vs Cardiff,2-0,102.0,235.0,286.0
+2013/2014,Unknown,Liverpool vs Stoke,1-0,-256.0,351.0,801.0

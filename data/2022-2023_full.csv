@@ -1,0 +1,381 @@
+season,date,match_name,result,h_odd,d_odd,a_odd
+2022/2023,Unknown,Arsenal vs Wolves,5-0,-345.0,518.0,874.0
+2022/2023,Unknown,Aston Villa vs Brighton,2-1,-116.0,307.0,285.0
+2022/2023,Unknown,Brentford vs Manchester City,1-0,237.0,260.0,114.0
+2022/2023,Unknown,Chelsea vs Newcastle,1-1,181.0,277.0,138.0
+2022/2023,Unknown,Crystal Palace vs Nottingham,1-1,-164.0,311.0,462.0
+2022/2023,Unknown,Everton vs Bournemouth,1-0,-159.0,321.0,434.0
+2022/2023,Unknown,Leeds vs Tottenham,1-4,179.0,286.0,136.0
+2022/2023,Unknown,Leicester vs West Ham,2-1,108.0,297.0,223.0
+2022/2023,Unknown,Manchester Utd vs Fulham,2-1,-208.0,401.0,505.0
+2022/2023,Unknown,Southampton vs Liverpool,4-4,488.0,393.0,-204.0
+2022/2023,Unknown,Manchester Utd vs Chelsea,4-1,-182.0,345.0,479.0
+2022/2023,Unknown,Brighton vs Manchester City,1-1,289.0,313.0,-119.0
+2022/2023,Unknown,Newcastle vs Leicester,0-0,-323.0,491.0,824.0
+2022/2023,Unknown,Manchester City vs Chelsea,1-0,-172.0,317.0,484.0
+2022/2023,Unknown,Brighton vs Southampton,3-1,-476.0,637.0,1186.0
+2022/2023,Unknown,West Ham vs Leeds,3-1,160.0,249.0,169.0
+2022/2023,Unknown,Nottingham vs Arsenal,1-0,420.0,319.0,-159.0
+2022/2023,Unknown,Bournemouth vs Manchester Utd,0-1,629.0,425.0,-250.0
+2022/2023,Unknown,Fulham vs Crystal Palace,2-2,134.0,225.0,225.0
+2022/2023,Unknown,Liverpool vs Aston Villa,1-1,-204.0,384.0,509.0
+2022/2023,Unknown,Wolves vs Everton,1-1,212.0,247.0,131.0
+2022/2023,Unknown,Tottenham vs Brentford,1-3,-105.0,277.0,282.0
+2022/2023,Unknown,Newcastle vs Brighton,4-1,-123.0,309.0,312.0
+2022/2023,Unknown,Leicester vs Liverpool,0-3,366.0,326.0,-145.0
+2022/2023,Unknown,Arsenal vs Brighton,0-3,-137.0,330.0,338.0
+2022/2023,Unknown,Brentford vs West Ham,2-0,-120.0,264.0,353.0
+2022/2023,Unknown,Everton vs Manchester City,0-3,727.0,425.0,-270.0
+2022/2023,Unknown,Aston Villa vs Tottenham,2-1,127.0,265.0,202.0
+2022/2023,Unknown,Chelsea vs Nottingham,2-2,-179.0,330.0,487.0
+2022/2023,Unknown,Crystal Palace vs Bournemouth,2-0,-132.0,278.0,380.0
+2022/2023,Unknown,Manchester Utd vs Wolves,2-0,-263.0,422.0,693.0
+2022/2023,Unknown,Southampton vs Fulham,0-2,173.0,244.0,161.0
+2022/2023,Unknown,Leeds vs Newcastle,2-2,401.0,341.0,-161.0
+2022/2023,Unknown,Nottingham vs Southampton,4-3,100.0,250.0,290.0
+2022/2023,Unknown,Brighton vs Everton,1-5,-286.0,459.0,742.0
+2022/2023,Unknown,Fulham vs Leicester,5-3,167.0,236.0,171.0
+2022/2023,Unknown,West Ham vs Manchester Utd,1-0,257.0,268.0,104.0
+2022/2023,Unknown,Newcastle vs Arsenal,0-2,131.0,276.0,191.0
+2022/2023,Unknown,Liverpool vs Brentford,1-0,-238.0,416.0,601.0
+2022/2023,Unknown,Bournemouth vs Chelsea,1-3,252.0,262.0,108.0
+2022/2023,Unknown,Manchester City vs Leeds,2-1,-625.0,756.0,1586.0
+2022/2023,Unknown,Tottenham vs Crystal Palace,1-0,-120.0,285.0,330.0
+2022/2023,Unknown,Wolves vs Aston Villa,1-0,212.0,235.0,138.0
+2022/2023,Unknown,Brighton vs Manchester Utd,1-0,119.0,283.0,211.0
+2022/2023,Unknown,Liverpool vs Fulham,1-0,-345.0,509.0,859.0
+2022/2023,Unknown,Manchester City vs West Ham,3-0,-556.0,694.0,1460.0
+2022/2023,Unknown,Arsenal vs Chelsea,3-1,-164.0,325.0,455.0
+2022/2023,Unknown,Leicester vs Everton,2-2,102.0,244.0,293.0
+2022/2023,Unknown,Liverpool vs Tottenham,4-3,-185.0,384.0,434.0
+2022/2023,Unknown,Bournemouth vs Leeds,4-1,147.0,241.0,192.0
+2022/2023,Unknown,Fulham vs Manchester City,1-2,973.0,513.0,-370.0
+2022/2023,Unknown,Manchester Utd vs Aston Villa,1-0,-133.0,308.0,346.0
+2022/2023,Unknown,Newcastle vs Southampton,3-1,-385.0,520.0,1053.0
+2022/2023,Unknown,Brentford vs Nottingham,2-1,-133.0,276.0,394.0
+2022/2023,Unknown,Brighton vs Wolves,6-0,-164.0,318.0,459.0
+2022/2023,Unknown,Crystal Palace vs West Ham,4-3,154.0,220.0,199.0
+2022/2023,Unknown,Tottenham vs Manchester Utd,2-2,188.0,276.0,135.0
+2022/2023,Unknown,Everton vs Newcastle,1-4,350.0,268.0,-120.0
+2022/2023,Unknown,Southampton vs Bournemouth,0-1,152.0,231.0,191.0
+2022/2023,Unknown,Manchester City vs Arsenal,4-1,-152.0,317.0,405.0
+2022/2023,Unknown,Chelsea vs Brentford,0-2,-127.0,268.0,376.0
+2022/2023,Unknown,West Ham vs Liverpool,1-2,262.0,285.0,-101.0
+2022/2023,Unknown,Nottingham vs Brighton,3-1,443.0,328.0,-164.0
+2022/2023,Unknown,Leeds vs Leicester,1-1,138.0,259.0,192.0
+2022/2023,Unknown,Aston Villa vs Fulham,1-0,-135.0,285.0,391.0
+2022/2023,Unknown,Wolves vs Crystal Palace,2-0,131.0,204.0,257.0
+2022/2023,Unknown,Bournemouth vs West Ham,0-4,199.0,229.0,149.0
+2022/2023,Unknown,Newcastle vs Tottenham,6-1,-109.0,273.0,298.0
+2022/2023,Unknown,Brentford vs Aston Villa,1-1,167.0,227.0,177.0
+2022/2023,Unknown,Crystal Palace vs Everton,0-0,-105.0,237.0,332.0
+2022/2023,Unknown,Leicester vs Wolves,2-1,143.0,231.0,206.0
+2022/2023,Unknown,Liverpool vs Nottingham,3-2,-588.0,705.0,1494.0
+2022/2023,Unknown,Fulham vs Leeds,2-1,135.0,246.0,206.0
+2022/2023,Unknown,Arsenal vs Southampton,3-3,-476.0,603.0,1289.0
+2022/2023,Unknown,Leeds vs Liverpool,1-6,359.0,337.0,-147.0
+2022/2023,Unknown,Nottingham vs Manchester Utd,0-2,395.0,299.0,-143.0
+2022/2023,Unknown,West Ham vs Arsenal,2-2,458.0,322.0,-167.0
+2022/2023,Unknown,Manchester City vs Leicester,3-1,-714.0,823.0,1767.0
+2022/2023,Unknown,Chelsea vs Brighton,1-2,195.0,239.0,146.0
+2022/2023,Unknown,Everton vs Fulham,1-3,122.0,229.0,247.0
+2022/2023,Unknown,Southampton vs Crystal Palace,0-2,192.0,212.0,165.0
+2022/2023,Unknown,Tottenham vs Bournemouth,2-3,-200.0,349.0,550.0
+2022/2023,Unknown,Wolves vs Brentford,2-0,181.0,218.0,170.0
+2022/2023,Unknown,Aston Villa vs Newcastle,3-0,261.0,245.0,110.0
+2022/2023,Unknown,Liverpool vs Arsenal,2-2,173.0,259.0,152.0
+2022/2023,Unknown,Leeds vs Crystal Palace,1-5,106.0,246.0,271.0
+2022/2023,Unknown,Southampton vs Manchester City,1-4,1116.0,523.0,-400.0
+2022/2023,Unknown,Aston Villa vs Nottingham,2-0,-172.0,316.0,492.0
+2022/2023,Unknown,Brentford vs Newcastle,1-2,309.0,250.0,-105.0
+2022/2023,Unknown,Fulham vs West Ham,0-1,194.0,223.0,154.0
+2022/2023,Unknown,Leicester vs Bournemouth,0-1,106.0,247.0,271.0
+2022/2023,Unknown,Tottenham vs Brighton,2-1,174.0,246.0,159.0
+2022/2023,Unknown,Wolves vs Chelsea,1-0,401.0,265.0,-132.0
+2022/2023,Unknown,Manchester Utd vs Everton,2-0,-172.0,322.0,484.0
+2022/2023,Unknown,Manchester Utd vs Brentford,1-0,-161.0,323.0,430.0
+2022/2023,Unknown,West Ham vs Newcastle,1-5,247.0,223.0,125.0
+2022/2023,Unknown,Chelsea vs Liverpool,0-0,118.0,250.0,238.0
+2022/2023,Unknown,Bournemouth vs Brighton,0-2,476.0,334.0,-175.0
+2022/2023,Unknown,Leeds vs Nottingham,2-1,-145.0,290.0,415.0
+2022/2023,Unknown,Leicester vs Aston Villa,1-2,174.0,241.0,163.0
+2022/2023,Unknown,Everton vs Tottenham,1-1,282.0,236.0,108.0
+2022/2023,Unknown,Newcastle vs Manchester Utd,2-0,134.0,250.0,204.0
+2022/2023,Unknown,West Ham vs Southampton,1-0,-132.0,270.0,398.0
+2022/2023,Unknown,Chelsea vs Aston Villa,0-2,-161.0,293.0,487.0
+2022/2023,Unknown,Arsenal vs Leeds,4-1,-370.0,542.0,993.0
+2022/2023,Unknown,Bournemouth vs Fulham,2-1,156.0,229.0,189.0
+2022/2023,Unknown,Brighton vs Brentford,3-3,-161.0,315.0,458.0
+2022/2023,Unknown,Crystal Palace vs Leicester,2-1,139.0,231.0,213.0
+2022/2023,Unknown,Nottingham vs Wolves,1-1,233.0,212.0,139.0
+2022/2023,Unknown,Manchester City vs Liverpool,4-1,-147.0,316.0,397.0
+2022/2023,Unknown,Arsenal vs Crystal Palace,4-1,-385.0,491.0,1107.0
+2022/2023,Unknown,Chelsea vs Everton,2-2,-204.0,313.0,698.0
+2022/2023,Unknown,Aston Villa vs Bournemouth,3-0,-139.0,287.0,401.0
+2022/2023,Unknown,Brentford vs Leicester,1-1,-115.0,285.0,305.0
+2022/2023,Unknown,Southampton vs Tottenham,3-3,355.0,266.0,-122.0
+2022/2023,Unknown,Wolves vs Leeds,2-4,136.0,225.0,224.0
+2022/2023,Unknown,Nottingham vs Newcastle,1-2,438.0,277.0,-143.0
+2022/2023,Unknown,Brighton vs Crystal Palace,1-0,-270.0,400.0,797.0
+2022/2023,Unknown,Southampton vs Brentford,0-2,223.0,223.0,138.0
+2022/2023,Unknown,Newcastle vs Wolves,2-1,-156.0,284.0,480.0
+2022/2023,Unknown,Fulham vs Arsenal,0-3,664.0,372.0,-233.0
+2022/2023,Unknown,Manchester Utd vs Southampton,0-0,-370.0,513.0,982.0
+2022/2023,Unknown,West Ham vs Aston Villa,1-1,131.0,227.0,227.0
+2022/2023,Unknown,Crystal Palace vs Manchester City,0-1,906.0,408.0,-294.0
+2022/2023,Unknown,Everton vs Brentford,1-0,170.0,208.0,190.0
+2022/2023,Unknown,Leeds vs Brighton,2-2,328.0,277.0,-119.0
+2022/2023,Unknown,Leicester vs Chelsea,1-3,301.0,264.0,-109.0
+2022/2023,Unknown,Tottenham vs Nottingham,3-1,-227.0,359.0,667.0
+2022/2023,Unknown,Bournemouth vs Liverpool,1-0,623.0,411.0,-238.0
+2022/2023,Unknown,Brentford vs Fulham,3-2,104.0,254.0,274.0
+2022/2023,Unknown,Liverpool vs Manchester Utd,7-0,147.0,258.0,183.0
+2022/2023,Unknown,Nottingham vs Everton,2-2,204.0,202.0,161.0
+2022/2023,Unknown,Southampton vs Leicester,1-0,181.0,234.0,160.0
+2022/2023,Unknown,Arsenal vs Bournemouth,3-2,-455.0,581.0,1289.0
+2022/2023,Unknown,Aston Villa vs Crystal Palace,1-0,114.0,231.0,268.0
+2022/2023,Unknown,Brighton vs West Ham,4-0,-147.0,297.0,419.0
+2022/2023,Unknown,Chelsea vs Leeds,1-0,-172.0,315.0,509.0
+2022/2023,Unknown,Wolves vs Tottenham,1-0,227.0,224.0,135.0
+2022/2023,Unknown,Manchester City vs Newcastle,2-0,-196.0,342.0,560.0
+2022/2023,Unknown,Liverpool vs Wolves,2-0,-192.0,340.0,546.0
+2022/2023,Unknown,Arsenal vs Everton,4-0,-312.0,419.0,1021.0
+2022/2023,Unknown,Tottenham vs Chelsea,2-0,192.0,231.0,154.0
+2022/2023,Unknown,Crystal Palace vs Liverpool,0-0,398.0,305.0,-145.0
+2022/2023,Unknown,Bournemouth vs Manchester City,1-4,903.0,423.0,-294.0
+2022/2023,Unknown,Everton vs Aston Villa,0-2,162.0,214.0,197.0
+2022/2023,Unknown,Leeds vs Southampton,1-0,-105.0,264.0,296.0
+2022/2023,Unknown,Leicester vs Arsenal,0-1,486.0,329.0,-175.0
+2022/2023,Unknown,West Ham vs Nottingham,4-0,-143.0,277.0,443.0
+2022/2023,Unknown,Fulham vs Wolves,1-1,163.0,218.0,190.0
+2022/2023,Unknown,Tottenham vs West Ham,2-0,-115.0,252.0,353.0
+2022/2023,Unknown,Manchester Utd vs Leicester,3-0,-179.0,349.0,476.0
+2022/2023,Unknown,Newcastle vs Liverpool,0-2,154.0,248.0,179.0
+2022/2023,Unknown,Brentford vs Crystal Palace,1-1,-122.0,257.0,376.0
+2022/2023,Unknown,Brighton vs Fulham,0-1,-185.0,338.0,513.0
+2022/2023,Unknown,Chelsea vs Southampton,0-1,-233.0,363.0,695.0
+2022/2023,Unknown,Everton vs Leeds,1-0,174.0,221.0,177.0
+2022/2023,Unknown,Nottingham vs Manchester City,1-1,993.0,444.0,-323.0
+2022/2023,Unknown,Wolves vs Bournemouth,0-1,-120.0,260.0,369.0
+2022/2023,Unknown,Aston Villa vs Arsenal,2-4,340.0,267.0,-115.0
+2022/2023,Unknown,Arsenal vs Manchester City,1-3,223.0,244.0,129.0
+2022/2023,Unknown,Liverpool vs Everton,2-0,-169.0,322.0,487.0
+2022/2023,Unknown,Manchester City vs Aston Villa,3-1,-323.0,457.0,900.0
+2022/2023,Unknown,Leeds vs Manchester Utd,0-2,276.0,280.0,-104.0
+2022/2023,Unknown,Bournemouth vs Newcastle,1-1,484.0,301.0,-164.0
+2022/2023,Unknown,Arsenal vs Brentford,1-1,-189.0,330.0,558.0
+2022/2023,Unknown,Crystal Palace vs Brighton,1-1,369.0,268.0,-123.0
+2022/2023,Unknown,Fulham vs Nottingham,2-0,-106.0,250.0,319.0
+2022/2023,Unknown,Leicester vs Tottenham,4-1,250.0,269.0,106.0
+2022/2023,Unknown,Southampton vs Wolves,1-2,208.0,218.0,150.0
+2022/2023,Unknown,West Ham vs Chelsea,1-1,246.0,234.0,122.0
+2022/2023,Unknown,Manchester Utd vs Leeds,2-2,-196.0,355.0,537.0
+2022/2023,Unknown,Tottenham vs Manchester City,1-0,299.0,287.0,-112.0
+2022/2023,Unknown,Nottingham vs Leeds,1-0,177.0,240.0,160.0
+2022/2023,Unknown,Newcastle vs West Ham,1-1,-149.0,287.0,455.0
+2022/2023,Unknown,Aston Villa vs Leicester,2-4,110.0,250.0,257.0
+2022/2023,Unknown,Brentford vs Southampton,3-0,-130.0,272.0,393.0
+2022/2023,Unknown,Brighton vs Bournemouth,1-0,-263.0,419.0,717.0
+2022/2023,Unknown,Manchester Utd vs Crystal Palace,2-1,-270.0,405.0,789.0
+2022/2023,Unknown,Wolves vs Liverpool,3-0,297.0,278.0,-110.0
+2022/2023,Unknown,Everton vs Arsenal,1-0,685.0,334.0,-213.0
+2022/2023,Unknown,Chelsea vs Fulham,0-0,-167.0,315.0,490.0
+2022/2023,Unknown,Fulham vs Tottenham,0-1,229.0,281.0,112.0
+2022/2023,Unknown,Arsenal vs Manchester Utd,3-2,-115.0,280.0,319.0
+2022/2023,Unknown,Leeds vs Brentford,0-0,138.0,256.0,196.0
+2022/2023,Unknown,Manchester City vs Wolves,3-0,-400.0,542.0,1080.0
+2022/2023,Unknown,Crystal Palace vs Newcastle,0-0,353.0,262.0,-118.0
+2022/2023,Unknown,Bournemouth vs Nottingham,1-1,186.0,219.0,166.0
+2022/2023,Unknown,Leicester vs Brighton,2-2,313.0,293.0,-118.0
+2022/2023,Unknown,Southampton vs Aston Villa,0-1,168.0,221.0,184.0
+2022/2023,Unknown,West Ham vs Everton,2-0,-119.0,258.0,362.0
+2022/2023,Unknown,Liverpool vs Chelsea,0-0,106.0,260.0,269.0
+2022/2023,Unknown,Manchester City vs Tottenham,4-2,-200.0,374.0,534.0
+2022/2023,Unknown,Crystal Palace vs Manchester Utd,1-1,426.0,298.0,-147.0
+2022/2023,Unknown,Tottenham vs Arsenal,0-2,239.0,250.0,119.0
+2022/2023,Unknown,Chelsea vs Crystal Palace,1-0,-114.0,247.0,358.0
+2022/2023,Unknown,Newcastle vs Fulham,1-0,-204.0,359.0,575.0
+2022/2023,Unknown,Brentford vs Bournemouth,2-0,-161.0,305.0,476.0
+2022/2023,Unknown,Brighton vs Liverpool,3-0,193.0,277.0,131.0
+2022/2023,Unknown,Everton vs Southampton,1-2,138.0,222.0,222.0
+2022/2023,Unknown,Nottingham vs Leicester,2-0,172.0,216.0,181.0
+2022/2023,Unknown,Wolves vs West Ham,1-0,150.0,218.0,206.0
+2022/2023,Unknown,Manchester Utd vs Manchester City,2-1,298.0,294.0,-112.0
+2022/2023,Unknown,Aston Villa vs Leeds,2-1,102.0,262.0,272.0
+2022/2023,Unknown,Fulham vs Chelsea,2-1,301.0,241.0,102.0
+2022/2023,Unknown,Chelsea vs Manchester City,0-1,418.0,315.0,-152.0
+2022/2023,Unknown,Aston Villa vs Wolves,1-1,-105.0,249.0,316.0
+2022/2023,Unknown,Crystal Palace vs Tottenham,0-4,231.0,241.0,125.0
+2022/2023,Unknown,Leeds vs West Ham,2-2,186.0,240.0,152.0
+2022/2023,Unknown,Southampton vs Nottingham,0-1,137.0,229.0,216.0
+2022/2023,Unknown,Manchester Utd vs Bournemouth,3-0,-370.0,516.0,1053.0
+2022/2023,Unknown,Arsenal vs Newcastle,0-0,-132.0,288.0,372.0
+2022/2023,Unknown,Everton vs Brighton,1-4,221.0,234.0,135.0
+2022/2023,Unknown,Leicester vs Fulham,0-1,137.0,259.0,197.0
+2022/2023,Unknown,Brentford vs Liverpool,3-1,509.0,357.0,-192.0
+2022/2023,Unknown,Nottingham vs Chelsea,1-1,473.0,308.0,-164.0
+2022/2023,Unknown,Tottenham vs Aston Villa,0-2,-152.0,317.0,408.0
+2022/2023,Unknown,Brighton vs Arsenal,2-4,326.0,268.0,-114.0
+2022/2023,Unknown,Bournemouth vs Crystal Palace,0-2,195.0,218.0,159.0
+2022/2023,Unknown,Fulham vs Southampton,2-1,-120.0,279.0,336.0
+2022/2023,Unknown,Manchester City vs Everton,1-1,-667.0,739.0,1798.0
+2022/2023,Unknown,Newcastle vs Leeds,0-0,-217.0,372.0,579.0
+2022/2023,Unknown,Wolves vs Manchester Utd,0-1,308.0,264.0,-108.0
+2022/2023,Unknown,Liverpool vs Leicester,2-1,-385.0,536.0,1047.0
+2022/2023,Unknown,West Ham vs Brentford,0-2,104.0,261.0,259.0
+2022/2023,Unknown,Leeds vs Manchester City,1-3,900.0,528.0,-357.0
+2022/2023,Unknown,Manchester Utd vs Nottingham,3-0,-294.0,451.0,780.0
+2022/2023,Unknown,Chelsea vs Bournemouth,2-0,-286.0,434.0,800.0
+2022/2023,Unknown,Arsenal vs West Ham,3-1,-182.0,328.0,530.0
+2022/2023,Unknown,Aston Villa vs Liverpool,1-3,376.0,305.0,-141.0
+2022/2023,Unknown,Crystal Palace vs Fulham,0-3,122.0,252.0,227.0
+2022/2023,Unknown,Everton vs Wolves,1-2,150.0,223.0,202.0
+2022/2023,Unknown,Leicester vs Newcastle,0-3,243.0,252.0,114.0
+2022/2023,Unknown,Southampton vs Brighton,1-3,256.0,249.0,110.0
+2022/2023,Unknown,Brentford vs Tottenham,2-2,249.0,267.0,108.0
+2022/2023,Unknown,Fulham vs Manchester Utd,1-2,313.0,279.0,-114.0
+2022/2023,Unknown,Brighton vs Aston Villa,1-2,-132.0,279.0,390.0
+2022/2023,Unknown,Wolves vs Arsenal,0-2,540.0,316.0,-182.0
+2022/2023,Unknown,Newcastle vs Chelsea,1-0,120.0,241.0,246.0
+2022/2023,Unknown,Bournemouth vs Everton,3-0,181.0,223.0,167.0
+2022/2023,Unknown,Liverpool vs Southampton,3-1,-385.0,548.0,958.0
+2022/2023,Unknown,Nottingham vs Crystal Palace,1-0,231.0,218.0,136.0
+2022/2023,Unknown,Tottenham vs Leeds,4-3,-159.0,330.0,421.0
+2022/2023,Unknown,West Ham vs Leicester,0-2,110.0,250.0,261.0
+2022/2023,Unknown,Manchester City vs Brentford,1-2,-667.0,749.0,1752.0
+2022/2023,Unknown,Tottenham vs Liverpool,1-2,247.0,279.0,104.0
+2022/2023,Unknown,Aston Villa vs Manchester Utd,3-1,220.0,249.0,125.0
+2022/2023,Unknown,Southampton vs Newcastle,1-4,338.0,275.0,-120.0
+2022/2023,Unknown,West Ham vs Crystal Palace,1-2,-112.0,252.0,338.0
+2022/2023,Unknown,Chelsea vs Arsenal,0-1,175.0,241.0,162.0
+2022/2023,Unknown,Everton vs Leicester,0-2,150.0,236.0,193.0
+2022/2023,Unknown,Leeds vs Bournemouth,4-3,-156.0,313.0,430.0
+2022/2023,Unknown,Manchester City vs Fulham,2-1,-588.0,726.0,1478.0
+2022/2023,Unknown,Nottingham vs Brentford,2-2,164.0,223.0,186.0
+2022/2023,Unknown,Wolves vs Brighton,2-3,258.0,231.0,118.0
+2022/2023,Unknown,Manchester Utd vs West Ham,1-0,-141.0,292.0,404.0
+2022/2023,Unknown,Arsenal vs Nottingham,5-0,-455.0,583.0,1249.0
+2022/2023,Unknown,Liverpool vs Leeds,1-2,-435.0,602.0,1099.0
+2022/2023,Unknown,Fulham vs Everton,0-0,127.0,244.0,223.0
+2022/2023,Unknown,Bournemouth vs Tottenham,2-3,401.0,278.0,-135.0
+2022/2023,Unknown,Brentford vs Wolves,1-1,118.0,245.0,242.0
+2022/2023,Unknown,Brighton vs Chelsea,4-1,212.0,237.0,137.0
+2022/2023,Unknown,Crystal Palace vs Southampton,1-0,108.0,243.0,277.0
+2022/2023,Unknown,Newcastle vs Aston Villa,4-0,-130.0,285.0,369.0
+2022/2023,Unknown,Leicester vs Manchester City,0-1,662.0,405.0,-250.0
+2022/2023,Unknown,West Ham vs Bournemouth,2-0,-164.0,304.0,490.0
+2022/2023,Unknown,Tottenham vs Newcastle,1-2,121.0,246.0,236.0
+2022/2023,Unknown,Aston Villa vs Brentford,4-0,106.0,252.0,265.0
+2022/2023,Unknown,Leeds vs Fulham,2-3,108.0,273.0,242.0
+2022/2023,Unknown,Southampton vs Arsenal,1-1,593.0,363.0,-213.0
+2022/2023,Unknown,Wolves vs Leicester,0-4,136.0,235.0,215.0
+2022/2023,Unknown,Chelsea vs Manchester Utd,1-1,114.0,258.0,243.0
+2022/2023,Unknown,Everton vs Crystal Palace,3-0,152.0,215.0,206.0
+2022/2023,Unknown,Manchester City vs Brighton,3-1,-435.0,573.0,1217.0
+2022/2023,Unknown,Nottingham vs Liverpool,1-0,791.0,447.0,-286.0
+2022/2023,Unknown,Leicester vs Leeds,2-0,129.0,254.0,211.0
+2022/2023,Unknown,Fulham vs Aston Villa,3-0,197.0,242.0,144.0
+2022/2023,Unknown,Manchester Utd vs Tottenham,2-0,139.0,250.0,197.0
+2022/2023,Unknown,Bournemouth vs Southampton,0-1,166.0,224.0,181.0
+2022/2023,Unknown,Brentford vs Chelsea,0-0,342.0,273.0,-120.0
+2022/2023,Unknown,Liverpool vs West Ham,1-0,-238.0,401.0,625.0
+2022/2023,Unknown,Newcastle vs Everton,1-0,-147.0,292.0,432.0
+2022/2023,Unknown,Crystal Palace vs Wolves,2-1,112.0,231.0,277.0
+2022/2023,Unknown,Brighton vs Nottingham,0-0,-256.0,398.0,731.0
+2022/2023,Unknown,Liverpool vs Manchester City,1-0,283.0,311.0,-115.0
+2022/2023,Unknown,Aston Villa vs Chelsea,0-2,301.0,250.0,-101.0
+2022/2023,Unknown,Leeds vs Arsenal,0-1,418.0,323.0,-156.0
+2022/2023,Unknown,Manchester Utd vs Newcastle,0-0,106.0,269.0,256.0
+2022/2023,Unknown,Southampton vs West Ham,1-1,199.0,237.0,145.0
+2022/2023,Unknown,Tottenham vs Everton,2-0,-213.0,367.0,611.0
+2022/2023,Unknown,Fulham vs Bournemouth,2-2,-104.0,262.0,295.0
+2022/2023,Unknown,Wolves vs Nottingham,1-0,-137.0,282.0,404.0
+2022/2023,Unknown,Leicester vs Crystal Palace,0-0,139.0,248.0,200.0
+2022/2023,Unknown,Brentford vs Brighton,2-0,225.0,247.0,125.0
+2022/2023,Unknown,Nottingham vs Aston Villa,1-1,275.0,262.0,102.0
+2022/2023,Unknown,Everton vs Manchester Utd,1-2,262.0,259.0,106.0
+2022/2023,Unknown,Arsenal vs Liverpool,3-2,152.0,277.0,166.0
+2022/2023,Unknown,Crystal Palace vs Leeds,2-1,106.0,258.0,262.0
+2022/2023,Unknown,West Ham vs Fulham,3-1,-156.0,303.0,453.0
+2022/2023,Unknown,Brighton vs Tottenham,0-1,159.0,231.0,184.0
+2022/2023,Unknown,Bournemouth vs Leicester,2-1,229.0,252.0,121.0
+2022/2023,Unknown,Chelsea vs Wolves,3-0,-200.0,334.0,608.0
+2022/2023,Unknown,Manchester City vs Southampton,4-0,-833.0,932.0,2077.0
+2022/2023,Unknown,Newcastle vs Brentford,5-1,-145.0,301.0,407.0
+2022/2023,Unknown,Leicester vs Nottingham,4-0,-141.0,308.0,376.0
+2022/2023,Unknown,Leeds vs Aston Villa,0-0,143.0,242.0,199.0
+2022/2023,Unknown,Manchester City vs Manchester Utd,6-3,-233.0,436.0,560.0
+2022/2023,Unknown,West Ham vs Wolves,2-0,102.0,238.0,298.0
+2022/2023,Unknown,Bournemouth vs Brentford,0-0,221.0,249.0,127.0
+2022/2023,Unknown,Crystal Palace vs Chelsea,1-2,384.0,274.0,-130.0
+2022/2023,Unknown,Fulham vs Newcastle,1-4,193.0,243.0,147.0
+2022/2023,Unknown,Liverpool vs Brighton,3-3,-217.0,379.0,575.0
+2022/2023,Unknown,Southampton vs Everton,1-2,131.0,231.0,225.0
+2022/2023,Unknown,Arsenal vs Tottenham,3-1,-101.0,272.0,277.0
+2022/2023,Unknown,Everton vs West Ham,1-0,193.0,229.0,154.0
+2022/2023,Unknown,Brentford vs Arsenal,0-3,355.0,291.0,-128.0
+2022/2023,Unknown,Tottenham vs Leicester,6-2,-196.0,355.0,542.0
+2022/2023,Unknown,Newcastle vs Bournemouth,1-1,-244.0,382.0,697.0
+2022/2023,Unknown,Wolves vs Manchester City,0-3,808.0,458.0,-303.0
+2022/2023,Unknown,Aston Villa vs Southampton,1-0,106.0,256.0,265.0
+2022/2023,Unknown,Nottingham vs Fulham,2-3,181.0,238.0,159.0
+2022/2023,Unknown,Manchester Utd vs Arsenal,3-1,165.0,250.0,167.0
+2022/2023,Unknown,Brighton vs Leicester,5-2,-109.0,256.0,323.0
+2022/2023,Unknown,Aston Villa vs Manchester City,1-1,811.0,482.0,-312.0
+2022/2023,Unknown,Brentford vs Leeds,5-2,114.0,258.0,239.0
+2022/2023,Unknown,Chelsea vs West Ham,2-1,-154.0,305.0,442.0
+2022/2023,Unknown,Newcastle vs Crystal Palace,0-0,106.0,243.0,279.0
+2022/2023,Unknown,Nottingham vs Bournemouth,2-3,116.0,238.0,258.0
+2022/2023,Unknown,Tottenham vs Fulham,2-1,-192.0,355.0,526.0
+2022/2023,Unknown,Wolves vs Southampton,1-0,116.0,247.0,247.0
+2022/2023,Unknown,Everton vs Liverpool,0-0,672.0,421.0,-256.0
+2022/2023,Unknown,Leicester vs Manchester Utd,0-1,229.0,276.0,112.0
+2022/2023,Unknown,Liverpool vs Newcastle,2-1,-345.0,519.0,924.0
+2022/2023,Unknown,West Ham vs Tottenham,1-1,235.0,257.0,118.0
+2022/2023,Unknown,Arsenal vs Aston Villa,2-1,-189.0,349.0,517.0
+2022/2023,Unknown,Bournemouth vs Wolves,0-0,231.0,225.0,133.0
+2022/2023,Unknown,Manchester City vs Nottingham,6-0,-1111.0,1103.0,2774.0
+2022/2023,Unknown,Leeds vs Everton,1-1,110.0,261.0,249.0
+2022/2023,Unknown,Southampton vs Chelsea,2-1,424.0,311.0,-154.0
+2022/2023,Unknown,Crystal Palace vs Brentford,1-1,108.0,246.0,270.0
+2022/2023,Unknown,Fulham vs Brighton,2-1,231.0,225.0,133.0
+2022/2023,Unknown,Nottingham vs Tottenham,0-2,598.0,379.0,-222.0
+2022/2023,Unknown,Aston Villa vs West Ham,0-1,110.0,246.0,267.0
+2022/2023,Unknown,Wolves vs Newcastle,1-1,156.0,229.0,189.0
+2022/2023,Unknown,Arsenal vs Fulham,2-1,-256.0,426.0,658.0
+2022/2023,Unknown,Brentford vs Everton,1-1,110.0,244.0,269.0
+2022/2023,Unknown,Brighton vs Leeds,1-0,-133.0,288.0,374.0
+2022/2023,Unknown,Chelsea vs Leicester,2-1,-244.0,407.0,667.0
+2022/2023,Unknown,Liverpool vs Bournemouth,9-0,-714.0,788.0,1782.0
+2022/2023,Unknown,Manchester City vs Crystal Palace,4-2,-526.0,658.0,1439.0
+2022/2023,Unknown,Southampton vs Manchester Utd,0-1,266.0,294.0,-105.0
+2022/2023,Unknown,Manchester Utd vs Liverpool,2-1,363.0,334.0,-145.0
+2022/2023,Unknown,Newcastle vs Manchester City,3-3,607.0,395.0,-227.0
+2022/2023,Unknown,Leeds vs Chelsea,3-0,505.0,359.0,-192.0
+2022/2023,Unknown,West Ham vs Brighton,0-2,148.0,238.0,194.0
+2022/2023,Unknown,Bournemouth vs Arsenal,0-3,669.0,373.0,-233.0
+2022/2023,Unknown,Crystal Palace vs Aston Villa,3-1,150.0,223.0,202.0
+2022/2023,Unknown,Everton vs Nottingham,1-1,-109.0,252.0,332.0
+2022/2023,Unknown,Fulham vs Brentford,3-2,166.0,238.0,173.0
+2022/2023,Unknown,Leicester vs Southampton,1-2,-130.0,309.0,338.0
+2022/2023,Unknown,Tottenham vs Wolves,1-0,-227.0,380.0,629.0
+2022/2023,Unknown,Liverpool vs Crystal Palace,1-1,-385.0,525.0,1100.0
+2022/2023,Unknown,Chelsea vs Tottenham,2-2,117.0,249.0,243.0
+2022/2023,Unknown,Nottingham vs West Ham,1-0,305.0,261.0,-106.0
+2022/2023,Unknown,Brentford vs Manchester Utd,4-0,340.0,288.0,-123.0
+2022/2023,Unknown,Arsenal vs Leicester,4-2,-179.0,338.0,491.0
+2022/2023,Unknown,Brighton vs Newcastle,0-0,144.0,227.0,206.0
+2022/2023,Unknown,Manchester City vs Bournemouth,4-0,-1250.0,1191.0,3117.0
+2022/2023,Unknown,Southampton vs Leeds,2-2,145.0,257.0,185.0
+2022/2023,Unknown,Wolves vs Fulham,0-0,121.0,241.0,242.0
+2022/2023,Unknown,Aston Villa vs Everton,2-1,-128.0,262.0,397.0
+2022/2023,Unknown,West Ham vs Manchester City,0-2,700.0,426.0,-263.0
+2022/2023,Unknown,Leicester vs Brentford,2-2,-111.0,268.0,315.0
+2022/2023,Unknown,Manchester Utd vs Brighton,1-2,-130.0,277.0,373.0
+2022/2023,Unknown,Everton vs Chelsea,0-1,558.0,307.0,-179.0
+2022/2023,Unknown,Bournemouth vs Aston Villa,2-0,299.0,248.0,100.0
+2022/2023,Unknown,Leeds vs Wolves,2-1,143.0,237.0,202.0
+2022/2023,Unknown,Newcastle vs Nottingham,2-0,-169.0,307.0,503.0
+2022/2023,Unknown,Tottenham vs Southampton,4-1,-270.0,423.0,759.0
+2022/2023,Unknown,Fulham vs Liverpool,2-2,950.0,522.0,-357.0
+2022/2023,Unknown,Crystal Palace vs Arsenal,0-2,361.0,260.0,-119.0
