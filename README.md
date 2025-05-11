@@ -37,11 +37,4 @@ We experimented with several models:
 
 ---
 
-### ✅ What's Next?
-- Apply this framework across **other seasons** or leagues
-- Incorporate live-data APIs and update predictions in real-time
-- Explore ensemble models or calibrate probabilities for sharper expected values
-
----
-
 🧠 Built with Python, Scikit-learn, XGBoost, and a lot of Premier League obsession.
